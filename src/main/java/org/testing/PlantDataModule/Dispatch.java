@@ -24,24 +24,24 @@ public class Dispatch {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(50));
         try {
             driver.get("https://subs3.quickdrycleaning.com/Login");
-            //String userId = System.getenv("USER_ID");
-            //String userPass = System.getenv("USER_PASS");
-            //String userCode = System.getenv("USER_CODE");
+            String userId = System.getenv("USER_ID");
+            String userPass = System.getenv("USER_PASS");
+            String userCode = System.getenv("USER_CODE");
 
             WebElement popUpField = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("Button3")));
             ButtonClickClass.clickButton(driver,popUpField);
 
             WebElement userField = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("txtUserId")));
             userField.clear();
-            userField.sendKeys("Wadmin");
+            userField.sendKeys(userId);
 
             WebElement passField = driver.findElement(By.id("txtPassword"));
             passField.clear();
-            passField.sendKeys("9953088188");
+            passField.sendKeys(userPass);
 
             WebElement codeField = driver.findElement(By.id("txtBranchPin"));
             codeField.clear();
-            codeField.sendKeys("WSGP");
+            codeField.sendKeys(userCode);
 
             WebElement loginBtn = driver.findElement(By.id("btnLogin"));
             ButtonClickClass.clickButton(driver,loginBtn);
