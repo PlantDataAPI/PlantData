@@ -38,7 +38,7 @@ jobs:
           install-chromedriver: true
 
       - name: Create Output Directory
-        run: mkdir -p src/main/resources/Output/
+        run: mkdir -p src/main/resources/Output/PlantDataApi/
 
       - name: Run Selenium Scraper
         run: mvn compile exec:java -D"exec.mainClass"="org.testing.Main"
@@ -55,7 +55,7 @@ jobs:
           
           BRANCH=$(git rev-parse --abbrev-ref HEAD)
       
-          git add src/main/resources/Output/
+          git add src/main/resources/Output/PlantDataApi/
           
           if ! git diff --cached --quiet; then
               echo "Changes detected in Output folder. Committing updates..."
