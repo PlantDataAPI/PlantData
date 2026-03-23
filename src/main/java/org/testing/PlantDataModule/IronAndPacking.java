@@ -55,13 +55,14 @@ public class IronAndPacking {
             ButtonClickClass.clickButton(driver,rangeButton);
             WebElement selectCalendar = driver.findElement(By.xpath("//div[@class='daterangepicker dropdown-menu ltr opensleft']/div[2]/ul/li[last()]"));
             ButtonClickClass.clickButton(driver,selectCalendar);
+             String currentDate = "";
             try
             {
-                String currentDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='today weekend available']")).getText();
+                currentDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='today weekend available']")).getText();
             }
              catch (Exception e) 
             {
-                String currentDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='today available']")).getText();
+                currentDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='today available']")).getText();
             }
             int rangeIntValue = Integer.parseInt(currentDate) - 2;
             String rangeValue = String.valueOf(rangeIntValue);
