@@ -17,6 +17,15 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "C4686",
+  "Due Date" : "25 Mar 2026",
+  "Barcode" : "*C4686-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Garment 1",
+  "Service" : "LA",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "D3003",
   "Due Date" : "19 Mar 2026",
   "Barcode" : "*D3003-1-5*",
@@ -256,87 +265,6 @@
   "Barcode" : "*G18492-26-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Sweater (Full Sleeve)",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3366",
-  "Due Date" : "25 Mar 2026",
-  "Barcode" : "*S3366-2-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Sweater (Full Sleeve)",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3366",
-  "Due Date" : "25 Mar 2026",
-  "Barcode" : "*S3366-3-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Sweater (Full Sleeve)",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3366",
-  "Due Date" : "25 Mar 2026",
-  "Barcode" : "*S3366-4-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Sweat Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3366",
-  "Due Date" : "25 Mar 2026",
-  "Barcode" : "*S3366-5-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Sweater Half",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3366",
-  "Due Date" : "25 Mar 2026",
-  "Barcode" : "*S3366-7-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Sweater Half",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3366",
-  "Due Date" : "25 Mar 2026",
-  "Barcode" : "*S3366-9-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3366",
-  "Due Date" : "25 Mar 2026",
-  "Barcode" : "*S3366-10-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3367",
-  "Due Date" : "26 Mar 2026",
-  "Barcode" : "*S3367-4-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Jacket Half",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3367",
-  "Due Date" : "26 Mar 2026",
-  "Barcode" : "*S3367-5-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
