@@ -39,6 +39,30 @@
   "Service" : "DC",
   "Sent from store" : "23 Mar 2026 11:33:10 AM"
 }, {
+  "Order" : "C4693",
+  "Due Date" : "29 Mar 2026",
+  "Barcode" : "*C4693-1-3*",
+  "Customer" : "manish  dewan",
+  "Garment" : "Jeans",
+  "Service" : "DC",
+  "Sent from store" : "23 Mar 2026 11:33:10 AM"
+}, {
+  "Order" : "D3019",
+  "Due Date" : "29 Mar 2026",
+  "Barcode" : "*D3019-1-5*",
+  "Customer" : "Mr Rajat",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Sent from store" : "23 Mar 2026 5:14:24 PM"
+}, {
+  "Order" : "D3019",
+  "Due Date" : "29 Mar 2026",
+  "Barcode" : "*D3019-2-5*",
+  "Customer" : "Mr Rajat",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Sent from store" : "23 Mar 2026 5:14:24 PM"
+}, {
   "Order" : "G18502",
   "Due Date" : "25 Mar 2026",
   "Barcode" : "*G18502-3-1*",
@@ -79,11 +103,27 @@
   "Service" : "SPO",
   "Sent from store" : "23 Mar 2026 11:33:10 AM"
 }, {
+  "Order" : "G18513",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18513-1-1*",
+  "Customer" : "Mrs manusi",
+  "Garment" : "Carpet",
+  "Service" : "DC",
+  "Sent from store" : "23 Mar 2026 11:33:10 AM"
+}, {
   "Order" : "S3369",
   "Due Date" : "27 Mar 2026",
   "Barcode" : "*S3369-4-4*",
   "Customer" : "MANSHI",
   "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "23 Mar 2026 11:33:10 AM"
+}, {
+  "Order" : "S3370",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*S3370-1-4*",
+  "Customer" : "vikram singh",
+  "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "23 Mar 2026 11:33:10 AM"
 } ]
