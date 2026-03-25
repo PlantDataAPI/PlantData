@@ -45,7 +45,7 @@ public class Processing {
 
             WebElement loginBtn = driver.findElement(By.id("btnLogin"));
             ButtonClickClass.clickButton(driver,loginBtn);
-            WebElement processButton = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@class='card card-sidebar-mobile']/ul/li[3]")));
+            WebElement processButton = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@class='card card-sidebar-mobile']/ul/li[3]/a")));
             ButtonClickClass.clickButton(driver,processButton);
             WebElement receivedAtPlant = driver.findElement(By.xpath("//div[@class='card card-sidebar-mobile']/ul/li[3]/ul/li[1]"));
             ButtonClickClass.clickButton(driver, receivedAtPlant);
