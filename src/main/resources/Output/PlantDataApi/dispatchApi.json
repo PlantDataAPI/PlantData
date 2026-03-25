@@ -161,6 +161,24 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "D3017",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*D3017-1-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3018",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*D3018-1-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "G18450",
   "Due Date" : "21 Mar 2026",
   "Barcode" : "*G18450-2-1*",
@@ -535,6 +553,51 @@
   "Barcode" : "*G18509-8-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18510",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18510-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18512",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18512-9-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Quilt Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18512",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18512-10-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Blanket Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18512",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18512-11-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Blanket Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18512",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18512-12-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Blanket Single",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
