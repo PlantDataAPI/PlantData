@@ -1,4 +1,13 @@
 [ {
+  "Order" : "C4682",
+  "Due Date" : "25 Mar 2026",
+  "Barcode" : "*C4682-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "C4683",
   "Due Date" : "25 Mar 2026",
   "Barcode" : "*C4683-2-3*",
@@ -598,6 +607,15 @@
   "Barcode" : "*G18512-12-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Blanket Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3370",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*S3370-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
