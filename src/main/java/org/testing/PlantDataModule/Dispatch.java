@@ -69,7 +69,13 @@ public class Dispatch {
             String rangeValue = String.valueOf(rangeIntValue);
             WebElement previousMonthYesterdayDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr/td[contains(text(),'"+rangeValue+"')]"));
             ButtonClickClass.clickButton(driver,previousMonthYesterdayDate);
-            WebElement currentMonthYesterdayDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[contains(text(),'"+rangeValue+"')]"));
+            WebElement currentMonthYesterdayDate;
+            try
+            {
+                currentMonthYesterdayDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='available' and contains(text(),'"+rangeValue+"')]"));
+            } catch (Exception e) {
+                currentMonthYesterdayDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='weekend available' and contains(text(),'"+rangeValue+"')]"));
+            }
             ButtonClickClass.clickButton(driver,currentMonthYesterdayDate);
             WebElement submitButton = driver.findElement(By.xpath("//div[@class='ranges']/div[last()]/button[contains(text(),'Submit')]"));
             ButtonClickClass.clickButton(driver,submitButton);
