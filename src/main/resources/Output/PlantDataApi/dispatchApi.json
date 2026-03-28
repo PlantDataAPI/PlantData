@@ -397,6 +397,15 @@
 }, {
   "Order" : "G18517",
   "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18517-3-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Dupatta (Light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18517",
+  "Due Date" : "26 Mar 2026",
   "Barcode" : "*G18517-4-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Salwar",
@@ -427,6 +436,42 @@
   "Barcode" : "*G18517-7-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Salwar",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18517",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18517-8-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18517",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18517-9-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18517",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18517-10-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18517",
+  "Due Date" : "26 Mar 2026",
+  "Barcode" : "*G18517-11-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kameez /Kurta (light)",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
@@ -589,6 +634,24 @@
   "Barcode" : "*G18520-8-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Sweat Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18520",
+  "Due Date" : "28 Mar 2026",
+  "Barcode" : "*G18520-9-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18520",
+  "Due Date" : "28 Mar 2026",
+  "Barcode" : "*G18520-10-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kameez /Kurta (light)",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
@@ -832,69 +895,6 @@
   "Barcode" : "*G18523-6-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Track Pant",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G18524",
-  "Due Date" : "27 Mar 2026",
-  "Barcode" : "*G18524-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pants",
-  "Service" : "SPO",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G18524",
-  "Due Date" : "27 Mar 2026",
-  "Barcode" : "*G18524-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "SPO",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G18524",
-  "Due Date" : "27 Mar 2026",
-  "Barcode" : "*G18524-3-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "SPO",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G18524",
-  "Due Date" : "27 Mar 2026",
-  "Barcode" : "*G18524-4-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "SPO",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G18525",
-  "Due Date" : "27 Mar 2026",
-  "Barcode" : "*G18525-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G18525",
-  "Due Date" : "27 Mar 2026",
-  "Barcode" : "*G18525-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G18525",
-  "Due Date" : "27 Mar 2026",
-  "Barcode" : "*G18525-3-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "T Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
