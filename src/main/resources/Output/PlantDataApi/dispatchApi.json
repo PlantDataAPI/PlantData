@@ -566,6 +566,15 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "G18518",
+  "Due Date" : "27 Mar 2026",
+  "Barcode" : "*G18518-13-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "G18519",
   "Due Date" : "27 Mar 2026",
   "Barcode" : "*G18519-1-1*",
@@ -884,15 +893,6 @@
   "Order" : "G18523",
   "Due Date" : "28 Mar 2026",
   "Barcode" : "*G18523-5-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Track Pant",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G18523",
-  "Due Date" : "28 Mar 2026",
-  "Barcode" : "*G18523-6-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Track Pant",
   "Service" : "DC",
