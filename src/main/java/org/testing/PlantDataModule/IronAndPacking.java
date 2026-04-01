@@ -48,36 +48,9 @@ public class IronAndPacking {
             ButtonClickClass.clickButton(driver,processButton);
             WebElement ironAndPackingButton = driver.findElement(By.xpath("//div[@class='card card-sidebar-mobile']/ul/li[3]/ul/li[last()-1]/a"));
             ButtonClickClass.clickButton(driver, ironAndPackingButton);
-            WebElement rangeButton = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("reportrange")));
-            ButtonClickClass.clickButton(driver,rangeButton);
-            WebElement selectPreviousMonth = driver.findElement(By.xpath("//div[@class='daterangepicker dropdown-menu ltr opensleft']/div[2]/ul/li[last()-5]"));
-            ButtonClickClass.clickButton(driver,selectPreviousMonth);
-            ButtonClickClass.clickButton(driver,rangeButton);
-            WebElement selectCalendar = driver.findElement(By.xpath("//div[@class='daterangepicker dropdown-menu ltr opensleft']/div[2]/ul/li[last()]"));
-            ButtonClickClass.clickButton(driver,selectCalendar);
-             String currentDate = "";
-            try
-            {
-                currentDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='today weekend available']")).getText();
-            }
-             catch (Exception e) 
-            {
-                currentDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='today available']")).getText();
-            }
-            int rangeIntValue = Integer.parseInt(currentDate) - 2;
-            String rangeValue = String.valueOf(rangeIntValue);
-            WebElement previousMonthYesterdayDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr/td[contains(text(),'"+rangeValue+"')]"));
-            ButtonClickClass.clickButton(driver,previousMonthYesterdayDate);
-            WebElement currentMonthYesterdayDate;
-            try
-            {
-                currentMonthYesterdayDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='available' and contains(text(),'"+rangeValue+"')]"));
-            } catch (Exception e) {
-                currentMonthYesterdayDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='weekend available' and contains(text(),'"+rangeValue+"')]"));
-            }
-            ButtonClickClass.clickButton(driver,currentMonthYesterdayDate);
-            WebElement submitButton = driver.findElement(By.xpath("//div[@class='ranges']/div[last()]/button[contains(text(),'Submit')]"));
-            ButtonClickClass.clickButton(driver,submitButton);
+            String currentDateValue = FilterCalendarUser.getCalendarAsPerRequirement(wait, driver, 2);
+            System.out.println("Iron and Packing Start Date Value is "+currentDateValue);
+
             List<Map<String, String>> processingDataJsonList = new ArrayList<>();
             List<String> allowedHeaders = Arrays.asList(
                     "Order",
