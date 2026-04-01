@@ -89,6 +89,7 @@ public class Dispatch {
                 }
                 processingDataJsonList.add(jsonObject);
             }
+			System.out.println("Dispatch total data count is "+processingDataJsonList.size());
             WebElement dropDownForLogoutBtn = driver.findElement(By.xpath("//ul[@class='navbar-nav']/li[2]"));
             ButtonClickClass.clickButton(driver,dropDownForLogoutBtn);
             WebElement logoutBtn = driver.findElement(By.xpath("//ul[@class='navbar-nav']/li[2]/div/a[@id='btnLogOut']"));
