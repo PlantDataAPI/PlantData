@@ -11,7 +11,6 @@ public class FilterCalendarUser {
     public static String getCalendarAsPerRequirement(WebDriverWait wait, WebDriver driver, int rangeValue)
     {
         String rangeStringValue="";
-        rangeValue -= 1;
         WebElement rangeButton = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("reportrange")));
         ButtonClickClass.clickButton(driver,rangeButton);
         WebElement selectPreviousMonth = driver.findElement(By.xpath("//div[@class='daterangepicker dropdown-menu ltr opensleft']/div[2]/ul/li[last()-5]"));
@@ -31,26 +30,26 @@ public class FilterCalendarUser {
         int rangeIntValue = Integer.parseInt(currentDate);
         if(rangeIntValue <= 3 )
         {
+            String endMonthDate="";
             try
             {
-                currentDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr[last()]/td[@class='active end-date in-range available']")).getText();
+                endMonthDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr[last()]/td[@class='active end-date in-range available']")).getText();
             }
             catch (Exception e) {
                 try
                 {
-                    currentDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr[last()]/td[@class='end-date in-range available']")).getText();
+                    endMonthDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr[last()]/td[@class='end-date in-range available']")).getText();
                 } catch (Exception ex) {
                     try
                     {
-                        currentDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr[last()]/td[@class='in-range available']")).getText();
+                        endMonthDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr[last()]/td[@class='in-range available']")).getText();
                     } catch (Exception exc) {
-                        currentDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr[last()]/td[@class='weekend in-range available']")).getText();
+                        endMonthDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr[last()]/td[@class='weekend in-range available']")).getText();
                     }
                 }
             }
-            rangeIntValue = Integer.parseInt(currentDate);
-            rangeIntValue -= rangeValue;
-            rangeStringValue = String.valueOf(rangeIntValue);
+            rangeIntValue += Integer.parseInt(endMonthDate);
+            rangeIntValue = rangeIntValue - rangeValue;
             WebElement previousMonthDate;
             try
             {
@@ -60,6 +59,29 @@ public class FilterCalendarUser {
             }
             System.out.println("Try previousMonthDate is "+previousMonthDate.getText());
             ButtonClickClass.clickButton(driver, previousMonthDate);
+            WebElement currentMonthDate;
+            if(rangeIntValue > Integer.parseInt(endMonthDate))
+            {
+                rangeIntValue -= Integer.parseInt(endMonthDate);
+                rangeStringValue = String.valueOf(rangeIntValue);
+                try {
+                    currentMonthDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='off available' and contains(text(),'" + rangeStringValue + "')]"));
+                } catch (Exception e) {
+                    currentMonthDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='weekend off available' and contains(text(),'" + rangeStringValue + "')]"));
+                }
+                ButtonClickClass.clickButton(driver, currentMonthDate);
+            }
+            else
+            {
+                rangeStringValue = String.valueOf(rangeIntValue);
+                try {
+                    currentMonthDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='available' and contains(text(),'" + rangeStringValue + "')]"));
+                } catch (Exception e) {
+                    currentMonthDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='weekend available' and contains(text(),'" + rangeStringValue + "')]"));
+                }
+                ButtonClickClass.clickButton(driver, currentMonthDate);
+            }
+
         }
         else
         {
@@ -68,14 +90,15 @@ public class FilterCalendarUser {
             WebElement previousMonthDate = driver.findElement(By.xpath("//div[@class='calendar left']/div/table/tbody/tr/td[contains(text(),'" + rangeStringValue + "')]"));
             System.out.println("Catch previousMonthDate is "+previousMonthDate.getText());
             ButtonClickClass.clickButton(driver, previousMonthDate);
+            WebElement currentMonthDate;
+            try {
+                currentMonthDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='available' and contains(text(),'" + rangeStringValue + "')]"));
+            } catch (Exception e) {
+                currentMonthDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='weekend available' and contains(text(),'" + rangeStringValue + "')]"));
+            }
+            ButtonClickClass.clickButton(driver, currentMonthDate);
         }
-        WebElement currentMonthDate;
-        try {
-            currentMonthDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='available' and contains(text(),'" + rangeStringValue + "')]"));
-        } catch (Exception e) {
-            currentMonthDate = driver.findElement(By.xpath("//div[@class='calendar right']/div/table/tbody/tr/td[@class='weekend available' and contains(text(),'" + rangeStringValue + "')]"));
-        }
-        ButtonClickClass.clickButton(driver, currentMonthDate);
+
         WebElement submitButton = driver.findElement(By.xpath("//div[@class='ranges']/div[last()]/button[contains(text(),'Submit')]"));
         ButtonClickClass.clickButton(driver, submitButton);
         return rangeStringValue;
