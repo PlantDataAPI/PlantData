@@ -215,6 +215,24 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "S3387",
+  "Due Date" : "01 Apr 2026",
+  "Barcode" : "*S3387-6-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3387",
+  "Due Date" : "01 Apr 2026",
+  "Barcode" : "*S3387-7-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "S3390",
   "Due Date" : "02 Apr 2026",
   "Barcode" : "*S3390-1-4*",
