@@ -1,1 +1,64 @@
-[ { } ]
+[ {
+  "Order" : "C4718",
+  "Due Date" : "08 Apr 2026",
+  "Barcode" : "*C4718-3-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Blanket Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4728",
+  "Due Date" : "06 Apr 2026",
+  "Barcode" : "*C4728-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Quilt Cover  (Double)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4735",
+  "Due Date" : "10 Apr 2026",
+  "Barcode" : "*C4735-2-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Blanket Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4735",
+  "Due Date" : "10 Apr 2026",
+  "Barcode" : "*C4735-4-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Blanket Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4735",
+  "Due Date" : "10 Apr 2026",
+  "Barcode" : "*C4735-5-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Quilt Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18593",
+  "Due Date" : "03 Apr 2026",
+  "Barcode" : "*G18593-6-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18593",
+  "Due Date" : "03 Apr 2026",
+  "Barcode" : "*G18593-11-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]

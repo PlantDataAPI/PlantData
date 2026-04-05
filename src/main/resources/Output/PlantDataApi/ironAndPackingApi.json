@@ -31,22 +31,6 @@
   "Service" : "LA",
   "Sent from store" : "04 Apr 2026 1:52:00 PM"
 }, {
-  "Order" : "C4728",
-  "Due Date" : "06 Apr 2026",
-  "Barcode" : "*C4728-1-3*",
-  "Customer" : "saumya bhargava",
-  "Garment" : "Quilt Cover  (Double)",
-  "Service" : "DC",
-  "Sent from store" : "04 Apr 2026 1:52:00 PM"
-}, {
-  "Order" : "C4735",
-  "Due Date" : "10 Apr 2026",
-  "Barcode" : "*C4735-2-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Blanket Single",
-  "Service" : "DC",
-  "Sent from store" : "04 Apr 2026 1:52:00 PM"
-}, {
   "Order" : "D3028",
   "Due Date" : "02 Apr 2026",
   "Barcode" : "*D3028-1-5*",
