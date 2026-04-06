@@ -23,14 +23,6 @@
   "Service" : "LC",
   "Sent from store" : "29 Mar 2026 1:13:37 PM"
 }, {
-  "Order" : "C4726",
-  "Due Date" : "06 Apr 2026",
-  "Barcode" : "*C4726-1-3*",
-  "Customer" : "Arunima",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
-  "Sent from store" : "04 Apr 2026 1:52:00 PM"
-}, {
   "Order" : "C4740",
   "Due Date" : "11 Apr 2026",
   "Barcode" : "*C4740-1-3*",
@@ -174,14 +166,6 @@
   "Garment" : "Over Coat",
   "Service" : "DC",
   "Sent from store" : "01 Apr 2026 7:53:00 PM"
-}, {
-  "Order" : "D3039",
-  "Due Date" : "08 Apr 2026",
-  "Barcode" : "*D3039-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "06 Apr 2026 2:54:15 PM"
 }, {
   "Order" : "G18513",
   "Due Date" : "26 Mar 2026",
@@ -470,14 +454,6 @@
   "Garment" : "T Shirt",
   "Service" : "DC",
   "Sent from store" : "04 Apr 2026 1:52:00 PM"
-}, {
-  "Order" : "G18645",
-  "Due Date" : "06 Apr 2026",
-  "Barcode" : "*G18645-1-1*",
-  "Customer" : "gopal chawala",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "05 Apr 2026 5:41:08 PM"
 }, {
   "Order" : "G18646",
   "Due Date" : "08 Apr 2026",
