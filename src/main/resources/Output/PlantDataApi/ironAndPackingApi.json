@@ -183,62 +183,6 @@
   "Service" : "SPO",
   "Sent from store" : "29 Mar 2026 5:46:41 PM"
 }, {
-  "Order" : "G18628",
-  "Due Date" : "06 Apr 2026",
-  "Barcode" : "*G18628-1-1*",
-  "Customer" : "Darsh",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Apr 2026 1:52:00 PM"
-}, {
-  "Order" : "G18704",
-  "Due Date" : "12 Apr 2026",
-  "Barcode" : "*G18704-3-1*",
-  "Customer" : "Mr Pranav",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "09 Apr 2026 4:09:59 PM"
-}, {
-  "Order" : "G18715",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18715-1-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
-  "Order" : "G18715",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18715-2-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
-  "Order" : "G18715",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18715-3-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
-  "Order" : "G18715",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18715-4-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
-  "Order" : "G18715",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18715-5-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
   "Order" : "G18717",
   "Due Date" : "13 Apr 2026",
   "Barcode" : "*G18717-1-1*",
@@ -253,30 +197,6 @@
   "Customer" : "bhawna mishra",
   "Garment" : "Choli / Blouse (Light)",
   "Service" : "SPO",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
-  "Order" : "G18718",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18718-1-1*",
-  "Customer" : "avik",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
-  "Order" : "G18718",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18718-2-1*",
-  "Customer" : "avik",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
-  "Order" : "G18718",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18718-3-1*",
-  "Customer" : "avik",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
   "Sent from store" : "11 Apr 2026 12:58:10 PM"
 }, {
   "Order" : "G18718",

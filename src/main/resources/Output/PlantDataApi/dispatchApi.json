@@ -242,6 +242,15 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "G18628",
+  "Due Date" : "06 Apr 2026",
+  "Barcode" : "*G18628-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "G18699",
   "Due Date" : "12 Apr 2026",
   "Barcode" : "*G18699-1-1*",
@@ -319,6 +328,15 @@
   "Barcode" : "*G18704-2-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G18704",
+  "Due Date" : "12 Apr 2026",
+  "Barcode" : "*G18704-3-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "T Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
