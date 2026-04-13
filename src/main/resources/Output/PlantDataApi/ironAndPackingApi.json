@@ -105,22 +105,6 @@
 }, {
   "Order" : "C4773",
   "Due Date" : "15 Apr 2026",
-  "Barcode" : "*C4773-1-3*",
-  "Customer" : "suraj",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
-  "Order" : "C4773",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*C4773-2-3*",
-  "Customer" : "suraj",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
-  "Order" : "C4773",
-  "Due Date" : "15 Apr 2026",
   "Barcode" : "*C4773-3-3*",
   "Customer" : "suraj",
   "Garment" : "Shirt",
@@ -263,14 +247,6 @@
   "Service" : "DC",
   "Sent from store" : "11 Apr 2026 7:19:44 PM"
 }, {
-  "Order" : "G18728",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*G18728-2-1*",
-  "Customer" : "Rajesh",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Apr 2026 7:19:44 PM"
-}, {
   "Order" : "G18729",
   "Due Date" : "15 Apr 2026",
   "Barcode" : "*G18729-1-1*",
@@ -351,62 +327,6 @@
   "Service" : "DC",
   "Sent from store" : "12 Apr 2026 11:57:24 AM"
 }, {
-  "Order" : "G18735",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*G18735-9-1*",
-  "Customer" : "Mr ashish jaIn",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
-  "Order" : "G18735",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*G18735-10-1*",
-  "Customer" : "Mr ashish jaIn",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
-  "Order" : "G18735",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*G18735-11-1*",
-  "Customer" : "Mr ashish jaIn",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
-  "Order" : "G18735",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*G18735-12-1*",
-  "Customer" : "Mr ashish jaIn",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
-  "Order" : "G18735",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*G18735-13-1*",
-  "Customer" : "Mr ashish jaIn",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
-  "Order" : "G18735",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*G18735-14-1*",
-  "Customer" : "Mr ashish jaIn",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
-  "Order" : "G18737",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*G18737-1-1*",
-  "Customer" : "PALAK",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
   "Order" : "S3420",
   "Due Date" : "15 Apr 2026",
   "Barcode" : "*S3420-1-4*",
@@ -428,14 +348,6 @@
   "Barcode" : "*S3420-3-4*",
   "Customer" : "MRS RUDRA",
   "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "12 Apr 2026 11:57:24 AM"
-}, {
-  "Order" : "S3420",
-  "Due Date" : "15 Apr 2026",
-  "Barcode" : "*S3420-4-4*",
-  "Customer" : "MRS RUDRA",
-  "Garment" : "T Shirt",
   "Service" : "DC",
   "Sent from store" : "12 Apr 2026 11:57:24 AM"
 }, {
