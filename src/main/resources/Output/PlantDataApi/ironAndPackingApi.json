@@ -327,6 +327,238 @@
   "Service" : "DC",
   "Sent from store" : "12 Apr 2026 11:57:24 AM"
 }, {
+  "Order" : "G18739",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18739-4-1*",
+  "Customer" : "amit sharma",
+  "Garment" : "Over Coat",
+  "Service" : "DC",
+  "Sent from store" : "12 Apr 2026 11:57:24 AM"
+}, {
+  "Order" : "G18739",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18739-5-1*",
+  "Customer" : "amit sharma",
+  "Garment" : "Over Coat",
+  "Service" : "DC",
+  "Sent from store" : "12 Apr 2026 11:57:24 AM"
+}, {
+  "Order" : "G18739",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18739-6-1*",
+  "Customer" : "amit sharma",
+  "Garment" : "Over Coat",
+  "Service" : "DC",
+  "Sent from store" : "12 Apr 2026 11:57:24 AM"
+}, {
+  "Order" : "G18739",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18739-7-1*",
+  "Customer" : "amit sharma",
+  "Garment" : "Dress (light)",
+  "Service" : "DC",
+  "Sent from store" : "12 Apr 2026 11:57:24 AM"
+}, {
+  "Order" : "G18740",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18740-3-1*",
+  "Customer" : "neeru sharma",
+  "Garment" : "Pants",
+  "Service" : "SPO",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18740",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18740-8-1*",
+  "Customer" : "neeru sharma",
+  "Garment" : "Dress (light)",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18741",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18741-1-1*",
+  "Customer" : "neeru sharma",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18742",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18742-1-1*",
+  "Customer" : "Nishant",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18743",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18743-2-1*",
+  "Customer" : "grant winfield",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18743",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18743-3-1*",
+  "Customer" : "grant winfield",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18743",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18743-4-1*",
+  "Customer" : "grant winfield",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18743",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18743-5-1*",
+  "Customer" : "grant winfield",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18743",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18743-6-1*",
+  "Customer" : "grant winfield",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18743",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18743-7-1*",
+  "Customer" : "grant winfield",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18743",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18743-8-1*",
+  "Customer" : "grant winfield",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18743",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18743-9-1*",
+  "Customer" : "grant winfield",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-4-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-6-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-7-1*",
+  "Customer" : "s b dey",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-8-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-9-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-10-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-11-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-12-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-13-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-15-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-16-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-17-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
+  "Order" : "G18744",
+  "Due Date" : "16 Apr 2026",
+  "Barcode" : "*G18744-21-1*",
+  "Customer" : "s b dey",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Sent from store" : "13 Apr 2026 3:56:13 PM"
+}, {
   "Order" : "S3420",
   "Due Date" : "15 Apr 2026",
   "Barcode" : "*S3420-1-4*",
