@@ -127,6 +127,14 @@
   "Service" : "WI",
   "Sent from store" : "09 Apr 2026 4:07:40 PM"
 }, {
+  "Order" : "D3054",
+  "Due Date" : "17 Apr 2026",
+  "Barcode" : "*D3054-1-5*",
+  "Customer" : "Katherine",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "16 Apr 2026 3:28:07 PM"
+}, {
   "Order" : "G18513",
   "Due Date" : "26 Mar 2026",
   "Barcode" : "*G18513-1-1*",
@@ -189,54 +197,6 @@
   "Customer" : "B s mehra",
   "Garment" : "Pants",
   "Service" : "DC",
-  "Sent from store" : "15 Apr 2026 1:49:33 PM"
-}, {
-  "Order" : "G18760",
-  "Due Date" : "17 Apr 2026",
-  "Barcode" : "*G18760-1-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "Shirt",
-  "Service" : "SPO",
-  "Sent from store" : "15 Apr 2026 1:49:33 PM"
-}, {
-  "Order" : "G18760",
-  "Due Date" : "17 Apr 2026",
-  "Barcode" : "*G18760-2-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "Shirt",
-  "Service" : "SPO",
-  "Sent from store" : "15 Apr 2026 1:49:33 PM"
-}, {
-  "Order" : "G18760",
-  "Due Date" : "17 Apr 2026",
-  "Barcode" : "*G18760-3-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "Shirt",
-  "Service" : "SPO",
-  "Sent from store" : "15 Apr 2026 1:49:33 PM"
-}, {
-  "Order" : "G18760",
-  "Due Date" : "17 Apr 2026",
-  "Barcode" : "*G18760-4-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "Shirt",
-  "Service" : "SPO",
-  "Sent from store" : "15 Apr 2026 1:49:33 PM"
-}, {
-  "Order" : "G18760",
-  "Due Date" : "17 Apr 2026",
-  "Barcode" : "*G18760-5-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "Pants",
-  "Service" : "SPO",
-  "Sent from store" : "15 Apr 2026 1:49:33 PM"
-}, {
-  "Order" : "G18760",
-  "Due Date" : "17 Apr 2026",
-  "Barcode" : "*G18760-6-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "Pants",
-  "Service" : "SPO",
   "Sent from store" : "15 Apr 2026 1:49:33 PM"
 }, {
   "Order" : "G18761",
