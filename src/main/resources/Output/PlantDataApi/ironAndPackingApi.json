@@ -159,22 +159,6 @@
   "Service" : "DC",
   "Sent from store" : "29 Mar 2026 5:46:41 PM"
 }, {
-  "Order" : "G18717",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18717-1-1*",
-  "Customer" : "bhawna mishra",
-  "Garment" : "Saree (Silk/Chiffon/Georgette/Pattu/heavy))",
-  "Service" : "SPO",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
-  "Order" : "G18717",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*G18717-2-1*",
-  "Customer" : "bhawna mishra",
-  "Garment" : "Choli / Blouse (Light)",
-  "Service" : "SPO",
-  "Sent from store" : "11 Apr 2026 12:58:10 PM"
-}, {
   "Order" : "G18742",
   "Due Date" : "16 Apr 2026",
   "Barcode" : "*G18742-1-1*",
