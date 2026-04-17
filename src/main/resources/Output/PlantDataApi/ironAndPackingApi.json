@@ -167,14 +167,6 @@
   "Service" : "DC",
   "Sent from store" : "16 Apr 2026 3:28:07 PM"
 }, {
-  "Order" : "D3056",
-  "Due Date" : "18 Apr 2026",
-  "Barcode" : "*D3056-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "16 Apr 2026 3:28:07 PM"
-}, {
   "Order" : "G18513",
   "Due Date" : "26 Mar 2026",
   "Barcode" : "*G18513-1-1*",
@@ -445,14 +437,6 @@
   "Customer" : "Bhumika dhingra",
   "Garment" : "Jacket",
   "Service" : "DC",
-  "Sent from store" : "15 Apr 2026 4:43:06 PM"
-}, {
-  "Order" : "S3430",
-  "Due Date" : "18 Apr 2026",
-  "Barcode" : "*S3430-1-4*",
-  "Customer" : "sahil",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Sent from store" : "15 Apr 2026 4:43:06 PM"
 }, {
   "Order" : "S3432",
