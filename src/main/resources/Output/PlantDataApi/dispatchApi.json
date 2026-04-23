@@ -80,6 +80,69 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "C4799",
+  "Due Date" : "26 Apr 2026",
+  "Barcode" : "*C4799-2-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4799",
+  "Due Date" : "26 Apr 2026",
+  "Barcode" : "*C4799-3-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4799",
+  "Due Date" : "26 Apr 2026",
+  "Barcode" : "*C4799-4-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4799",
+  "Due Date" : "26 Apr 2026",
+  "Barcode" : "*C4799-5-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4799",
+  "Due Date" : "26 Apr 2026",
+  "Barcode" : "*C4799-6-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4799",
+  "Due Date" : "26 Apr 2026",
+  "Barcode" : "*C4799-7-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4799",
+  "Due Date" : "26 Apr 2026",
+  "Barcode" : "*C4799-8-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Bed Sheet Double",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "G18766",
   "Due Date" : "18 Apr 2026",
   "Barcode" : "*G18766-4-1*",
