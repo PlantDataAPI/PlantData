@@ -231,6 +231,14 @@
   "Service" : "DC",
   "Sent from store" : "23 Apr 2026 12:21:15 PM"
 }, {
+  "Order" : "C4802",
+  "Due Date" : "26 Apr 2026",
+  "Barcode" : "*C4802-7-3*",
+  "Customer" : "Rajindar",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "23 Apr 2026 12:21:15 PM"
+}, {
   "Order" : "D3028",
   "Due Date" : "02 Apr 2026",
   "Barcode" : "*D3028-1-5*",
@@ -278,14 +286,6 @@
   "Garment" : "Bed Spread Single",
   "Service" : "DC",
   "Sent from store" : "26 Mar 2026 4:26:24 PM"
-}, {
-  "Order" : "G18582",
-  "Due Date" : "02 Apr 2026",
-  "Barcode" : "*G18582-1-1*",
-  "Customer" : "Tara",
-  "Garment" : "Carpet",
-  "Service" : "DC",
-  "Sent from store" : "29 Mar 2026 5:46:41 PM"
 }, {
   "Order" : "G18742",
   "Due Date" : "16 Apr 2026",
