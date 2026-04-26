@@ -161,6 +161,15 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "D3069",
+  "Due Date" : "25 Apr 2026",
+  "Barcode" : "*D3069-1-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "G18847",
   "Due Date" : "25 Apr 2026",
   "Barcode" : "*G18847-10-1*",
