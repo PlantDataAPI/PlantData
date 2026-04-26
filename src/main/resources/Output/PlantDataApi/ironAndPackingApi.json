@@ -143,54 +143,6 @@
   "Service" : "WI",
   "Sent from store" : "09 Apr 2026 4:07:40 PM"
 }, {
-  "Order" : "D3070",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*D3070-1-5*",
-  "Customer" : "Ms Jyoti",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 12:10:13 PM"
-}, {
-  "Order" : "D3070",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*D3070-2-5*",
-  "Customer" : "Ms Jyoti",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 12:10:13 PM"
-}, {
-  "Order" : "D3070",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*D3070-3-5*",
-  "Customer" : "Ms Jyoti",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 12:10:13 PM"
-}, {
-  "Order" : "D3070",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*D3070-4-5*",
-  "Customer" : "Ms Jyoti",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 12:10:13 PM"
-}, {
-  "Order" : "D3070",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*D3070-5-5*",
-  "Customer" : "Ms Jyoti",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 12:10:13 PM"
-}, {
-  "Order" : "D3070",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*D3070-6-5*",
-  "Customer" : "Ms Jyoti",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 12:10:13 PM"
-}, {
   "Order" : "D3071",
   "Due Date" : "27 Apr 2026",
   "Barcode" : "*D3071-1-5*",
@@ -230,14 +182,6 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "20 Apr 2026 4:20:38 PM"
-}, {
-  "Order" : "G18847",
-  "Due Date" : "25 Apr 2026",
-  "Barcode" : "*G18847-2-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "23 Apr 2026 11:53:52 AM"
 }, {
   "Order" : "G18858",
   "Due Date" : "26 Apr 2026",
@@ -425,70 +369,6 @@
 }, {
   "Order" : "G18872",
   "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18872-22-1*",
-  "Customer" : "diana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18872",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18872-23-1*",
-  "Customer" : "diana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18872",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18872-24-1*",
-  "Customer" : "diana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18872",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18872-25-1*",
-  "Customer" : "diana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18872",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18872-26-1*",
-  "Customer" : "diana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18872",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18872-27-1*",
-  "Customer" : "diana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18872",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18872-28-1*",
-  "Customer" : "diana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18872",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18872-29-1*",
-  "Customer" : "diana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18872",
-  "Due Date" : "27 Apr 2026",
   "Barcode" : "*G18872-31-1*",
   "Customer" : "diana",
   "Garment" : "Sport Jacket",
@@ -505,41 +385,9 @@
 }, {
   "Order" : "G18872",
   "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18872-33-1*",
-  "Customer" : "diana",
-  "Garment" : "Sport Jacket",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18872",
-  "Due Date" : "27 Apr 2026",
   "Barcode" : "*G18872-34-1*",
   "Customer" : "diana",
   "Garment" : "Sport Jacket",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18873",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18873-1-1*",
-  "Customer" : "Mrs semmi",
-  "Garment" : "Quilt Single",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18873",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18873-2-1*",
-  "Customer" : "Mrs semmi",
-  "Garment" : "Bed Spread Single",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 11:02:22 AM"
-}, {
-  "Order" : "G18873",
-  "Due Date" : "27 Apr 2026",
-  "Barcode" : "*G18873-3-1*",
-  "Customer" : "Mrs semmi",
-  "Garment" : "Bed Spread Single",
   "Service" : "DC",
   "Sent from store" : "25 Apr 2026 11:02:22 AM"
 }, {
