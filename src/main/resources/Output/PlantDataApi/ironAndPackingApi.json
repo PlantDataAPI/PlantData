@@ -303,38 +303,6 @@
   "Service" : "DC",
   "Sent from store" : "27 Apr 2026 11:08:14 AM"
 }, {
-  "Order" : "G18877",
-  "Due Date" : "29 Apr 2026",
-  "Barcode" : "*G18877-2-1*",
-  "Customer" : "gaurav",
-  "Garment" : "Gents Suit Trouser",
-  "Service" : "DC",
-  "Sent from store" : "27 Apr 2026 11:08:14 AM"
-}, {
-  "Order" : "G18877",
-  "Due Date" : "29 Apr 2026",
-  "Barcode" : "*G18877-3-1*",
-  "Customer" : "gaurav",
-  "Garment" : "Gents Suit Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Apr 2026 11:08:14 AM"
-}, {
-  "Order" : "G18877",
-  "Due Date" : "29 Apr 2026",
-  "Barcode" : "*G18877-4-1*",
-  "Customer" : "gaurav",
-  "Garment" : "Gents Suit Trouser",
-  "Service" : "DC",
-  "Sent from store" : "27 Apr 2026 11:08:14 AM"
-}, {
-  "Order" : "G18877",
-  "Due Date" : "29 Apr 2026",
-  "Barcode" : "*G18877-5-1*",
-  "Customer" : "gaurav",
-  "Garment" : "Gents Suit Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Apr 2026 11:08:14 AM"
-}, {
   "Order" : "S3422",
   "Due Date" : "18 Apr 2026",
   "Barcode" : "*S3422-1-4*",
