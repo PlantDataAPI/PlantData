@@ -199,6 +199,62 @@
   "Service" : "DC",
   "Sent from store" : "27 Apr 2026 4:08:17 PM"
 }, {
+  "Order" : "C4824",
+  "Due Date" : "07 May 2026",
+  "Barcode" : "*C4824-3-3*",
+  "Customer" : "Pramit",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Sent from store" : "04 May 2026 4:49:54 PM"
+}, {
+  "Order" : "C4824",
+  "Due Date" : "07 May 2026",
+  "Barcode" : "*C4824-4-3*",
+  "Customer" : "Pramit",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Sent from store" : "04 May 2026 4:49:54 PM"
+}, {
+  "Order" : "C4825",
+  "Due Date" : "06 May 2026",
+  "Barcode" : "*C4825-1-3*",
+  "Customer" : "shubham nagar",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "04 May 2026 4:49:54 PM"
+}, {
+  "Order" : "C4825",
+  "Due Date" : "06 May 2026",
+  "Barcode" : "*C4825-2-3*",
+  "Customer" : "shubham nagar",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "04 May 2026 4:49:54 PM"
+}, {
+  "Order" : "C4829",
+  "Due Date" : "08 May 2026",
+  "Barcode" : "*C4829-8-3*",
+  "Customer" : "A roy chaudhary",
+  "Garment" : "Quilt Single",
+  "Service" : "DC",
+  "Sent from store" : "04 May 2026 4:49:54 PM"
+}, {
+  "Order" : "C4829",
+  "Due Date" : "08 May 2026",
+  "Barcode" : "*C4829-9-3*",
+  "Customer" : "A roy chaudhary",
+  "Garment" : "Quilt Single",
+  "Service" : "DC",
+  "Sent from store" : "04 May 2026 4:49:54 PM"
+}, {
+  "Order" : "C4831",
+  "Due Date" : "03 May 2026",
+  "Barcode" : "*C4831-1-3*",
+  "Customer" : "Shreya",
+  "Garment" : "Saree (Cotton/Syn/Light)",
+  "Service" : "SPO",
+  "Sent from store" : "04 May 2026 4:49:54 PM"
+}, {
   "Order" : "D3043",
   "Due Date" : "10 Apr 2026",
   "Barcode" : "*D3043-1-5*",
