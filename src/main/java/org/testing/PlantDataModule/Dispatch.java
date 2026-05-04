@@ -28,8 +28,8 @@ public class Dispatch {
             String userPass = System.getenv("USER_PASS");
             String userCode = System.getenv("USER_CODE");
 
-            WebElement popUpField = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("Button3")));
-            ButtonClickClass.clickButton(driver,popUpField);
+            //WebElement popUpField = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("Button3")));
+            //ButtonClickClass.clickButton(driver,popUpField);
 
             WebElement userField = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("txtUserId")));
             userField.clear();
