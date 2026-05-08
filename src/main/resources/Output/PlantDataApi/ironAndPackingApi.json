@@ -159,14 +159,6 @@
   "Service" : "DC",
   "Sent from store" : "04 May 2026 4:49:54 PM"
 }, {
-  "Order" : "C4841",
-  "Due Date" : "09 May 2026",
-  "Barcode" : "*C4841-1-3*",
-  "Customer" : "anubhav",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "06 May 2026 3:48:09 PM"
-}, {
   "Order" : "C4842",
   "Due Date" : "09 May 2026",
   "Barcode" : "*C4842-1-3*",
@@ -198,14 +190,6 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "06 May 2026 3:48:09 PM"
-}, {
-  "Order" : "C4843",
-  "Due Date" : "11 May 2026",
-  "Barcode" : "*C4843-1-3*",
-  "Customer" : "Angad chatha",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "07 May 2026 7:03:01 PM"
 }, {
   "Order" : "C4844",
   "Due Date" : "11 May 2026",
