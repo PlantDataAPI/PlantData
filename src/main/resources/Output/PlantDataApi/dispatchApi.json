@@ -169,4 +169,22 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
+}, {
+  "Order" : "G18975",
+  "Due Date" : "10 May 2026",
+  "Barcode" : "*G18975-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pants",
+  "Service" : "SPO",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3475",
+  "Due Date" : "10 May 2026",
+  "Barcode" : "*S3475-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Blanket Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
 } ]
