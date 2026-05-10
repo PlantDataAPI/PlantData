@@ -375,14 +375,6 @@
   "Service" : "LC",
   "Sent from store" : "08 May 2026 5:53:21 PM"
 }, {
-  "Order" : "G18991",
-  "Due Date" : "10 May 2026",
-  "Barcode" : "*G18991-1-1*",
-  "Customer" : "Tarig Al Shehri",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "08 May 2026 5:53:21 PM"
-}, {
   "Order" : "G18992",
   "Due Date" : "10 May 2026",
   "Barcode" : "*G18992-1-1*",
