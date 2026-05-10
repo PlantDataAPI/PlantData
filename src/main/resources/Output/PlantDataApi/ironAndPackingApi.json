@@ -487,30 +487,6 @@
   "Service" : "DC",
   "Sent from store" : "08 May 2026 5:53:21 PM"
 }, {
-  "Order" : "G18993",
-  "Due Date" : "11 May 2026",
-  "Barcode" : "*G18993-1-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "Pants",
-  "Service" : "SPO",
-  "Sent from store" : "08 May 2026 5:53:21 PM"
-}, {
-  "Order" : "G18993",
-  "Due Date" : "11 May 2026",
-  "Barcode" : "*G18993-2-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "Jacket",
-  "Service" : "SPO",
-  "Sent from store" : "08 May 2026 5:53:21 PM"
-}, {
-  "Order" : "G18993",
-  "Due Date" : "11 May 2026",
-  "Barcode" : "*G18993-3-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "T Shirt",
-  "Service" : "SPO",
-  "Sent from store" : "08 May 2026 5:53:21 PM"
-}, {
   "Order" : "S3422",
   "Due Date" : "18 Apr 2026",
   "Barcode" : "*S3422-1-4*",
@@ -526,12 +502,4 @@
   "Garment" : "Salwar",
   "Service" : "DC",
   "Sent from store" : "15 Apr 2026 4:43:06 PM"
-}, {
-  "Order" : "S3472",
-  "Due Date" : "10 May 2026",
-  "Barcode" : "*S3472-1-4*",
-  "Customer" : "Ms priyanka agarwal",
-  "Garment" : "Jacket",
-  "Service" : "DC",
-  "Sent from store" : "07 May 2026 12:11:15 PM"
 } ]
