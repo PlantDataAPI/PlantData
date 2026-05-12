@@ -1,20 +1,4 @@
 [ {
-  "Order" : "C4761",
-  "Due Date" : "12 Apr 2026",
-  "Barcode" : "*C4761-2-3*",
-  "Customer" : "Dr Jaskaran Singh",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "09 Apr 2026 5:30:01 PM"
-}, {
-  "Order" : "C4761",
-  "Due Date" : "12 Apr 2026",
-  "Barcode" : "*C4761-3-3*",
-  "Customer" : "Dr Jaskaran Singh",
-  "Garment" : "Sweater (Full Sleeve)",
-  "Service" : "DC",
-  "Sent from store" : "09 Apr 2026 5:30:01 PM"
-}, {
   "Order" : "C4767",
   "Due Date" : "13 Apr 2026",
   "Barcode" : "*C4767-1-3*",
