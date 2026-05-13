@@ -1,12 +1,4 @@
 [ {
-  "Order" : "C4767",
-  "Due Date" : "13 Apr 2026",
-  "Barcode" : "*C4767-1-3*",
-  "Customer" : "SURAJ",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "18 Apr 2026 12:12:27 PM"
-}, {
   "Order" : "C4768",
   "Due Date" : "13 Apr 2026",
   "Barcode" : "*C4768-1-3*",
