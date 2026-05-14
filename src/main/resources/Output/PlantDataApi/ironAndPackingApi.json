@@ -1,99 +1,11 @@
 [ {
-  "Order" : "G18814",
-  "Due Date" : "22 Apr 2026",
-  "Barcode" : "*G18814-1-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Apr 2026 1:29:23 PM"
-}, {
-  "Order" : "G18814",
-  "Due Date" : "22 Apr 2026",
-  "Barcode" : "*G18814-2-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Apr 2026 1:29:23 PM"
-}, {
-  "Order" : "G18814",
-  "Due Date" : "22 Apr 2026",
-  "Barcode" : "*G18814-3-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Apr 2026 1:29:23 PM"
-}, {
-  "Order" : "G18824",
-  "Due Date" : "24 Apr 2026",
-  "Barcode" : "*G18824-1-1*",
-  "Customer" : "hegde",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "20 Apr 2026 4:20:38 PM"
-}, {
-  "Order" : "G18858",
-  "Due Date" : "26 Apr 2026",
-  "Barcode" : "*G18858-1-1*",
-  "Customer" : "vaibhav madan",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "24 Apr 2026 12:55:06 PM"
-}, {
-  "Order" : "G18876",
-  "Due Date" : "29 Apr 2026",
-  "Barcode" : "*G18876-1-1*",
-  "Customer" : "avik",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "25 Apr 2026 5:12:48 PM"
-}, {
-  "Order" : "G18881",
-  "Due Date" : "30 Apr 2026",
-  "Barcode" : "*G18881-2-1*",
-  "Customer" : "Mr Shakti",
-  "Garment" : "Garment 2",
-  "Service" : "WF",
-  "Sent from store" : "27 Apr 2026 11:08:14 AM"
-}, {
-  "Order" : "G18910",
-  "Due Date" : "02 May 2026",
-  "Barcode" : "*G18910-3-1*",
-  "Customer" : "GOYAL",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "01 May 2026 5:28:51 PM"
-}, {
-  "Order" : "G18945",
-  "Due Date" : "07 May 2026",
-  "Barcode" : "*G18945-2-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 May 2026 11:27:48 AM"
-}, {
-  "Order" : "G18956",
-  "Due Date" : "08 May 2026",
-  "Barcode" : "*G18956-3-1*",
-  "Customer" : "Mr nishant datta",
-  "Garment" : "Kurta + Pants/Salwar/Churidar + Dupatta (light)",
-  "Service" : "DC",
-  "Sent from store" : "06 May 2026 3:48:09 PM"
-}, {
-  "Order" : "G18957",
-  "Due Date" : "08 May 2026",
-  "Barcode" : "*G18957-3-1*",
-  "Customer" : "Mr Ulysse",
-  "Garment" : "Pants",
-  "Service" : "SPO",
-  "Sent from store" : "06 May 2026 3:48:09 PM"
-}, {
-  "Order" : "G18964",
-  "Due Date" : "09 May 2026",
-  "Barcode" : "*G18964-1-1*",
-  "Customer" : "Ashok",
-  "Garment" : "T Shirt",
-  "Service" : "SPO",
-  "Sent from store" : "06 May 2026 3:48:09 PM"
+  "Order" : "D3096",
+  "Due Date" : "15 May 2026",
+  "Barcode" : "*D3096-1-5*",
+  "Customer" : "NARENDRA",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "14 May 2026 5:08:45 PM"
 }, {
   "Order" : "G18986",
   "Due Date" : "11 May 2026",
@@ -134,12 +46,4 @@
   "Garment" : "Sport Shoe Right",
   "Service" : "LC",
   "Sent from store" : "08 May 2026 5:53:21 PM"
-}, {
-  "Order" : "G19003",
-  "Due Date" : "13 May 2026",
-  "Barcode" : "*G19003-1-1*",
-  "Customer" : "Mr nikunj",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "13 May 2026 3:28:53 PM"
 } ]
