@@ -7,22 +7,6 @@
   "Service" : "WI",
   "Sent from store" : "13 May 2026 8:21:48 PM"
 }, {
-  "Order" : "G19000",
-  "Due Date" : "13 May 2026",
-  "Barcode" : "*G19000-6-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "14 May 2026 11:42:04 AM"
-}, {
-  "Order" : "G19035",
-  "Due Date" : "15 May 2026",
-  "Barcode" : "*G19035-1-1*",
-  "Customer" : "Nishant",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
-  "Sent from store" : "13 May 2026 8:26:47 PM"
-}, {
   "Order" : "G19038",
   "Due Date" : "17 May 2026",
   "Barcode" : "*G19038-1-1*",
