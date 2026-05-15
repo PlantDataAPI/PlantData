@@ -1,12 +1,4 @@
 [ {
-  "Order" : "D3096",
-  "Due Date" : "15 May 2026",
-  "Barcode" : "*D3096-1-5*",
-  "Customer" : "NARENDRA",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "14 May 2026 5:08:45 PM"
-}, {
   "Order" : "G18986",
   "Due Date" : "11 May 2026",
   "Barcode" : "*G18986-1-1*",
