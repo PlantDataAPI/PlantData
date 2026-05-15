@@ -25,13 +25,4 @@
   "Service" : "WI",
   "Receive in workshop" : "",
   "Customer" : ""
-}, {
-  "Order" : "C4858",
-  "Due Date" : "15 May 2026",
-  "Barcode" : "*C4858-1-3*",
-  "Store Name" : "CR Park",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Receive in workshop" : "",
-  "Customer" : ""
 } ]
