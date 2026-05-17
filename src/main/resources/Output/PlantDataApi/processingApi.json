@@ -278,4 +278,60 @@
   "Garment" : "Dupatta  (Plain)",
   "Service" : "DC",
   "Sent from store" : "17 May 2026 6:17:21 PM"
+}, {
+  "Order" : "G19071",
+  "Due Date" : "21 May 2026",
+  "Barcode" : "*G19071-1-1*",
+  "Customer" : "Ms Indu",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "17 May 2026 8:04:01 PM"
+}, {
+  "Order" : "G19071",
+  "Due Date" : "21 May 2026",
+  "Barcode" : "*G19071-2-1*",
+  "Customer" : "Ms Indu",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "17 May 2026 8:04:01 PM"
+}, {
+  "Order" : "G19071",
+  "Due Date" : "21 May 2026",
+  "Barcode" : "*G19071-3-1*",
+  "Customer" : "Ms Indu",
+  "Garment" : "Dupatta (Light)",
+  "Service" : "DC",
+  "Sent from store" : "17 May 2026 8:04:01 PM"
+}, {
+  "Order" : "G19072",
+  "Due Date" : "21 May 2026",
+  "Barcode" : "*G19072-1-1*",
+  "Customer" : "sonu",
+  "Garment" : "Dress (light)",
+  "Service" : "DC",
+  "Sent from store" : "17 May 2026 8:04:01 PM"
+}, {
+  "Order" : "G19073",
+  "Due Date" : "22 May 2026",
+  "Barcode" : "*G19073-1-1*",
+  "Customer" : "Praveen",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Sent from store" : "17 May 2026 8:04:01 PM"
+}, {
+  "Order" : "G19076",
+  "Due Date" : "21 May 2026",
+  "Barcode" : "*G19076-1-1*",
+  "Customer" : "yi",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "17 May 2026 8:04:01 PM"
+}, {
+  "Order" : "G19076",
+  "Due Date" : "21 May 2026",
+  "Barcode" : "*G19076-2-1*",
+  "Customer" : "yi",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "17 May 2026 8:04:01 PM"
 } ]
