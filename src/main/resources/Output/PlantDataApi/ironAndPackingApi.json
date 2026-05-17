@@ -1,44 +1,4 @@
 [ {
-  "Order" : "D3100",
-  "Due Date" : "17 May 2026",
-  "Barcode" : "*D3100-1-5*",
-  "Customer" : "Mr Das Gupta",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "16 May 2026 5:08:46 PM"
-}, {
-  "Order" : "D3101",
-  "Due Date" : "17 May 2026",
-  "Barcode" : "*D3101-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "16 May 2026 5:08:46 PM"
-}, {
-  "Order" : "G18986",
-  "Due Date" : "11 May 2026",
-  "Barcode" : "*G18986-1-1*",
-  "Customer" : "s kumar",
-  "Garment" : "Non Leather Handbag",
-  "Service" : "LC",
-  "Sent from store" : "08 May 2026 5:53:21 PM"
-}, {
-  "Order" : "G18986",
-  "Due Date" : "11 May 2026",
-  "Barcode" : "*G18986-2-1*",
-  "Customer" : "s kumar",
-  "Garment" : "Suede Handbag",
-  "Service" : "LC",
-  "Sent from store" : "08 May 2026 5:53:21 PM"
-}, {
-  "Order" : "G18986",
-  "Due Date" : "11 May 2026",
-  "Barcode" : "*G18986-3-1*",
-  "Customer" : "s kumar",
-  "Garment" : "Suede Handbag",
-  "Service" : "LC",
-  "Sent from store" : "08 May 2026 5:53:21 PM"
-}, {
   "Order" : "G18988",
   "Due Date" : "11 May 2026",
   "Barcode" : "*G18988-2-1*",
@@ -62,12 +22,4 @@
   "Garment" : "Garment 1",
   "Service" : "LA",
   "Sent from store" : "15 May 2026 7:50:52 PM"
-}, {
-  "Order" : "S3487",
-  "Due Date" : "18 May 2026",
-  "Barcode" : "*S3487-1-4*",
-  "Customer" : "sahil",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
-  "Sent from store" : "16 May 2026 4:24:34 PM"
 } ]
