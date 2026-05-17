@@ -54,4 +54,20 @@
   "Garment" : "Sport Shoe Right",
   "Service" : "LC",
   "Sent from store" : "08 May 2026 5:53:21 PM"
+}, {
+  "Order" : "G19060",
+  "Due Date" : "18 May 2026",
+  "Barcode" : "*G19060-1-1*",
+  "Customer" : "kavita khana",
+  "Garment" : "Garment 1",
+  "Service" : "LA",
+  "Sent from store" : "15 May 2026 7:50:52 PM"
+}, {
+  "Order" : "S3487",
+  "Due Date" : "18 May 2026",
+  "Barcode" : "*S3487-1-4*",
+  "Customer" : "sahil",
+  "Garment" : "Garment 1",
+  "Service" : "LA",
+  "Sent from store" : "16 May 2026 4:24:34 PM"
 } ]
