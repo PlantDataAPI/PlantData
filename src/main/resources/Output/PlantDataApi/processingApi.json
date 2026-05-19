@@ -166,4 +166,188 @@
   "Garment" : "Dupatta  (Plain)",
   "Service" : "DC",
   "Sent from store" : "18 May 2026 5:12:49 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-1-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-2-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-3-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-4-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-5-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-6-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-7-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-8-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-9-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-10-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-11-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3105",
+  "Due Date" : "24 May 2026",
+  "Barcode" : "*D3105-12-5*",
+  "Customer" : "Mrs Sanchita",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 2:55:54 PM"
+}, {
+  "Order" : "D3107",
+  "Due Date" : "22 May 2026",
+  "Barcode" : "*D3107-1-5*",
+  "Customer" : "Mr putt punya gupta",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Sent from store" : "18 May 2026 8:11:46 PM"
+}, {
+  "Order" : "G19089",
+  "Due Date" : "22 May 2026",
+  "Barcode" : "*G19089-1-1*",
+  "Customer" : "Mr Shakti",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
+}, {
+  "Order" : "G19089",
+  "Due Date" : "22 May 2026",
+  "Barcode" : "*G19089-2-1*",
+  "Customer" : "Mr Shakti",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
+}, {
+  "Order" : "G19090",
+  "Due Date" : "22 May 2026",
+  "Barcode" : "*G19090-1-1*",
+  "Customer" : "Ms pallavi barua",
+  "Garment" : "Salwar",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
+}, {
+  "Order" : "G19090",
+  "Due Date" : "22 May 2026",
+  "Barcode" : "*G19090-2-1*",
+  "Customer" : "Ms pallavi barua",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
+}, {
+  "Order" : "G19091",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*G19091-1-1*",
+  "Customer" : "bhavna kayarat",
+  "Garment" : "Saree (Silk/Chiffon/Georgette/Pattu/heavy))",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
+}, {
+  "Order" : "G19091",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*G19091-2-1*",
+  "Customer" : "bhavna kayarat",
+  "Garment" : "Choli / Blouse (Light)",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
+}, {
+  "Order" : "G19091",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*G19091-3-1*",
+  "Customer" : "bhavna kayarat",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
+}, {
+  "Order" : "G19091",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*G19091-4-1*",
+  "Customer" : "bhavna kayarat",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
+}, {
+  "Order" : "G19091",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*G19091-5-1*",
+  "Customer" : "bhavna kayarat",
+  "Garment" : "Dupatta (Light)",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
+}, {
+  "Order" : "G19091",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*G19091-6-1*",
+  "Customer" : "bhavna kayarat",
+  "Garment" : "Lungi / Dhoti (Silk)",
+  "Service" : "DC",
+  "Sent from store" : "18 May 2026 5:15:46 PM"
 } ]
