@@ -1,6 +1,38 @@
 [ {
   "Order" : "C4872",
   "Due Date" : "27 May 2026",
+  "Barcode" : "*C4872-1-3*",
+  "Customer" : "Preety Arora",
+  "Garment" : "Blanket Double",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:21:01 PM"
+}, {
+  "Order" : "C4872",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4872-2-3*",
+  "Customer" : "Preety Arora",
+  "Garment" : "Salwar",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:21:01 PM"
+}, {
+  "Order" : "C4872",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4872-3-3*",
+  "Customer" : "Preety Arora",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:21:01 PM"
+}, {
+  "Order" : "C4872",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4872-4-3*",
+  "Customer" : "Preety Arora",
+  "Garment" : "Dupatta  (Plain)",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:21:01 PM"
+}, {
+  "Order" : "C4872",
+  "Due Date" : "27 May 2026",
   "Barcode" : "*C4872-5-3*",
   "Customer" : "Preety Arora",
   "Garment" : "Shawl (lohi)",
@@ -47,19 +79,139 @@
   "Service" : "DC",
   "Sent from store" : "21 May 2026 4:09:40 PM"
 }, {
+  "Order" : "C4875",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4875-1-3*",
+  "Customer" : "Aadhitya  giri",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:20:22 PM"
+}, {
+  "Order" : "C4875",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4875-2-3*",
+  "Customer" : "Aadhitya  giri",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:20:22 PM"
+}, {
+  "Order" : "C4875",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4875-3-3*",
+  "Customer" : "Aadhitya  giri",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:20:22 PM"
+}, {
+  "Order" : "C4875",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4875-4-3*",
+  "Customer" : "Aadhitya  giri",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:20:22 PM"
+}, {
+  "Order" : "C4875",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4875-5-3*",
+  "Customer" : "Aadhitya  giri",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:20:22 PM"
+}, {
+  "Order" : "C4875",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4875-6-3*",
+  "Customer" : "Aadhitya  giri",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:20:22 PM"
+}, {
+  "Order" : "C4875",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4875-7-3*",
+  "Customer" : "Aadhitya  giri",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:20:22 PM"
+}, {
+  "Order" : "C4875",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4875-8-3*",
+  "Customer" : "Aadhitya  giri",
+  "Garment" : "Bed Sheet Single",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:20:22 PM"
+}, {
+  "Order" : "C4875",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4875-9-3*",
+  "Customer" : "Aadhitya  giri",
+  "Garment" : "Sweat Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:20:22 PM"
+}, {
+  "Order" : "C4876",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4876-1-3*",
+  "Customer" : "Nitin Jain",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:21:01 PM"
+}, {
+  "Order" : "C4876",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4876-2-3*",
+  "Customer" : "Nitin Jain",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 6:21:01 PM"
+}, {
+  "Order" : "S3496",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*S3496-1-4*",
+  "Customer" : "SAMRIDDHI",
+  "Garment" : "Pullover",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 5:30:25 PM"
+}, {
+  "Order" : "S3496",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*S3496-2-4*",
+  "Customer" : "SAMRIDDHI",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 5:30:25 PM"
+}, {
+  "Order" : "S3496",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*S3496-5-4*",
+  "Customer" : "SAMRIDDHI",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 5:30:25 PM"
+}, {
+  "Order" : "S3496",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*S3496-11-4*",
+  "Customer" : "SAMRIDDHI",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 5:30:25 PM"
+}, {
+  "Order" : "S3496",
+  "Due Date" : "23 May 2026",
+  "Barcode" : "*S3496-16-4*",
+  "Customer" : "SAMRIDDHI",
+  "Garment" : "Pyjama",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 5:30:25 PM"
+}, {
   "Order" : "S3498",
   "Due Date" : "25 May 2026",
   "Barcode" : "*S3498-1-4*",
   "Customer" : "aakriti khana",
   "Garment" : "Quilt Double",
   "Service" : "DC",
-  "Sent from store" : "22 May 2026 1:49:07 PM"
-}, {
-  "Order" : "S3499",
-  "Due Date" : "25 May 2026",
-  "Barcode" : "*S3499-1-4*",
-  "Customer" : "Mr Gautam",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "22 May 2026 1:49:07 PM"
+  "Sent from store" : "22 May 2026 5:29:58 PM"
 } ]
