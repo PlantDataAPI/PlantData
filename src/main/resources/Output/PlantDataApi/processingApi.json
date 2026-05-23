@@ -1,14 +1,6 @@
 [ {
   "Order" : "C4872",
   "Due Date" : "27 May 2026",
-  "Barcode" : "*C4872-1-3*",
-  "Customer" : "Preety Arora",
-  "Garment" : "Blanket Double",
-  "Service" : "DC",
-  "Sent from store" : "22 May 2026 6:21:01 PM"
-}, {
-  "Order" : "C4872",
-  "Due Date" : "27 May 2026",
   "Barcode" : "*C4872-2-3*",
   "Customer" : "Preety Arora",
   "Garment" : "Salwar",
@@ -121,14 +113,6 @@
 }, {
   "Order" : "C4875",
   "Due Date" : "27 May 2026",
-  "Barcode" : "*C4875-6-3*",
-  "Customer" : "Aadhitya  giri",
-  "Garment" : "Quilt Double",
-  "Service" : "DC",
-  "Sent from store" : "22 May 2026 6:20:22 PM"
-}, {
-  "Order" : "C4875",
-  "Due Date" : "27 May 2026",
   "Barcode" : "*C4875-7-3*",
   "Customer" : "Aadhitya  giri",
   "Garment" : "Quilt Double",
@@ -166,6 +150,14 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "22 May 2026 6:21:01 PM"
+}, {
+  "Order" : "C4877",
+  "Due Date" : "27 May 2026",
+  "Barcode" : "*C4877-1-3*",
+  "Customer" : "shubham nagar",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Sent from store" : "22 May 2026 6:19:22 PM"
 }, {
   "Order" : "S3496",
   "Due Date" : "23 May 2026",
@@ -207,11 +199,27 @@
   "Service" : "DC",
   "Sent from store" : "22 May 2026 5:30:25 PM"
 }, {
-  "Order" : "S3498",
+  "Order" : "S3500",
   "Due Date" : "25 May 2026",
-  "Barcode" : "*S3498-1-4*",
-  "Customer" : "aakriti khana",
-  "Garment" : "Quilt Double",
+  "Barcode" : "*S3500-1-4*",
+  "Customer" : "gautam",
+  "Garment" : "T Shirt",
   "Service" : "DC",
-  "Sent from store" : "22 May 2026 5:29:58 PM"
+  "Sent from store" : "22 May 2026 5:21:05 PM"
+}, {
+  "Order" : "S3500",
+  "Due Date" : "25 May 2026",
+  "Barcode" : "*S3500-2-4*",
+  "Customer" : "gautam",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 5:21:05 PM"
+}, {
+  "Order" : "S3500",
+  "Due Date" : "25 May 2026",
+  "Barcode" : "*S3500-3-4*",
+  "Customer" : "gautam",
+  "Garment" : "Pyjama (Light)",
+  "Service" : "DC",
+  "Sent from store" : "22 May 2026 5:21:05 PM"
 } ]
