@@ -1,22 +1,4 @@
 [ {
-  "Order" : "C4873",
-  "Due Date" : "23 May 2026",
-  "Barcode" : "*C4873-1-3*",
-  "Store Name" : "CR Park",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "D3107",
-  "Due Date" : "22 May 2026",
-  "Barcode" : "*D3107-1-5*",
-  "Store Name" : "Defence Colony",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
   "Order" : "G19097",
   "Due Date" : "23 May 2026",
   "Barcode" : "*G19097-1-1*",

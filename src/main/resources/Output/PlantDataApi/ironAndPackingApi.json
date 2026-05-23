@@ -110,12 +110,4 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "21 May 2026 12:36:15 PM"
-}, {
-  "Order" : "G19108",
-  "Due Date" : "24 May 2026",
-  "Barcode" : "*G19108-1-1*",
-  "Customer" : "Ms roy",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
-  "Sent from store" : "22 May 2026 11:50:53 AM"
 } ]
