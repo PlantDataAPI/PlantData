@@ -47,6 +47,46 @@
   "Service" : "DC",
   "Sent from store" : "24 May 2026 4:29:56 PM"
 }, {
+  "Order" : "C4883",
+  "Due Date" : "30 May 2026",
+  "Barcode" : "*C4883-6-3*",
+  "Customer" : "saumya bhargava",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Sent from store" : "24 May 2026 4:29:56 PM"
+}, {
+  "Order" : "C4883",
+  "Due Date" : "30 May 2026",
+  "Barcode" : "*C4883-7-3*",
+  "Customer" : "saumya bhargava",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Sent from store" : "24 May 2026 4:29:56 PM"
+}, {
+  "Order" : "C4883",
+  "Due Date" : "30 May 2026",
+  "Barcode" : "*C4883-8-3*",
+  "Customer" : "saumya bhargava",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Sent from store" : "24 May 2026 4:29:56 PM"
+}, {
+  "Order" : "C4883",
+  "Due Date" : "30 May 2026",
+  "Barcode" : "*C4883-9-3*",
+  "Customer" : "saumya bhargava",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Sent from store" : "24 May 2026 4:29:56 PM"
+}, {
+  "Order" : "C4883",
+  "Due Date" : "30 May 2026",
+  "Barcode" : "*C4883-10-3*",
+  "Customer" : "saumya bhargava",
+  "Garment" : "Quilt Cover  (Double)",
+  "Service" : "DC",
+  "Sent from store" : "24 May 2026 4:29:56 PM"
+}, {
   "Order" : "D3116",
   "Due Date" : "27 May 2026",
   "Barcode" : "*D3116-1-5*",
@@ -158,4 +198,44 @@
   "Garment" : "Pants",
   "Service" : "DC",
   "Sent from store" : "23 May 2026 7:28:37 PM"
+}, {
+  "Order" : "G19138",
+  "Due Date" : "28 May 2026",
+  "Barcode" : "*G19138-1-1*",
+  "Customer" : "Mr Shakti",
+  "Garment" : "Garment 1",
+  "Service" : "LA",
+  "Sent from store" : "25 May 2026 11:48:55 AM"
+}, {
+  "Order" : "G19139",
+  "Due Date" : "28 May 2026",
+  "Barcode" : "*G19139-1-1*",
+  "Customer" : "hari",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "25 May 2026 11:48:55 AM"
+}, {
+  "Order" : "G19140",
+  "Due Date" : "29 May 2026",
+  "Barcode" : "*G19140-1-1*",
+  "Customer" : "kunja",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Sent from store" : "25 May 2026 11:48:55 AM"
+}, {
+  "Order" : "G19140",
+  "Due Date" : "29 May 2026",
+  "Barcode" : "*G19140-2-1*",
+  "Customer" : "kunja",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "25 May 2026 11:48:55 AM"
+}, {
+  "Order" : "G19140",
+  "Due Date" : "29 May 2026",
+  "Barcode" : "*G19140-3-1*",
+  "Customer" : "kunja",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "25 May 2026 11:48:55 AM"
 } ]
