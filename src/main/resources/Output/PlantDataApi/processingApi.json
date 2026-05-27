@@ -1,17 +1,1 @@
-[ {
-  "Order" : "D3118",
-  "Due Date" : "29 May 2026",
-  "Barcode" : "*D3118-1-5*",
-  "Customer" : "ravinder",
-  "Garment" : "Kurta + Pants/Salwar/Churidar (Plain)",
-  "Service" : "DC",
-  "Sent from store" : "25 May 2026 12:08:54 PM"
-}, {
-  "Order" : "D3118",
-  "Due Date" : "29 May 2026",
-  "Barcode" : "*D3118-2-5*",
-  "Customer" : "ravinder",
-  "Garment" : "Kurta + Pants/Salwar/Churidar (Plain)",
-  "Service" : "DC",
-  "Sent from store" : "25 May 2026 12:08:54 PM"
-} ]
+[ { } ]
