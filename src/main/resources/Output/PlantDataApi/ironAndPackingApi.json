@@ -15,14 +15,6 @@
   "Service" : "LC",
   "Sent from store" : "23 May 2026 8:09:02 PM"
 }, {
-  "Order" : "C4879",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*C4879-14-3*",
-  "Customer" : "M dutta",
-  "Garment" : "Carpet",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 7:41:43 PM"
-}, {
   "Order" : "C4890",
   "Due Date" : "03 Jun 2026",
   "Barcode" : "*C4890-1-3*",
