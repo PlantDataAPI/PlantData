@@ -63,86 +63,6 @@
   "Service" : "DC",
   "Sent from store" : "28 May 2026 3:44:49 PM"
 }, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-1-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-2-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-3-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-4-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-5-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-6-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-7-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-8-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-9-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
-  "Order" : "D3123",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*D3123-10-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
-}, {
   "Order" : "D3124",
   "Due Date" : "03 Jun 2026",
   "Barcode" : "*D3124-1-5*",
@@ -150,22 +70,6 @@
   "Garment" : "Blanket Single",
   "Service" : "DC",
   "Sent from store" : "29 May 2026 8:06:37 PM"
-}, {
-  "Order" : "G19143",
-  "Due Date" : "29 May 2026",
-  "Barcode" : "*G19143-3-1*",
-  "Customer" : "Mr DS",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "25 May 2026 3:52:34 PM"
-}, {
-  "Order" : "G19143",
-  "Due Date" : "29 May 2026",
-  "Barcode" : "*G19143-4-1*",
-  "Customer" : "Mr DS",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "25 May 2026 3:52:34 PM"
 }, {
   "Order" : "G19151",
   "Due Date" : "29 May 2026",
@@ -231,134 +135,6 @@
   "Service" : "DC",
   "Sent from store" : "27 May 2026 7:20:40 PM"
 }, {
-  "Order" : "G19154",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*G19154-1-1*",
-  "Customer" : "Vishal tanmay mehta",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19154",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*G19154-2-1*",
-  "Customer" : "Vishal tanmay mehta",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19158",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*G19158-1-1*",
-  "Customer" : "punjab sindh banck",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19158",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*G19158-2-1*",
-  "Customer" : "punjab sindh banck",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19158",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*G19158-3-1*",
-  "Customer" : "punjab sindh banck",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19158",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*G19158-5-1*",
-  "Customer" : "punjab sindh banck",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19162",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*G19162-1-1*",
-  "Customer" : "Ratika",
-  "Garment" : "Slacks",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-1-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-2-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-3-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-4-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-5-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-6-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-7-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-8-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Longcoat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-9-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Longcoat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
   "Order" : "G19165",
   "Due Date" : "01 Jun 2026",
   "Barcode" : "*G19165-13-1*",
@@ -366,70 +142,6 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19165",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19165-45-1*",
-  "Customer" : "Mr sanjeev (mcd)",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19166",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*G19166-1-1*",
-  "Customer" : "Sidhant",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19166",
-  "Due Date" : "30 May 2026",
-  "Barcode" : "*G19166-2-1*",
-  "Customer" : "Sidhant",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 May 2026 7:03:56 PM"
-}, {
-  "Order" : "G19169",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19169-14-1*",
-  "Customer" : "avik",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 12:35:31 PM"
-}, {
-  "Order" : "G19169",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19169-15-1*",
-  "Customer" : "avik",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 12:35:31 PM"
-}, {
-  "Order" : "G19169",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19169-16-1*",
-  "Customer" : "avik",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 12:35:31 PM"
-}, {
-  "Order" : "G19169",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19169-17-1*",
-  "Customer" : "avik",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 12:35:31 PM"
-}, {
-  "Order" : "G19169",
-  "Due Date" : "01 Jun 2026",
-  "Barcode" : "*G19169-18-1*",
-  "Customer" : "avik",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 12:35:31 PM"
 }, {
   "Order" : "G19171",
   "Due Date" : "01 Jun 2026",
@@ -638,12 +350,4 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "28 May 2026 7:43:10 PM"
-}, {
-  "Order" : "S3512",
-  "Due Date" : "31 May 2026",
-  "Barcode" : "*S3512-1-4*",
-  "Customer" : "Mr Antoine Védeilhé",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "28 May 2026 3:44:49 PM"
 } ]
