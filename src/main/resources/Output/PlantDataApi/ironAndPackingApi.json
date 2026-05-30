@@ -39,6 +39,22 @@
   "Service" : "DC",
   "Sent from store" : "28 May 2026 7:43:10 PM"
 }, {
+  "Order" : "D3118",
+  "Due Date" : "29 May 2026",
+  "Barcode" : "*D3118-1-5*",
+  "Customer" : "ravinder",
+  "Garment" : "Kurta + Pants/Salwar/Churidar (Plain)",
+  "Service" : "DC",
+  "Sent from store" : "30 May 2026 3:21:30 PM"
+}, {
+  "Order" : "D3118",
+  "Due Date" : "29 May 2026",
+  "Barcode" : "*D3118-2-5*",
+  "Customer" : "ravinder",
+  "Garment" : "Kurta + Pants/Salwar/Churidar (Plain)",
+  "Service" : "DC",
+  "Sent from store" : "30 May 2026 3:21:30 PM"
+}, {
   "Order" : "D3121",
   "Due Date" : "01 Jun 2026",
   "Barcode" : "*D3121-1-5*",
