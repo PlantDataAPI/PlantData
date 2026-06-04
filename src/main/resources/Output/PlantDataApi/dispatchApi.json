@@ -1,19 +1,10 @@
 [ {
-  "Order" : "G19215",
+  "Order" : "G19220",
   "Due Date" : "04 Jun 2026",
-  "Barcode" : "*G19215-1-1*",
+  "Barcode" : "*G19220-1-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Garment 1",
   "Service" : "LA",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19217",
-  "Due Date" : "05 Jun 2026",
-  "Barcode" : "*G19217-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Receive in workshop" : "",
   "Customer" : ""
 } ]

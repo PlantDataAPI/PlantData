@@ -39,14 +39,6 @@
   "Service" : "DC",
   "Sent from store" : "30 May 2026 3:21:30 PM"
 }, {
-  "Order" : "G19201",
-  "Due Date" : "04 Jun 2026",
-  "Barcode" : "*G19201-3-1*",
-  "Customer" : "naman gupta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "01 Jun 2026 5:24:08 PM"
-}, {
   "Order" : "G19207",
   "Due Date" : "05 Jun 2026",
   "Barcode" : "*G19207-2-1*",
@@ -285,14 +277,6 @@
   "Customer" : "avik",
   "Garment" : "Shirt",
   "Service" : "DC",
-  "Sent from store" : "01 Jun 2026 5:24:08 PM"
-}, {
-  "Order" : "G19220",
-  "Due Date" : "04 Jun 2026",
-  "Barcode" : "*G19220-1-1*",
-  "Customer" : "miss oberai",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
   "Sent from store" : "01 Jun 2026 5:24:08 PM"
 }, {
   "Order" : "S3519",
