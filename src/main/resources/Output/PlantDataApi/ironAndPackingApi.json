@@ -174,12 +174,4 @@
   "Garment" : "Coat",
   "Service" : "DC",
   "Sent from store" : "03 Jun 2026 4:33:37 PM"
-}, {
-  "Order" : "S3524",
-  "Due Date" : "06 Jun 2026",
-  "Barcode" : "*S3524-2-4*",
-  "Customer" : "Mr Nick",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "03 Jun 2026 4:33:37 PM"
 } ]
