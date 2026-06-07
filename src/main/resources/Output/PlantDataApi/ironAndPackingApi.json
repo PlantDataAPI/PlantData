@@ -1,12 +1,4 @@
 [ {
-  "Order" : "C4908",
-  "Due Date" : "10 Jun 2026",
-  "Barcode" : "*C4908-1-3*",
-  "Customer" : "shriti pandey",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jun 2026 7:26:14 PM"
-}, {
   "Order" : "C4909",
   "Due Date" : "10 Jun 2026",
   "Barcode" : "*C4909-1-3*",
@@ -127,41 +119,9 @@
   "Service" : "WI",
   "Sent from store" : "03 Jun 2026 7:35:00 PM"
 }, {
-  "Order" : "G19244",
-  "Due Date" : "08 Jun 2026",
-  "Barcode" : "*G19244-3-1*",
-  "Customer" : "Mr kaushik",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jun 2026 3:31:45 PM"
-}, {
-  "Order" : "G19245",
-  "Due Date" : "08 Jun 2026",
-  "Barcode" : "*G19245-1-1*",
-  "Customer" : "Mr nishant datta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jun 2026 7:26:14 PM"
-}, {
-  "Order" : "G19245",
-  "Due Date" : "08 Jun 2026",
-  "Barcode" : "*G19245-2-1*",
-  "Customer" : "Mr nishant datta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jun 2026 7:26:14 PM"
-}, {
   "Order" : "G19246",
   "Due Date" : "08 Jun 2026",
   "Barcode" : "*G19246-1-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jun 2026 7:26:14 PM"
-}, {
-  "Order" : "G19246",
-  "Due Date" : "08 Jun 2026",
-  "Barcode" : "*G19246-2-1*",
   "Customer" : "vijeth kanahalli",
   "Garment" : "Shirt",
   "Service" : "DC",
@@ -217,27 +177,11 @@
 }, {
   "Order" : "G19250",
   "Due Date" : "08 Jun 2026",
-  "Barcode" : "*G19250-10-1*",
-  "Customer" : "diana",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jun 2026 7:26:14 PM"
-}, {
-  "Order" : "G19250",
-  "Due Date" : "08 Jun 2026",
   "Barcode" : "*G19250-11-1*",
   "Customer" : "diana",
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "04 Jun 2026 7:26:14 PM"
-}, {
-  "Order" : "G19252",
-  "Due Date" : "07 Jun 2026",
-  "Barcode" : "*G19252-2-1*",
-  "Customer" : "Mr ajay mathur",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "05 Jun 2026 12:14:24 PM"
 }, {
   "Order" : "G19255",
   "Due Date" : "08 Jun 2026",
