@@ -1,1 +1,10 @@
-[ { } ]
+[ {
+  "Order" : "C4908",
+  "Due Date" : "10 Jun 2026",
+  "Barcode" : "*C4908-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]

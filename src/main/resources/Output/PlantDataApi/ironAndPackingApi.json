@@ -15,14 +15,6 @@
   "Service" : "DC",
   "Sent from store" : "05 Jun 2026 6:39:47 PM"
 }, {
-  "Order" : "C4912",
-  "Due Date" : "10 Jun 2026",
-  "Barcode" : "*C4912-1-3*",
-  "Customer" : "Priscilla",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "06 Jun 2026 2:06:39 PM"
-}, {
   "Order" : "D3118",
   "Due Date" : "29 May 2026",
   "Barcode" : "*D3118-1-5*",
@@ -118,14 +110,6 @@
   "Garment" : "Garment 1",
   "Service" : "WI",
   "Sent from store" : "03 Jun 2026 7:35:00 PM"
-}, {
-  "Order" : "G19246",
-  "Due Date" : "08 Jun 2026",
-  "Barcode" : "*G19246-1-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jun 2026 7:26:14 PM"
 }, {
   "Order" : "G19248",
   "Due Date" : "07 Jun 2026",
@@ -269,14 +253,6 @@
   "Customer" : "hegde",
   "Garment" : "Kurta Light",
   "Service" : "DC",
-  "Sent from store" : "06 Jun 2026 11:13:16 AM"
-}, {
-  "Order" : "G19257",
-  "Due Date" : "08 Jun 2026",
-  "Barcode" : "*G19257-1-1*",
-  "Customer" : "dr anish",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Sent from store" : "06 Jun 2026 11:13:16 AM"
 }, {
   "Order" : "G19258",

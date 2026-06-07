@@ -17,65 +17,9 @@
 }, {
   "Order" : "C4914",
   "Due Date" : "11 Jun 2026",
-  "Barcode" : "*C4914-3-3*",
-  "Customer" : "MEENAKSHI K",
-  "Garment" : "Pyjama (Light)",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:28:45 PM"
-}, {
-  "Order" : "C4914",
-  "Due Date" : "11 Jun 2026",
   "Barcode" : "*C4914-4-3*",
   "Customer" : "MEENAKSHI K",
   "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:28:45 PM"
-}, {
-  "Order" : "C4914",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*C4914-5-3*",
-  "Customer" : "MEENAKSHI K",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:28:45 PM"
-}, {
-  "Order" : "C4914",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*C4914-6-3*",
-  "Customer" : "MEENAKSHI K",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:28:45 PM"
-}, {
-  "Order" : "C4914",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*C4914-7-3*",
-  "Customer" : "MEENAKSHI K",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:28:45 PM"
-}, {
-  "Order" : "C4914",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*C4914-8-3*",
-  "Customer" : "MEENAKSHI K",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:28:45 PM"
-}, {
-  "Order" : "C4914",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*C4914-9-3*",
-  "Customer" : "MEENAKSHI K",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:28:45 PM"
-}, {
-  "Order" : "C4914",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*C4914-10-3*",
-  "Customer" : "MEENAKSHI K",
-  "Garment" : "Lungi / Dhoti (Silk)",
   "Service" : "DC",
   "Sent from store" : "07 Jun 2026 2:28:45 PM"
 }, {
@@ -92,30 +36,6 @@
   "Barcode" : "*D3131-2-5*",
   "Customer" : "amvika ariya",
   "Garment" : "Kameez /Kurta (Heavy)",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:38:15 PM"
-}, {
-  "Order" : "D3134",
-  "Due Date" : "08 Jun 2026",
-  "Barcode" : "*D3134-1-5*",
-  "Customer" : "Akansha Jindal",
-  "Garment" : "Pillow (Small)",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:38:15 PM"
-}, {
-  "Order" : "D3134",
-  "Due Date" : "08 Jun 2026",
-  "Barcode" : "*D3134-2-5*",
-  "Customer" : "Akansha Jindal",
-  "Garment" : "Pillow (Small)",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 2:38:15 PM"
-}, {
-  "Order" : "D3134",
-  "Due Date" : "08 Jun 2026",
-  "Barcode" : "*D3134-3-5*",
-  "Customer" : "Akansha Jindal",
-  "Garment" : "Pillow (Small)",
   "Service" : "DC",
   "Sent from store" : "07 Jun 2026 2:38:15 PM"
 } ]
