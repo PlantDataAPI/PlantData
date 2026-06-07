@@ -7,4 +7,22 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
+}, {
+  "Order" : "C4910",
+  "Due Date" : "10 Jun 2026",
+  "Barcode" : "*C4910-3-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Jacket Half",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19250",
+  "Due Date" : "08 Jun 2026",
+  "Barcode" : "*G19250-11-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
 } ]
