@@ -103,33 +103,9 @@
   "Service" : "DC",
   "Sent from store" : "05 Jun 2026 5:34:31 PM"
 }, {
-  "Order" : "D3136",
-  "Due Date" : "12 Jun 2026",
-  "Barcode" : "*D3136-1-5*",
-  "Customer" : "Mr Pragyan",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "10 Jun 2026 6:19:58 PM"
-}, {
   "Order" : "G19272",
   "Due Date" : "11 Jun 2026",
   "Barcode" : "*G19272-2-1*",
-  "Customer" : "Vivek",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
-}, {
-  "Order" : "G19272",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19272-6-1*",
-  "Customer" : "Vivek",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
-}, {
-  "Order" : "G19272",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19272-7-1*",
   "Customer" : "Vivek",
   "Garment" : "Shirt",
   "Service" : "DC",
@@ -143,46 +119,6 @@
   "Service" : "SPO",
   "Sent from store" : "08 Jun 2026 1:35:21 PM"
 }, {
-  "Order" : "G19275",
-  "Due Date" : "10 Jun 2026",
-  "Barcode" : "*G19275-2-1*",
-  "Customer" : "Ms roy",
-  "Garment" : "Top (Light)",
-  "Service" : "SPO",
-  "Sent from store" : "08 Jun 2026 1:35:21 PM"
-}, {
-  "Order" : "G19275",
-  "Due Date" : "10 Jun 2026",
-  "Barcode" : "*G19275-3-1*",
-  "Customer" : "Ms roy",
-  "Garment" : "Top (Light)",
-  "Service" : "SPO",
-  "Sent from store" : "08 Jun 2026 1:35:21 PM"
-}, {
-  "Order" : "G19275",
-  "Due Date" : "10 Jun 2026",
-  "Barcode" : "*G19275-4-1*",
-  "Customer" : "Ms roy",
-  "Garment" : "Salwar",
-  "Service" : "SPO",
-  "Sent from store" : "08 Jun 2026 1:35:21 PM"
-}, {
-  "Order" : "G19275",
-  "Due Date" : "10 Jun 2026",
-  "Barcode" : "*G19275-5-1*",
-  "Customer" : "Ms roy",
-  "Garment" : "Kameez /Kurta (light)",
-  "Service" : "SPO",
-  "Sent from store" : "08 Jun 2026 1:35:21 PM"
-}, {
-  "Order" : "G19275",
-  "Due Date" : "10 Jun 2026",
-  "Barcode" : "*G19275-6-1*",
-  "Customer" : "Ms roy",
-  "Garment" : "Palazo",
-  "Service" : "SPO",
-  "Sent from store" : "08 Jun 2026 1:35:21 PM"
-}, {
   "Order" : "G19276",
   "Due Date" : "12 Jun 2026",
   "Barcode" : "*G19276-1-1*",
@@ -190,14 +126,6 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "08 Jun 2026 1:35:21 PM"
-}, {
-  "Order" : "G19278",
-  "Due Date" : "12 Jun 2026",
-  "Barcode" : "*G19278-1-1*",
-  "Customer" : "Mr manik",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "08 Jun 2026 7:39:19 PM"
 }, {
   "Order" : "S3535",
   "Due Date" : "12 Jun 2026",
