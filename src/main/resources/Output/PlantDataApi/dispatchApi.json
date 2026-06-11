@@ -1,10 +1,10 @@
 [ {
-  "Order" : "G19278",
+  "Order" : "D3136",
   "Due Date" : "12 Jun 2026",
-  "Barcode" : "*G19278-1-1*",
-  "Store Name" : "Greenpark",
+  "Barcode" : "*D3136-1-5*",
+  "Store Name" : "Defence Colony",
   "Garment" : "Garment 1",
-  "Service" : "WI",
+  "Service" : "WF",
   "Receive in workshop" : "",
   "Customer" : ""
 } ]
