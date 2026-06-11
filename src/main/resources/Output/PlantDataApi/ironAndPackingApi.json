@@ -1,12 +1,4 @@
 [ {
-  "Order" : "C4913",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*C4913-1-3*",
-  "Customer" : "manish  dewan",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "06 Jun 2026 2:06:39 PM"
-}, {
   "Order" : "C4916",
   "Due Date" : "11 Jun 2026",
   "Barcode" : "*C4916-1-3*",
@@ -111,22 +103,6 @@
   "Service" : "DC",
   "Sent from store" : "05 Jun 2026 5:34:31 PM"
 }, {
-  "Order" : "D3135",
-  "Due Date" : "13 Jun 2026",
-  "Barcode" : "*D3135-2-5*",
-  "Customer" : "Ms Reena Soni",
-  "Garment" : "Blazer",
-  "Service" : "DC",
-  "Sent from store" : "08 Jun 2026 1:12:48 PM"
-}, {
-  "Order" : "D3135",
-  "Due Date" : "13 Jun 2026",
-  "Barcode" : "*D3135-6-5*",
-  "Customer" : "Ms Reena Soni",
-  "Garment" : "Dress (light)",
-  "Service" : "DC",
-  "Sent from store" : "08 Jun 2026 1:12:48 PM"
-}, {
   "Order" : "D3136",
   "Due Date" : "12 Jun 2026",
   "Barcode" : "*D3136-1-5*",
@@ -134,22 +110,6 @@
   "Garment" : "Garment 1",
   "Service" : "WF",
   "Sent from store" : "10 Jun 2026 6:19:58 PM"
-}, {
-  "Order" : "G19270",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19270-1-1*",
-  "Customer" : "aman noida",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
-}, {
-  "Order" : "G19270",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19270-2-1*",
-  "Customer" : "aman noida",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
 }, {
   "Order" : "G19272",
   "Due Date" : "11 Jun 2026",
@@ -173,54 +133,6 @@
   "Customer" : "Vivek",
   "Garment" : "Shirt",
   "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
-}, {
-  "Order" : "G19272",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19272-8-1*",
-  "Customer" : "Vivek",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
-}, {
-  "Order" : "G19272",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19272-9-1*",
-  "Customer" : "Vivek",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
-}, {
-  "Order" : "G19272",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19272-10-1*",
-  "Customer" : "Vivek",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
-}, {
-  "Order" : "G19272",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19272-11-1*",
-  "Customer" : "Vivek",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
-}, {
-  "Order" : "G19272",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19272-12-1*",
-  "Customer" : "Vivek",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "07 Jun 2026 6:03:11 PM"
-}, {
-  "Order" : "G19272",
-  "Due Date" : "11 Jun 2026",
-  "Barcode" : "*G19272-13-1*",
-  "Customer" : "Vivek",
-  "Garment" : "Pants",
-  "Service" : "SPO",
   "Sent from store" : "07 Jun 2026 6:03:11 PM"
 }, {
   "Order" : "G19275",
