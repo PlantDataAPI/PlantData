@@ -207,14 +207,6 @@
   "Service" : "DC",
   "Sent from store" : "10 Jun 2026 6:19:58 PM"
 }, {
-  "Order" : "G19285",
-  "Due Date" : "13 Jun 2026",
-  "Barcode" : "*G19285-1-1*",
-  "Customer" : "kavita khana",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
-  "Sent from store" : "10 Jun 2026 6:19:58 PM"
-}, {
   "Order" : "G19286",
   "Due Date" : "13 Jun 2026",
   "Barcode" : "*G19286-1-1*",
