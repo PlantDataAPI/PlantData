@@ -1,44 +1,4 @@
 [ {
-  "Order" : "S3538",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*S3538-27-4*",
-  "Customer" : "vikash singh",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 3:53:07 PM"
-}, {
-  "Order" : "S3538",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*S3538-28-4*",
-  "Customer" : "vikash singh",
-  "Garment" : "Sweat Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 3:53:07 PM"
-}, {
-  "Order" : "S3538",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*S3538-30-4*",
-  "Customer" : "vikash singh",
-  "Garment" : "Sweat Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 3:53:07 PM"
-}, {
-  "Order" : "S3538",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*S3538-31-4*",
-  "Customer" : "vikash singh",
-  "Garment" : "Sweat Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 3:53:07 PM"
-}, {
-  "Order" : "S3538",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*S3538-34-4*",
-  "Customer" : "vikash singh",
-  "Garment" : "Lungi / Dhoti (Silk)",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 3:53:07 PM"
-}, {
   "Order" : "C4924",
   "Due Date" : "13 Jun 2026",
   "Barcode" : "*C4924-4-3*",
@@ -508,6 +468,46 @@
   "Barcode" : "*S3538-25-4*",
   "Customer" : "vikash singh",
   "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Sent from store" : "11 Jun 2026 3:53:07 PM"
+}, {
+  "Order" : "S3538",
+  "Due Date" : "14 Jun 2026",
+  "Barcode" : "*S3538-27-4*",
+  "Customer" : "vikash singh",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "11 Jun 2026 3:53:07 PM"
+}, {
+  "Order" : "S3538",
+  "Due Date" : "14 Jun 2026",
+  "Barcode" : "*S3538-28-4*",
+  "Customer" : "vikash singh",
+  "Garment" : "Sweat Shirt",
+  "Service" : "DC",
+  "Sent from store" : "11 Jun 2026 3:53:07 PM"
+}, {
+  "Order" : "S3538",
+  "Due Date" : "14 Jun 2026",
+  "Barcode" : "*S3538-30-4*",
+  "Customer" : "vikash singh",
+  "Garment" : "Sweat Pants",
+  "Service" : "DC",
+  "Sent from store" : "11 Jun 2026 3:53:07 PM"
+}, {
+  "Order" : "S3538",
+  "Due Date" : "14 Jun 2026",
+  "Barcode" : "*S3538-31-4*",
+  "Customer" : "vikash singh",
+  "Garment" : "Sweat Pants",
+  "Service" : "DC",
+  "Sent from store" : "11 Jun 2026 3:53:07 PM"
+}, {
+  "Order" : "S3538",
+  "Due Date" : "14 Jun 2026",
+  "Barcode" : "*S3538-34-4*",
+  "Customer" : "vikash singh",
+  "Garment" : "Lungi / Dhoti (Silk)",
   "Service" : "DC",
   "Sent from store" : "11 Jun 2026 3:53:07 PM"
 } ]
