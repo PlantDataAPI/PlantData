@@ -201,54 +201,6 @@
 }, {
   "Order" : "G19291",
   "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19291-1-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19291",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19291-2-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19291",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19291-3-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19291",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19291-4-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19291",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19291-5-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19291",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19291-6-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19291",
-  "Due Date" : "14 Jun 2026",
   "Barcode" : "*G19291-7-1*",
   "Customer" : "Mr umesh",
   "Garment" : "Shirt",
@@ -289,14 +241,6 @@
 }, {
   "Order" : "G19293",
   "Due Date" : "15 Jun 2026",
-  "Barcode" : "*G19293-7-1*",
-  "Customer" : "Ms pallavi barua",
-  "Garment" : "Top (Medium)",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19293",
-  "Due Date" : "15 Jun 2026",
   "Barcode" : "*G19293-8-1*",
   "Customer" : "Ms pallavi barua",
   "Garment" : "Pants",
@@ -321,41 +265,9 @@
 }, {
   "Order" : "G19294",
   "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19294-3-1*",
-  "Customer" : "amit sharma E11",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19294",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19294-4-1*",
-  "Customer" : "amit sharma E11",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19294",
-  "Due Date" : "14 Jun 2026",
   "Barcode" : "*G19294-5-1*",
   "Customer" : "amit sharma E11",
   "Garment" : "Shorts",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 3:53:07 PM"
-}, {
-  "Order" : "G19294",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19294-6-1*",
-  "Customer" : "amit sharma E11",
-  "Garment" : "Shorts",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 3:53:07 PM"
-}, {
-  "Order" : "G19294",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19294-7-1*",
-  "Customer" : "amit sharma E11",
-  "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "11 Jun 2026 3:53:07 PM"
 }, {
@@ -370,14 +282,6 @@
   "Order" : "G19294",
   "Due Date" : "14 Jun 2026",
   "Barcode" : "*G19294-9-1*",
-  "Customer" : "amit sharma E11",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 3:53:07 PM"
-}, {
-  "Order" : "G19294",
-  "Due Date" : "14 Jun 2026",
-  "Barcode" : "*G19294-10-1*",
   "Customer" : "amit sharma E11",
   "Garment" : "Pants",
   "Service" : "DC",
@@ -422,14 +326,6 @@
   "Garment" : "Pants",
   "Service" : "DC",
   "Sent from store" : "11 Jun 2026 3:53:07 PM"
-}, {
-  "Order" : "G19298",
-  "Due Date" : "15 Jun 2026",
-  "Barcode" : "*G19298-1-1*",
-  "Customer" : "diana",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 5:42:51 PM"
 }, {
   "Order" : "G19298",
   "Due Date" : "15 Jun 2026",
@@ -486,14 +382,6 @@
   "Garment" : "Top (Light)",
   "Service" : "DC",
   "Sent from store" : "11 Jun 2026 5:42:51 PM"
-}, {
-  "Order" : "G19300",
-  "Due Date" : "15 Jun 2026",
-  "Barcode" : "*G19300-1-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Jun 2026 8:05:18 PM"
 }, {
   "Order" : "G19300",
   "Due Date" : "15 Jun 2026",
