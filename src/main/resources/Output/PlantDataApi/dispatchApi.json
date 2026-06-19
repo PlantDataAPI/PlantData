@@ -34,4 +34,31 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
+}, {
+  "Order" : "S3550",
+  "Due Date" : "19 Jun 2026",
+  "Barcode" : "*S3550-2-4*",
+  "Store Name" : "Saket",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3550",
+  "Due Date" : "19 Jun 2026",
+  "Barcode" : "*S3550-9-4*",
+  "Store Name" : "Saket",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3550",
+  "Due Date" : "19 Jun 2026",
+  "Barcode" : "*S3550-11-4*",
+  "Store Name" : "Saket",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
 } ]

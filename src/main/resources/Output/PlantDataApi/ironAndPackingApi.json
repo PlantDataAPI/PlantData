@@ -71,38 +71,6 @@
   "Service" : "DC",
   "Sent from store" : "17 Jun 2026 6:24:49 PM"
 }, {
-  "Order" : "G19292",
-  "Due Date" : "15 Jun 2026",
-  "Barcode" : "*G19292-3-1*",
-  "Customer" : "mayur",
-  "Garment" : "Sport Shoe Left",
-  "Service" : "LC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19292",
-  "Due Date" : "15 Jun 2026",
-  "Barcode" : "*G19292-4-1*",
-  "Customer" : "mayur",
-  "Garment" : "Sport Shoe Right",
-  "Service" : "LC",
-  "Sent from store" : "11 Jun 2026 2:00:03 PM"
-}, {
-  "Order" : "G19314",
-  "Due Date" : "18 Jun 2026",
-  "Barcode" : "*G19314-2-1*",
-  "Customer" : "Mr ajay madhok",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "14 Jun 2026 6:37:27 PM"
-}, {
-  "Order" : "G19315",
-  "Due Date" : "18 Jun 2026",
-  "Barcode" : "*G19315-1-1*",
-  "Customer" : "Ms pallavi barua",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "14 Jun 2026 6:37:27 PM"
-}, {
   "Order" : "G19322",
   "Due Date" : "20 Jun 2026",
   "Barcode" : "*G19322-1-1*",
@@ -126,14 +94,6 @@
   "Garment" : "Pants",
   "Service" : "DC",
   "Sent from store" : "15 Jun 2026 6:53:29 PM"
-}, {
-  "Order" : "G19324",
-  "Due Date" : "19 Jun 2026",
-  "Barcode" : "*G19324-1-1*",
-  "Customer" : "Mr rohit",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "17 Jun 2026 6:24:49 PM"
 }, {
   "Order" : "G19327",
   "Due Date" : "20 Jun 2026",
@@ -326,30 +286,6 @@
   "Garment" : "Pants",
   "Service" : "DC",
   "Sent from store" : "17 Jun 2026 6:24:49 PM"
-}, {
-  "Order" : "S3550",
-  "Due Date" : "19 Jun 2026",
-  "Barcode" : "*S3550-2-4*",
-  "Customer" : "Mr Darayus Nariman",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "15 Jun 2026 6:53:29 PM"
-}, {
-  "Order" : "S3550",
-  "Due Date" : "19 Jun 2026",
-  "Barcode" : "*S3550-9-4*",
-  "Customer" : "Mr Darayus Nariman",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "15 Jun 2026 6:53:29 PM"
-}, {
-  "Order" : "S3550",
-  "Due Date" : "19 Jun 2026",
-  "Barcode" : "*S3550-11-4*",
-  "Customer" : "Mr Darayus Nariman",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "15 Jun 2026 6:53:29 PM"
 }, {
   "Order" : "S3552",
   "Due Date" : "20 Jun 2026",
