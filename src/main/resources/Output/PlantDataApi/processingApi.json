@@ -1,1 +1,41 @@
-[ { } ]
+[ {
+  "Order" : "G19340",
+  "Due Date" : "20 Jun 2026",
+  "Barcode" : "*G19340-1-1*",
+  "Customer" : "Anushka",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Sent from store" : "19 Jun 2026 12:34:05 PM"
+}, {
+  "Order" : "G19341",
+  "Due Date" : "22 Jun 2026",
+  "Barcode" : "*G19341-1-1*",
+  "Customer" : "Arjun",
+  "Garment" : "Jeans",
+  "Service" : "DC",
+  "Sent from store" : "19 Jun 2026 12:34:05 PM"
+}, {
+  "Order" : "G19341",
+  "Due Date" : "22 Jun 2026",
+  "Barcode" : "*G19341-2-1*",
+  "Customer" : "Arjun",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Sent from store" : "19 Jun 2026 12:34:05 PM"
+}, {
+  "Order" : "G19341",
+  "Due Date" : "22 Jun 2026",
+  "Barcode" : "*G19341-3-1*",
+  "Customer" : "Arjun",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Sent from store" : "19 Jun 2026 12:34:05 PM"
+}, {
+  "Order" : "G19341",
+  "Due Date" : "22 Jun 2026",
+  "Barcode" : "*G19341-4-1*",
+  "Customer" : "Arjun",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "19 Jun 2026 12:34:05 PM"
+} ]
