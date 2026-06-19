@@ -1,1 +1,37 @@
-[ { } ]
+[ {
+  "Order" : "C4940",
+  "Due Date" : "19 Jun 2026",
+  "Barcode" : "*C4940-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Blazer",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4940",
+  "Due Date" : "19 Jun 2026",
+  "Barcode" : "*C4940-2-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4940",
+  "Due Date" : "19 Jun 2026",
+  "Barcode" : "*C4940-3-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4940",
+  "Due Date" : "19 Jun 2026",
+  "Barcode" : "*C4940-4-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
