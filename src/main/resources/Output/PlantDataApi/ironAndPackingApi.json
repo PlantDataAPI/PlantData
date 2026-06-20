@@ -47,14 +47,6 @@
   "Service" : "DC",
   "Sent from store" : "18 Jun 2026 6:38:02 PM"
 }, {
-  "Order" : "C4950",
-  "Due Date" : "21 Jun 2026",
-  "Barcode" : "*C4950-7-3*",
-  "Customer" : "Dr Jaskaran Singh",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "18 Jun 2026 6:38:02 PM"
-}, {
   "Order" : "C4951",
   "Due Date" : "22 Jun 2026",
   "Barcode" : "*C4951-2-3*",
@@ -97,39 +89,7 @@
 }, {
   "Order" : "D3144",
   "Due Date" : "21 Jun 2026",
-  "Barcode" : "*D3144-1-5*",
-  "Customer" : "Mrs Sanchita",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jun 2026 11:36:28 AM"
-}, {
-  "Order" : "D3144",
-  "Due Date" : "21 Jun 2026",
   "Barcode" : "*D3144-4-5*",
-  "Customer" : "Mrs Sanchita",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jun 2026 11:36:28 AM"
-}, {
-  "Order" : "D3144",
-  "Due Date" : "21 Jun 2026",
-  "Barcode" : "*D3144-6-5*",
-  "Customer" : "Mrs Sanchita",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jun 2026 11:36:28 AM"
-}, {
-  "Order" : "D3144",
-  "Due Date" : "21 Jun 2026",
-  "Barcode" : "*D3144-7-5*",
-  "Customer" : "Mrs Sanchita",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jun 2026 11:36:28 AM"
-}, {
-  "Order" : "D3144",
-  "Due Date" : "21 Jun 2026",
-  "Barcode" : "*D3144-10-5*",
   "Customer" : "Mrs Sanchita",
   "Garment" : "Shirt",
   "Service" : "DC",

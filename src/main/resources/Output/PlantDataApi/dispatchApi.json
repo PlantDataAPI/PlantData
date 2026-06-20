@@ -16,13 +16,4 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
-}, {
-  "Order" : "G19327",
-  "Due Date" : "20 Jun 2026",
-  "Barcode" : "*G19327-6-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Cushion Cover (Big)",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
 } ]
