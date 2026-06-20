@@ -1,1 +1,28 @@
-[ { } ]
+[ {
+  "Order" : "C4949",
+  "Due Date" : "24 Jun 2026",
+  "Barcode" : "*C4949-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4949",
+  "Due Date" : "24 Jun 2026",
+  "Barcode" : "*C4949-3-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19327",
+  "Due Date" : "20 Jun 2026",
+  "Barcode" : "*G19327-6-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Cushion Cover (Big)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
