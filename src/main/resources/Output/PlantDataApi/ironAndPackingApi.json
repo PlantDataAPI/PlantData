@@ -79,14 +79,6 @@
   "Service" : "DC",
   "Sent from store" : "19 Jun 2026 6:59:16 PM"
 }, {
-  "Order" : "G19322",
-  "Due Date" : "20 Jun 2026",
-  "Barcode" : "*G19322-3-1*",
-  "Customer" : "amit sharma E11",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "15 Jun 2026 6:53:29 PM"
-}, {
   "Order" : "G19328",
   "Due Date" : "21 Jun 2026",
   "Barcode" : "*G19328-9-1*",
