@@ -1,1 +1,9 @@
-[ { } ]
+[ {
+  "Order" : "C4961",
+  "Due Date" : "26 Jun 2026",
+  "Barcode" : "*C4961-1-3*",
+  "Customer" : "Ritika",
+  "Garment" : "Choli / Blouse (Light)",
+  "Service" : "DC",
+  "Sent from store" : "22 Jun 2026 2:43:33 PM"
+} ]
