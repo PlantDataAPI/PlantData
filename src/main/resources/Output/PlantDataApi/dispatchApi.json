@@ -7,13 +7,4 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
-}, {
-  "Order" : "G19377",
-  "Due Date" : "26 Jun 2026",
-  "Barcode" : "*G19377-6-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
 } ]

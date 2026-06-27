@@ -15,6 +15,14 @@
   "Service" : "WI",
   "Sent from store" : "18 Jun 2026 6:38:02 PM"
 }, {
+  "Order" : "C4965",
+  "Due Date" : "01 Jul 2026",
+  "Barcode" : "*C4965-3-3*",
+  "Customer" : "Hema kashavp",
+  "Garment" : "Blanket Double",
+  "Service" : "DC",
+  "Sent from store" : "27 Jun 2026 5:32:05 PM"
+}, {
   "Order" : "D3153",
   "Due Date" : "28 Jun 2026",
   "Barcode" : "*D3153-1-5*",
