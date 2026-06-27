@@ -7,4 +7,49 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
+}, {
+  "Order" : "G19368",
+  "Due Date" : "25 Jun 2026",
+  "Barcode" : "*G19368-4-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19368",
+  "Due Date" : "25 Jun 2026",
+  "Barcode" : "*G19368-5-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19377",
+  "Due Date" : "26 Jun 2026",
+  "Barcode" : "*G19377-4-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19377",
+  "Due Date" : "26 Jun 2026",
+  "Barcode" : "*G19377-5-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19385",
+  "Due Date" : "28 Jun 2026",
+  "Barcode" : "*G19385-7-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Quilt Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
 } ]
