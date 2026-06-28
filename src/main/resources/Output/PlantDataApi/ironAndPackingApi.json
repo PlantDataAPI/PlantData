@@ -151,14 +151,6 @@
   "Service" : "DC",
   "Sent from store" : "24 Jun 2026 5:49:27 PM"
 }, {
-  "Order" : "G19391",
-  "Due Date" : "28 Jun 2026",
-  "Barcode" : "*G19391-21-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "25 Jun 2026 5:19:39 PM"
-}, {
   "Order" : "G19395",
   "Due Date" : "29 Jun 2026",
   "Barcode" : "*G19395-1-1*",
