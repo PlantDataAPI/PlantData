@@ -151,14 +151,6 @@
   "Service" : "DC",
   "Sent from store" : "26 Jun 2026 7:25:53 PM"
 }, {
-  "Order" : "G19403",
-  "Due Date" : "29 Jun 2026",
-  "Barcode" : "*G19403-1-1*",
-  "Customer" : "darshan",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "26 Jun 2026 7:25:53 PM"
-}, {
   "Order" : "G19406",
   "Due Date" : "01 Jul 2026",
   "Barcode" : "*G19406-1-1*",
