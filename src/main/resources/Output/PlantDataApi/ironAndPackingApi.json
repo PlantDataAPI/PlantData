@@ -327,14 +327,6 @@
   "Service" : "DC",
   "Sent from store" : "28 Jun 2026 1:25:33 PM"
 }, {
-  "Order" : "G19412",
-  "Due Date" : "01 Jul 2026",
-  "Barcode" : "*G19412-1-1*",
-  "Customer" : "Mr koo",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "28 Jun 2026 1:25:33 PM"
-}, {
   "Order" : "S3571",
   "Due Date" : "01 Jul 2026",
   "Barcode" : "*S3571-1-4*",
