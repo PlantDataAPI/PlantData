@@ -183,14 +183,6 @@
   "Service" : "DC",
   "Sent from store" : "27 Jun 2026 5:32:05 PM"
 }, {
-  "Order" : "G19411",
-  "Due Date" : "02 Jul 2026",
-  "Barcode" : "*G19411-1-1*",
-  "Customer" : "Ms sheetal kacker",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "28 Jun 2026 1:25:33 PM"
-}, {
   "Order" : "G19417",
   "Due Date" : "03 Jul 2026",
   "Barcode" : "*G19417-1-1*",
@@ -365,14 +357,6 @@
   "Customer" : "Mr tarun thakur",
   "Garment" : "Blanket Single",
   "Service" : "DC",
-  "Sent from store" : "29 Jun 2026 4:59:51 PM"
-}, {
-  "Order" : "G19425",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19425-1-1*",
-  "Customer" : "Mr tarun thakur",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
   "Sent from store" : "29 Jun 2026 4:59:51 PM"
 }, {
   "Order" : "G19426",
