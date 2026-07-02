@@ -1,36 +1,4 @@
 [ {
-  "Order" : "G19418",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19418-1-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 Jun 2026 4:59:29 PM"
-}, {
-  "Order" : "G19418",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19418-2-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 Jun 2026 4:59:29 PM"
-}, {
-  "Order" : "G19418",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19418-3-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 Jun 2026 4:59:29 PM"
-}, {
-  "Order" : "G19426",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19426-1-1*",
-  "Customer" : "Mr tarun thakur",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "29 Jun 2026 4:59:51 PM"
-}, {
   "Order" : "G19427",
   "Due Date" : "04 Jul 2026",
   "Barcode" : "*G19427-1-1*",
