@@ -1,12 +1,4 @@
 [ {
-  "Order" : "G19417",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19417-2-1*",
-  "Customer" : "amit sharma E11",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "28 Jun 2026 4:59:29 PM"
-}, {
   "Order" : "G19418",
   "Due Date" : "03 Jul 2026",
   "Barcode" : "*G19418-1-1*",
@@ -30,62 +22,6 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "28 Jun 2026 4:59:29 PM"
-}, {
-  "Order" : "G19421",
-  "Due Date" : "04 Jul 2026",
-  "Barcode" : "*G19421-2-1*",
-  "Customer" : "Mr Shakti",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jun 2026 4:59:51 PM"
-}, {
-  "Order" : "G19422",
-  "Due Date" : "04 Jul 2026",
-  "Barcode" : "*G19422-5-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jun 2026 4:59:51 PM"
-}, {
-  "Order" : "G19422",
-  "Due Date" : "04 Jul 2026",
-  "Barcode" : "*G19422-6-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jun 2026 4:59:51 PM"
-}, {
-  "Order" : "G19422",
-  "Due Date" : "04 Jul 2026",
-  "Barcode" : "*G19422-7-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jun 2026 4:59:51 PM"
-}, {
-  "Order" : "G19422",
-  "Due Date" : "04 Jul 2026",
-  "Barcode" : "*G19422-8-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jun 2026 4:59:51 PM"
-}, {
-  "Order" : "G19422",
-  "Due Date" : "04 Jul 2026",
-  "Barcode" : "*G19422-9-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jun 2026 4:59:51 PM"
-}, {
-  "Order" : "G19423",
-  "Due Date" : "04 Jul 2026",
-  "Barcode" : "*G19423-1-1*",
-  "Customer" : "Mr tarun thakur",
-  "Garment" : "Blanket Single",
-  "Service" : "DC",
-  "Sent from store" : "29 Jun 2026 4:59:51 PM"
 }, {
   "Order" : "G19426",
   "Due Date" : "03 Jul 2026",
@@ -126,78 +62,6 @@
   "Garment" : "Garment 1",
   "Service" : "WF",
   "Sent from store" : "01 Jul 2026 7:27:57 PM"
-}, {
-  "Order" : "S3572",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*S3572-1-4*",
-  "Customer" : "Mr Ajay",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Jun 2026 5:32:05 PM"
-}, {
-  "Order" : "S3572",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*S3572-3-4*",
-  "Customer" : "Mr Ajay",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Jun 2026 5:32:05 PM"
-}, {
-  "Order" : "S3572",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*S3572-5-4*",
-  "Customer" : "Mr Ajay",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Jun 2026 5:32:05 PM"
-}, {
-  "Order" : "S3572",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*S3572-6-4*",
-  "Customer" : "Mr Ajay",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Jun 2026 5:32:05 PM"
-}, {
-  "Order" : "S3572",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*S3572-8-4*",
-  "Customer" : "Mr Ajay",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Jun 2026 5:32:05 PM"
-}, {
-  "Order" : "S3572",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*S3572-9-4*",
-  "Customer" : "Mr Ajay",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Jun 2026 5:32:05 PM"
-}, {
-  "Order" : "S3572",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*S3572-13-4*",
-  "Customer" : "Mr Ajay",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Jun 2026 5:32:05 PM"
-}, {
-  "Order" : "S3572",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*S3572-14-4*",
-  "Customer" : "Mr Ajay",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "27 Jun 2026 5:32:05 PM"
-}, {
-  "Order" : "S3572",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*S3572-15-4*",
-  "Customer" : "Mr Ajay",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "27 Jun 2026 5:32:05 PM"
 }, {
   "Order" : "S3573",
   "Due Date" : "04 Jul 2026",
