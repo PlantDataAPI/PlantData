@@ -1,40 +1,4 @@
 [ {
-  "Order" : "G19418",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19418-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19418",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19418-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19418",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19418-3-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19426",
-  "Due Date" : "03 Jul 2026",
-  "Barcode" : "*G19426-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
   "Order" : "S3572",
   "Due Date" : "03 Jul 2026",
   "Barcode" : "*S3572-1-4*",
@@ -112,6 +76,51 @@
   "Barcode" : "*S3572-15-4*",
   "Store Name" : "Saket",
   "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3573",
+  "Due Date" : "04 Jul 2026",
+  "Barcode" : "*S3573-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3573",
+  "Due Date" : "04 Jul 2026",
+  "Barcode" : "*S3573-2-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3573",
+  "Due Date" : "04 Jul 2026",
+  "Barcode" : "*S3573-3-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3573",
+  "Due Date" : "04 Jul 2026",
+  "Barcode" : "*S3573-4-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3573",
+  "Due Date" : "04 Jul 2026",
+  "Barcode" : "*S3573-5-4*",
+  "Store Name" : "Saket",
+  "Garment" : "T Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
