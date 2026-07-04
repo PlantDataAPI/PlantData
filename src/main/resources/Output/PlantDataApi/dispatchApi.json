@@ -44,15 +44,6 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G19444",
-  "Due Date" : "08 Jul 2026",
-  "Barcode" : "*G19444-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
   "Order" : "S3574",
   "Due Date" : "05 Jul 2026",
   "Barcode" : "*S3574-6-4*",
