@@ -190,12 +190,4 @@
   "Garment" : "Pants",
   "Service" : "DC",
   "Sent from store" : "01 Jul 2026 7:27:57 PM"
-}, {
-  "Order" : "S3581",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*S3581-2-4*",
-  "Customer" : "komal",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "02 Jul 2026 4:04:54 PM"
 } ]

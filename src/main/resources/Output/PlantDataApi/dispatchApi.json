@@ -10,6 +10,15 @@
 }, {
   "Order" : "S3581",
   "Due Date" : "06 Jul 2026",
+  "Barcode" : "*S3581-2-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Jeans",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3581",
+  "Due Date" : "06 Jul 2026",
   "Barcode" : "*S3581-4-4*",
   "Store Name" : "Saket",
   "Garment" : "T Shirt",
