@@ -218,7 +218,7 @@
   "Order" : "G19461",
   "Due Date" : "06 Jul 2026",
   "Barcode" : "*G19461-1-1*",
-  "Customer" : "Rinki Ankush Gupta",
+  "Customer" : "Ms Rinki dahiya",
   "Garment" : "Jeans",
   "Service" : "DC",
   "Sent from store" : "03 Jul 2026 4:53:53 PM"
@@ -226,7 +226,7 @@
   "Order" : "G19461",
   "Due Date" : "06 Jul 2026",
   "Barcode" : "*G19461-2-1*",
-  "Customer" : "Rinki Ankush Gupta",
+  "Customer" : "Ms Rinki dahiya",
   "Garment" : "Jeans",
   "Service" : "DC",
   "Sent from store" : "03 Jul 2026 4:53:53 PM"
@@ -234,7 +234,7 @@
   "Order" : "G19461",
   "Due Date" : "06 Jul 2026",
   "Barcode" : "*G19461-3-1*",
-  "Customer" : "Rinki Ankush Gupta",
+  "Customer" : "Ms Rinki dahiya",
   "Garment" : "Jacket",
   "Service" : "DC",
   "Sent from store" : "03 Jul 2026 4:53:53 PM"
@@ -242,7 +242,7 @@
   "Order" : "G19461",
   "Due Date" : "06 Jul 2026",
   "Barcode" : "*G19461-4-1*",
-  "Customer" : "Rinki Ankush Gupta",
+  "Customer" : "Ms Rinki dahiya",
   "Garment" : "Jacket",
   "Service" : "DC",
   "Sent from store" : "03 Jul 2026 4:53:53 PM"
@@ -309,14 +309,6 @@
   "Customer" : "Mr ashish jaIn",
   "Garment" : "Shirt",
   "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "G19472",
-  "Due Date" : "05 Jul 2026",
-  "Barcode" : "*G19472-1-1*",
-  "Customer" : "Mr koo",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Sent from store" : "04 Jul 2026 7:40:25 PM"
 }, {
   "Order" : "S3580",

@@ -71,51 +71,6 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G19450",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19450-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pyjama (Light)",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19454",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19454-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19454",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19454-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19454",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19454-3-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19454",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19454-4-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
   "Order" : "S3574",
   "Due Date" : "05 Jul 2026",
   "Barcode" : "*S3574-1-4*",
