@@ -9,31 +9,7 @@
 }, {
   "Order" : "D3163",
   "Due Date" : "08 Jul 2026",
-  "Barcode" : "*D3163-1-5*",
-  "Customer" : "jyoti kumari",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "D3163",
-  "Due Date" : "08 Jul 2026",
-  "Barcode" : "*D3163-2-5*",
-  "Customer" : "jyoti kumari",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "D3163",
-  "Due Date" : "08 Jul 2026",
   "Barcode" : "*D3163-3-5*",
-  "Customer" : "jyoti kumari",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "D3163",
-  "Due Date" : "08 Jul 2026",
-  "Barcode" : "*D3163-4-5*",
   "Customer" : "jyoti kumari",
   "Garment" : "Shirt",
   "Service" : "DC",
@@ -79,22 +55,6 @@
   "Service" : "DC",
   "Sent from store" : "04 Jul 2026 7:40:25 PM"
 }, {
-  "Order" : "D3166",
-  "Due Date" : "09 Jul 2026",
-  "Barcode" : "*D3166-4-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "D3166",
-  "Due Date" : "09 Jul 2026",
-  "Barcode" : "*D3166-5-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
   "Order" : "G19451",
   "Due Date" : "06 Jul 2026",
   "Barcode" : "*G19451-1-1*",
@@ -117,14 +77,6 @@
   "Customer" : "Mr jay",
   "Garment" : "Coat",
   "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "G19476",
-  "Due Date" : "08 Jul 2026",
-  "Barcode" : "*G19476-1-1*",
-  "Customer" : "aileena",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
   "Sent from store" : "04 Jul 2026 7:40:25 PM"
 }, {
   "Order" : "G19479",
@@ -161,26 +113,10 @@
 }, {
   "Order" : "S3583",
   "Due Date" : "08 Jul 2026",
-  "Barcode" : "*S3583-3-4*",
-  "Customer" : "vikash singh",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "S3583",
-  "Due Date" : "08 Jul 2026",
   "Barcode" : "*S3583-4-4*",
   "Customer" : "vikash singh",
   "Garment" : "Pyjama (Light)",
   "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "S3586",
-  "Due Date" : "08 Jul 2026",
-  "Barcode" : "*S3586-1-4*",
-  "Customer" : "Mr Surit",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
   "Sent from store" : "04 Jul 2026 7:40:25 PM"
 }, {
   "Order" : "S3587",

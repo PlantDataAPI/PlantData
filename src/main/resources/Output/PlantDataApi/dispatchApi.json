@@ -1,64 +1,28 @@
 [ {
-  "Order" : "G19448",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19448-2-1*",
-  "Store Name" : "Greenpark",
+  "Order" : "D3163",
+  "Due Date" : "08 Jul 2026",
+  "Barcode" : "*D3163-1-5*",
+  "Store Name" : "Defence Colony",
   "Garment" : "Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G19456",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19456-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pants",
+  "Order" : "D3163",
+  "Due Date" : "08 Jul 2026",
+  "Barcode" : "*D3163-2-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G19457",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19457-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Coat",
+  "Order" : "D3163",
+  "Due Date" : "08 Jul 2026",
+  "Barcode" : "*D3163-4-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
   "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19457",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19457-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19462",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19462-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19462",
-  "Due Date" : "06 Jul 2026",
-  "Barcode" : "*G19462-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19469",
-  "Due Date" : "09 Jul 2026",
-  "Barcode" : "*G19469-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Receive in workshop" : "",
   "Customer" : ""
 } ]
