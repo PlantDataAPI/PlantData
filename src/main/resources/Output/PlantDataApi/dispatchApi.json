@@ -25,4 +25,40 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
+}, {
+  "Order" : "D3166",
+  "Due Date" : "09 Jul 2026",
+  "Barcode" : "*D3166-4-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3166",
+  "Due Date" : "09 Jul 2026",
+  "Barcode" : "*D3166-5-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3583",
+  "Due Date" : "08 Jul 2026",
+  "Barcode" : "*S3583-3-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3586",
+  "Due Date" : "08 Jul 2026",
+  "Barcode" : "*S3586-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Garment 1",
+  "Service" : "LA",
+  "Receive in workshop" : "",
+  "Customer" : ""
 } ]
