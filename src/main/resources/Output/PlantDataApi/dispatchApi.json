@@ -118,6 +118,24 @@
 }, {
   "Order" : "S3583",
   "Due Date" : "08 Jul 2026",
+  "Barcode" : "*S3583-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3583",
+  "Due Date" : "08 Jul 2026",
+  "Barcode" : "*S3583-2-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3583",
+  "Due Date" : "08 Jul 2026",
   "Barcode" : "*S3583-4-4*",
   "Store Name" : "Saket",
   "Garment" : "Pyjama (Light)",
