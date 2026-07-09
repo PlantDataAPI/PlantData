@@ -7,30 +7,6 @@
   "Service" : "DC",
   "Sent from store" : "06 Jul 2026 5:33:01 PM"
 }, {
-  "Order" : "D3166",
-  "Due Date" : "09 Jul 2026",
-  "Barcode" : "*D3166-1-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "D3166",
-  "Due Date" : "09 Jul 2026",
-  "Barcode" : "*D3166-2-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
-  "Order" : "D3166",
-  "Due Date" : "09 Jul 2026",
-  "Barcode" : "*D3166-3-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "04 Jul 2026 7:40:25 PM"
-}, {
   "Order" : "D3168",
   "Due Date" : "10 Jul 2026",
   "Barcode" : "*D3168-1-5*",
@@ -38,14 +14,6 @@
   "Garment" : "Garment 1",
   "Service" : "LA",
   "Sent from store" : "06 Jul 2026 5:33:01 PM"
-}, {
-  "Order" : "G19487",
-  "Due Date" : "10 Jul 2026",
-  "Barcode" : "*G19487-11-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "05 Jul 2026 8:26:43 PM"
 }, {
   "Order" : "G19487",
   "Due Date" : "10 Jul 2026",
@@ -73,14 +41,6 @@
 }, {
   "Order" : "G19487",
   "Due Date" : "10 Jul 2026",
-  "Barcode" : "*G19487-15-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "05 Jul 2026 8:26:43 PM"
-}, {
-  "Order" : "G19487",
-  "Due Date" : "10 Jul 2026",
   "Barcode" : "*G19487-16-1*",
   "Customer" : "amit sharma",
   "Garment" : "Shirt",
@@ -94,38 +54,6 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "05 Jul 2026 8:26:43 PM"
-}, {
-  "Order" : "G19487",
-  "Due Date" : "10 Jul 2026",
-  "Barcode" : "*G19487-18-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "05 Jul 2026 8:26:43 PM"
-}, {
-  "Order" : "G19488",
-  "Due Date" : "10 Jul 2026",
-  "Barcode" : "*G19488-1-1*",
-  "Customer" : "Mr Mahender Mishra",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "06 Jul 2026 5:33:01 PM"
-}, {
-  "Order" : "G19488",
-  "Due Date" : "10 Jul 2026",
-  "Barcode" : "*G19488-2-1*",
-  "Customer" : "Mr Mahender Mishra",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "06 Jul 2026 5:33:01 PM"
-}, {
-  "Order" : "G19490",
-  "Due Date" : "10 Jul 2026",
-  "Barcode" : "*G19490-2-1*",
-  "Customer" : "Mr nishant datta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "06 Jul 2026 5:33:01 PM"
 }, {
   "Order" : "G19493",
   "Due Date" : "11 Jul 2026",
