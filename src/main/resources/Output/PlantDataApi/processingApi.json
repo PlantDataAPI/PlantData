@@ -87,11 +87,19 @@
   "Service" : "DC",
   "Sent from store" : "09 Jul 2026 3:15:38 PM"
 }, {
-  "Order" : "G19506",
-  "Due Date" : "12 Jul 2026",
-  "Barcode" : "*G19506-12-1*",
-  "Customer" : "Ms tarang",
-  "Garment" : "Longcoat",
+  "Order" : "G19511",
+  "Due Date" : "11 Jul 2026",
+  "Barcode" : "*G19511-1-1*",
+  "Customer" : "Rajesh",
+  "Garment" : "Pants",
   "Service" : "DC",
-  "Sent from store" : "08 Jul 2026 5:02:39 PM"
+  "Sent from store" : "09 Jul 2026 4:22:27 PM"
+}, {
+  "Order" : "G19511",
+  "Due Date" : "11 Jul 2026",
+  "Barcode" : "*G19511-2-1*",
+  "Customer" : "Rajesh",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "09 Jul 2026 4:22:27 PM"
 } ]
