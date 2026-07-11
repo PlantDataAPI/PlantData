@@ -441,22 +441,6 @@
 }, {
   "Order" : "G19507",
   "Due Date" : "11 Jul 2026",
-  "Barcode" : "*G19507-1-1*",
-  "Customer" : "Dr Jaskaran Singh",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "08 Jul 2026 6:59:13 PM"
-}, {
-  "Order" : "G19507",
-  "Due Date" : "11 Jul 2026",
-  "Barcode" : "*G19507-2-1*",
-  "Customer" : "Dr Jaskaran Singh",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "08 Jul 2026 6:59:13 PM"
-}, {
-  "Order" : "G19507",
-  "Due Date" : "11 Jul 2026",
   "Barcode" : "*G19507-3-1*",
   "Customer" : "Dr Jaskaran Singh",
   "Garment" : "Shirt",
@@ -473,39 +457,7 @@
 }, {
   "Order" : "G19507",
   "Due Date" : "11 Jul 2026",
-  "Barcode" : "*G19507-5-1*",
-  "Customer" : "Dr Jaskaran Singh",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "08 Jul 2026 6:59:13 PM"
-}, {
-  "Order" : "G19507",
-  "Due Date" : "11 Jul 2026",
   "Barcode" : "*G19507-6-1*",
-  "Customer" : "Dr Jaskaran Singh",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "08 Jul 2026 6:59:13 PM"
-}, {
-  "Order" : "G19507",
-  "Due Date" : "11 Jul 2026",
-  "Barcode" : "*G19507-7-1*",
-  "Customer" : "Dr Jaskaran Singh",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "08 Jul 2026 6:59:13 PM"
-}, {
-  "Order" : "G19507",
-  "Due Date" : "11 Jul 2026",
-  "Barcode" : "*G19507-8-1*",
-  "Customer" : "Dr Jaskaran Singh",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "08 Jul 2026 6:59:13 PM"
-}, {
-  "Order" : "G19507",
-  "Due Date" : "11 Jul 2026",
-  "Barcode" : "*G19507-9-1*",
   "Customer" : "Dr Jaskaran Singh",
   "Garment" : "T Shirt",
   "Service" : "DC",
