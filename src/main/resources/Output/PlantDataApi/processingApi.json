@@ -15,86 +15,6 @@
   "Service" : "LC",
   "Sent from store" : "11 Jul 2026 12:10:14 PM"
 }, {
-  "Order" : "D3175",
-  "Due Date" : "15 Jul 2026",
-  "Barcode" : "*D3175-3-5*",
-  "Customer" : "nikhaar",
-  "Garment" : "Sweater (Full Sleeve)",
-  "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
-  "Order" : "D3175",
-  "Due Date" : "15 Jul 2026",
-  "Barcode" : "*D3175-4-5*",
-  "Customer" : "nikhaar",
-  "Garment" : "Sweater (Full Sleeve)",
-  "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
-  "Order" : "D3175",
-  "Due Date" : "15 Jul 2026",
-  "Barcode" : "*D3175-5-5*",
-  "Customer" : "nikhaar",
-  "Garment" : "T Shirt",
-  "Service" : "SPO",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
-  "Order" : "D3176",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*D3176-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
-  "Order" : "D3177",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*D3177-1-5*",
-  "Customer" : "jyoti kumari",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
-  "Order" : "D3177",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*D3177-2-5*",
-  "Customer" : "jyoti kumari",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
-  "Order" : "D3177",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*D3177-3-5*",
-  "Customer" : "jyoti kumari",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
-  "Order" : "D3177",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*D3177-4-5*",
-  "Customer" : "jyoti kumari",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
-  "Order" : "D3177",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*D3177-5-5*",
-  "Customer" : "jyoti kumari",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
-  "Order" : "D3177",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*D3177-6-5*",
-  "Customer" : "jyoti kumari",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 12:10:14 PM"
-}, {
   "Order" : "G19521",
   "Due Date" : "13 Jul 2026",
   "Barcode" : "*G19521-1-1*",
@@ -124,14 +44,6 @@
   "Barcode" : "*G19522-2-1*",
   "Customer" : "Mona",
   "Garment" : "Anarkali Kurta  Light",
-  "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 1:35:58 PM"
-}, {
-  "Order" : "G19523",
-  "Due Date" : "15 Jul 2026",
-  "Barcode" : "*G19523-1-1*",
-  "Customer" : "Ms pallavi barua",
-  "Garment" : "Pants",
   "Service" : "DC",
   "Sent from store" : "11 Jul 2026 1:35:58 PM"
 }, {

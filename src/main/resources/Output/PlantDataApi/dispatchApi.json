@@ -1,4 +1,31 @@
 [ {
+  "Order" : "D3172",
+  "Due Date" : "11 Jul 2026",
+  "Barcode" : "*D3172-6-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3172",
+  "Due Date" : "11 Jul 2026",
+  "Barcode" : "*D3172-7-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3172",
+  "Due Date" : "11 Jul 2026",
+  "Barcode" : "*D3172-10-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "G19493",
   "Due Date" : "11 Jul 2026",
   "Barcode" : "*G19493-2-1*",
