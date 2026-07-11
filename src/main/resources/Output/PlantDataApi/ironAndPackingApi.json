@@ -399,14 +399,6 @@
   "Service" : "DC",
   "Sent from store" : "09 Jul 2026 8:09:20 PM"
 }, {
-  "Order" : "G19514",
-  "Due Date" : "12 Jul 2026",
-  "Barcode" : "*G19514-1-1*",
-  "Customer" : "Mr manik",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "09 Jul 2026 8:09:20 PM"
-}, {
   "Order" : "G19516",
   "Due Date" : "12 Jul 2026",
   "Barcode" : "*G19516-1-1*",
