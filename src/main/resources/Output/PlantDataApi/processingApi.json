@@ -166,4 +166,20 @@
   "Garment" : "Choli / Blouse (Light)",
   "Service" : "DC",
   "Sent from store" : "11 Jul 2026 1:35:58 PM"
+}, {
+  "Order" : "G19544",
+  "Due Date" : "19 Jul 2026",
+  "Barcode" : "*G19544-11-1*",
+  "Customer" : "Mr Champili Debbarma",
+  "Garment" : "Suede Shoes",
+  "Service" : "LC",
+  "Sent from store" : "12 Jul 2026 6:37:13 PM"
+}, {
+  "Order" : "G19544",
+  "Due Date" : "19 Jul 2026",
+  "Barcode" : "*G19544-12-1*",
+  "Customer" : "Mr Champili Debbarma",
+  "Garment" : "Suede Shoes",
+  "Service" : "LC",
+  "Sent from store" : "12 Jul 2026 6:37:13 PM"
 } ]
