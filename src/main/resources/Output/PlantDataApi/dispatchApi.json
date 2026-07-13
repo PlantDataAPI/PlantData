@@ -80,15 +80,6 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G19525",
-  "Due Date" : "10 Jul 2026",
-  "Barcode" : "*G19525-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Jeans",
-  "Service" : "SPO",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
   "Order" : "G19529",
   "Due Date" : "15 Jul 2026",
   "Barcode" : "*G19529-1-1*",

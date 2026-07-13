@@ -199,14 +199,6 @@
   "Service" : "DC",
   "Sent from store" : "11 Jul 2026 5:51:33 PM"
 }, {
-  "Order" : "G19538",
-  "Due Date" : "16 Jul 2026",
-  "Barcode" : "*G19538-1-1*",
-  "Customer" : "Mr koo",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "11 Jul 2026 5:51:33 PM"
-}, {
   "Order" : "G19539",
   "Due Date" : "17 Jul 2026",
   "Barcode" : "*G19539-1-1*",
@@ -253,14 +245,6 @@
   "Customer" : "Mr mahender sir",
   "Garment" : "Pants",
   "Service" : "DC",
-  "Sent from store" : "11 Jul 2026 5:51:33 PM"
-}, {
-  "Order" : "G19541",
-  "Due Date" : "16 Jul 2026",
-  "Barcode" : "*G19541-1-1*",
-  "Customer" : "dr anish",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Sent from store" : "11 Jul 2026 5:51:33 PM"
 }, {
   "Order" : "G19542",
