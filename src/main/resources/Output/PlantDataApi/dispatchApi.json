@@ -62,6 +62,42 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "C4994",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*C4994-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Sport Shoe Left",
+  "Service" : "LC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C4994",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*C4994-2-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Sport Shoe Right",
+  "Service" : "LC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3172",
+  "Due Date" : "11 Jul 2026",
+  "Barcode" : "*D3172-4-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3172",
+  "Due Date" : "11 Jul 2026",
+  "Barcode" : "*D3172-5-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "D3173",
   "Due Date" : "13 Jul 2026",
   "Barcode" : "*D3173-1-5*",
@@ -305,12 +341,30 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "D3176",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*D3176-1-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "G19493",
   "Due Date" : "11 Jul 2026",
   "Barcode" : "*G19493-2-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Pyjama (Light)",
   "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19508",
+  "Due Date" : "11 Jul 2026",
+  "Barcode" : "*G19508-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Garment 1",
+  "Service" : "LA",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
@@ -374,6 +428,96 @@
   "Store Name" : "Greenpark",
   "Garment" : "T Shirt",
   "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19520",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*G19520-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19520",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*G19520-2-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19520",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*G19520-3-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19520",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*G19520-4-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19524",
+  "Due Date" : "12 Jul 2026",
+  "Barcode" : "*G19524-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19525",
+  "Due Date" : "10 Jul 2026",
+  "Barcode" : "*G19525-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Jeans",
+  "Service" : "SPO",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19529",
+  "Due Date" : "15 Jul 2026",
+  "Barcode" : "*G19529-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3598",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*S3598-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3599",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*S3599-12-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Sport Shoe Left",
+  "Service" : "LC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3599",
+  "Due Date" : "13 Jul 2026",
+  "Barcode" : "*S3599-13-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Sport Shoe Right",
+  "Service" : "LC",
   "Receive in workshop" : "",
   "Customer" : ""
 } ]
