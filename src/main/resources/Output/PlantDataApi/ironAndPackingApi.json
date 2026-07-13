@@ -95,6 +95,54 @@
   "Service" : "SPO",
   "Sent from store" : "11 Jul 2026 5:51:33 PM"
 }, {
+  "Order" : "D3179",
+  "Due Date" : "16 Jul 2026",
+  "Barcode" : "*D3179-1-5*",
+  "Customer" : "Mr Manuj Gupta",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Sent from store" : "13 Jul 2026 8:01:00 PM"
+}, {
+  "Order" : "D3179",
+  "Due Date" : "16 Jul 2026",
+  "Barcode" : "*D3179-2-5*",
+  "Customer" : "Mr Manuj Gupta",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Sent from store" : "13 Jul 2026 8:01:00 PM"
+}, {
+  "Order" : "D3179",
+  "Due Date" : "16 Jul 2026",
+  "Barcode" : "*D3179-3-5*",
+  "Customer" : "Mr Manuj Gupta",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Sent from store" : "13 Jul 2026 8:01:00 PM"
+}, {
+  "Order" : "D3179",
+  "Due Date" : "16 Jul 2026",
+  "Barcode" : "*D3179-4-5*",
+  "Customer" : "Mr Manuj Gupta",
+  "Garment" : "Jeans",
+  "Service" : "DC",
+  "Sent from store" : "13 Jul 2026 8:01:00 PM"
+}, {
+  "Order" : "D3179",
+  "Due Date" : "16 Jul 2026",
+  "Barcode" : "*D3179-5-5*",
+  "Customer" : "Mr Manuj Gupta",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "13 Jul 2026 8:01:00 PM"
+}, {
+  "Order" : "D3179",
+  "Due Date" : "16 Jul 2026",
+  "Barcode" : "*D3179-6-5*",
+  "Customer" : "Mr Manuj Gupta",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "13 Jul 2026 8:01:00 PM"
+}, {
   "Order" : "G19506",
   "Due Date" : "12 Jul 2026",
   "Barcode" : "*G19506-11-1*",
