@@ -17,15 +17,6 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G19493",
-  "Due Date" : "11 Jul 2026",
-  "Barcode" : "*G19493-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pyjama (Light)",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
   "Order" : "G19509",
   "Due Date" : "11 Jul 2026",
   "Barcode" : "*G19509-1-1*",

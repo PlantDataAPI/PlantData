@@ -137,14 +137,6 @@
 }, {
   "Order" : "G19506",
   "Due Date" : "12 Jul 2026",
-  "Barcode" : "*G19506-11-1*",
-  "Customer" : "Ms tarang",
-  "Garment" : "Dupatta  Light",
-  "Service" : "DC",
-  "Sent from store" : "10 Jul 2026 6:18:51 PM"
-}, {
-  "Order" : "G19506",
-  "Due Date" : "12 Jul 2026",
   "Barcode" : "*G19506-12-1*",
   "Customer" : "Ms tarang",
   "Garment" : "Longcoat",
@@ -794,6 +786,14 @@
   "Order" : "S3608",
   "Due Date" : "17 Jul 2026",
   "Barcode" : "*S3608-2-4*",
+  "Customer" : "Mrs sim",
+  "Garment" : "Sweat Shirt",
+  "Service" : "DC",
+  "Sent from store" : "13 Jul 2026 8:01:00 PM"
+}, {
+  "Order" : "S3608",
+  "Due Date" : "17 Jul 2026",
+  "Barcode" : "*S3608-3-4*",
   "Customer" : "Mrs sim",
   "Garment" : "Sweat Shirt",
   "Service" : "DC",
