@@ -44,42 +44,6 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G19520",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*G19520-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19520",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*G19520-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19520",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*G19520-3-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19520",
-  "Due Date" : "13 Jul 2026",
-  "Barcode" : "*G19520-4-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
   "Order" : "G19529",
   "Due Date" : "15 Jul 2026",
   "Barcode" : "*G19529-1-1*",
@@ -104,15 +68,6 @@
   "Store Name" : "Greenpark",
   "Garment" : "Garment 1",
   "Service" : "WI",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19549",
-  "Due Date" : "15 Jul 2026",
-  "Barcode" : "*G19549-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Saree (Silk/Chiffon/Georgette/Pattu/heavy))",
-  "Service" : "SPO",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
