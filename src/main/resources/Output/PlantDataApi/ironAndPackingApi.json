@@ -1,12 +1,4 @@
 [ {
-  "Order" : "D3175",
-  "Due Date" : "15 Jul 2026",
-  "Barcode" : "*D3175-5-5*",
-  "Customer" : "nikhaar",
-  "Garment" : "T Shirt",
-  "Service" : "SPO",
-  "Sent from store" : "11 Jul 2026 5:51:33 PM"
-}, {
   "Order" : "D3179",
   "Due Date" : "16 Jul 2026",
   "Barcode" : "*D3179-1-5*",
@@ -28,14 +20,6 @@
   "Barcode" : "*D3179-3-5*",
   "Customer" : "Mr Manuj Gupta",
   "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "13 Jul 2026 8:01:00 PM"
-}, {
-  "Order" : "D3179",
-  "Due Date" : "16 Jul 2026",
-  "Barcode" : "*D3179-4-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Jeans",
   "Service" : "DC",
   "Sent from store" : "13 Jul 2026 8:01:00 PM"
 }, {
@@ -93,14 +77,6 @@
   "Customer" : "Ms juli",
   "Garment" : "Coat",
   "Service" : "DC",
-  "Sent from store" : "13 Jul 2026 8:01:00 PM"
-}, {
-  "Order" : "D3183",
-  "Due Date" : "17 Jul 2026",
-  "Barcode" : "*D3183-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Sent from store" : "13 Jul 2026 8:01:00 PM"
 }, {
   "Order" : "D3184",
