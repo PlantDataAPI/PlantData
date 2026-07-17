@@ -31,14 +31,6 @@
   "Service" : "LC",
   "Sent from store" : "12 Jul 2026 6:37:13 PM"
 }, {
-  "Order" : "S3610",
-  "Due Date" : "20 Jul 2026",
-  "Barcode" : "*S3610-3-4*",
-  "Customer" : "Mr Sir sunil yadav",
-  "Garment" : "Quilt Double",
-  "Service" : "DC",
-  "Sent from store" : "17 Jul 2026 5:08:37 PM"
-}, {
   "Order" : "S3611",
   "Due Date" : "18 Jul 2026",
   "Barcode" : "*S3611-1-4*",
