@@ -15,22 +15,6 @@
   "Service" : "WI",
   "Sent from store" : "17 Jul 2026 11:56:11 AM"
 }, {
-  "Order" : "D3193",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*D3193-1-5*",
-  "Customer" : "nikhaar",
-  "Garment" : "Salwar",
-  "Service" : "DC",
-  "Sent from store" : "17 Jul 2026 11:56:11 AM"
-}, {
-  "Order" : "D3193",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*D3193-2-5*",
-  "Customer" : "nikhaar",
-  "Garment" : "Kameez /Kurta (light)",
-  "Service" : "DC",
-  "Sent from store" : "17 Jul 2026 11:56:11 AM"
-}, {
   "Order" : "G19544",
   "Due Date" : "19 Jul 2026",
   "Barcode" : "*G19544-11-1*",
@@ -46,4 +30,36 @@
   "Garment" : "Suede Shoes",
   "Service" : "LC",
   "Sent from store" : "12 Jul 2026 6:37:13 PM"
+}, {
+  "Order" : "S3610",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3610-3-4*",
+  "Customer" : "Mr Sir sunil yadav",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Sent from store" : "17 Jul 2026 5:08:37 PM"
+}, {
+  "Order" : "S3611",
+  "Due Date" : "18 Jul 2026",
+  "Barcode" : "*S3611-1-4*",
+  "Customer" : "anuraag",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "17 Jul 2026 5:08:37 PM"
+}, {
+  "Order" : "S3611",
+  "Due Date" : "18 Jul 2026",
+  "Barcode" : "*S3611-2-4*",
+  "Customer" : "anuraag",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "17 Jul 2026 5:08:37 PM"
+}, {
+  "Order" : "S3611",
+  "Due Date" : "18 Jul 2026",
+  "Barcode" : "*S3611-3-4*",
+  "Customer" : "anuraag",
+  "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Sent from store" : "17 Jul 2026 5:08:37 PM"
 } ]
