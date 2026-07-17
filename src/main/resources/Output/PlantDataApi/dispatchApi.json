@@ -46,90 +46,9 @@
 }, {
   "Order" : "G19551",
   "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19551-10-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19551",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19551-11-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19551",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19551-12-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19551",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19551-13-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19551",
-  "Due Date" : "19 Jul 2026",
   "Barcode" : "*G19551-14-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19551",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19551-15-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19551",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19551-16-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19551",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19551-17-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19551",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19551-18-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G19551",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19551-19-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "T Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
