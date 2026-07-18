@@ -95,22 +95,6 @@
   "Service" : "DC",
   "Sent from store" : "15 Jul 2026 6:26:48 PM"
 }, {
-  "Order" : "G19571",
-  "Due Date" : "16 Jul 2026",
-  "Barcode" : "*G19571-1-1*",
-  "Customer" : "Ashok",
-  "Garment" : "Jeans",
-  "Service" : "SPO",
-  "Sent from store" : "16 Jul 2026 5:12:21 PM"
-}, {
-  "Order" : "G19571",
-  "Due Date" : "16 Jul 2026",
-  "Barcode" : "*G19571-2-1*",
-  "Customer" : "Ashok",
-  "Garment" : "Jeans",
-  "Service" : "SPO",
-  "Sent from store" : "16 Jul 2026 5:12:21 PM"
-}, {
   "Order" : "S3606",
   "Due Date" : "17 Jul 2026",
   "Barcode" : "*S3606-1-4*",

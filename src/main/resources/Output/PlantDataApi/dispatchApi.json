@@ -124,13 +124,4 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
-}, {
-  "Order" : "G19544",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19544-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
 } ]
