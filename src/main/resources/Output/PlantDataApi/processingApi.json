@@ -1,19 +1,19 @@
 [ {
-  "Order" : "D3186",
-  "Due Date" : "18 Jul 2026",
-  "Barcode" : "*D3186-4-5*",
-  "Customer" : "bhutnai",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "17 Jul 2026 2:03:53 PM"
+  "Order" : "C5018",
+  "Due Date" : "22 Jul 2026",
+  "Barcode" : "*C5018-4-3*",
+  "Customer" : "gautam",
+  "Garment" : "Sport Shoe Left",
+  "Service" : "LC",
+  "Sent from store" : "17 Jul 2026 2:57:55 PM"
 }, {
-  "Order" : "D3192",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*D3192-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "17 Jul 2026 11:56:11 AM"
+  "Order" : "C5018",
+  "Due Date" : "22 Jul 2026",
+  "Barcode" : "*C5018-5-3*",
+  "Customer" : "gautam",
+  "Garment" : "Sport Shoe Right",
+  "Service" : "LC",
+  "Sent from store" : "17 Jul 2026 2:57:55 PM"
 }, {
   "Order" : "G19544",
   "Due Date" : "19 Jul 2026",
@@ -30,28 +30,4 @@
   "Garment" : "Suede Shoes",
   "Service" : "LC",
   "Sent from store" : "12 Jul 2026 6:37:13 PM"
-}, {
-  "Order" : "S3611",
-  "Due Date" : "18 Jul 2026",
-  "Barcode" : "*S3611-1-4*",
-  "Customer" : "anuraag",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "17 Jul 2026 5:08:37 PM"
-}, {
-  "Order" : "S3611",
-  "Due Date" : "18 Jul 2026",
-  "Barcode" : "*S3611-2-4*",
-  "Customer" : "anuraag",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "17 Jul 2026 5:08:37 PM"
-}, {
-  "Order" : "S3611",
-  "Due Date" : "18 Jul 2026",
-  "Barcode" : "*S3611-3-4*",
-  "Customer" : "anuraag",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "17 Jul 2026 5:08:37 PM"
 } ]
