@@ -1,33 +1,113 @@
 [ {
-  "Order" : "C5018",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*C5018-4-3*",
-  "Customer" : "gautam",
-  "Garment" : "Sport Shoe Left",
-  "Service" : "LC",
-  "Sent from store" : "17 Jul 2026 2:57:55 PM"
+  "Order" : "S3610",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3610-1-4*",
+  "Customer" : "Mr Sir sunil yadav",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
 }, {
-  "Order" : "C5018",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*C5018-5-3*",
-  "Customer" : "gautam",
-  "Garment" : "Sport Shoe Right",
-  "Service" : "LC",
-  "Sent from store" : "17 Jul 2026 2:57:55 PM"
+  "Order" : "S3610",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3610-2-4*",
+  "Customer" : "Mr Sir sunil yadav",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
 }, {
-  "Order" : "G19544",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19544-11-1*",
-  "Customer" : "Mr Champili Debbarma",
-  "Garment" : "Suede Shoes",
-  "Service" : "LC",
-  "Sent from store" : "12 Jul 2026 6:37:13 PM"
+  "Order" : "S3610",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3610-3-4*",
+  "Customer" : "Mr Sir sunil yadav",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
 }, {
-  "Order" : "G19544",
-  "Due Date" : "19 Jul 2026",
-  "Barcode" : "*G19544-12-1*",
-  "Customer" : "Mr Champili Debbarma",
-  "Garment" : "Suede Shoes",
-  "Service" : "LC",
-  "Sent from store" : "12 Jul 2026 6:37:13 PM"
+  "Order" : "S3610",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3610-4-4*",
+  "Customer" : "Mr Sir sunil yadav",
+  "Garment" : "Cushion Cover (Big)",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3610",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3610-5-4*",
+  "Customer" : "Mr Sir sunil yadav",
+  "Garment" : "Cushion Cover (Big)",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3612",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3612-1-4*",
+  "Customer" : "Mr ashish",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3612",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3612-5-4*",
+  "Customer" : "Mr ashish",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3613",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3613-1-4*",
+  "Customer" : "Mrs Niharika oinam",
+  "Garment" : "Pillow (Large)",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3613",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3613-2-4*",
+  "Customer" : "Mrs Niharika oinam",
+  "Garment" : "Pillow (Large)",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3614",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3614-1-4*",
+  "Customer" : "richa dhanuja",
+  "Garment" : "Anarkali Kurta  Heavy",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3614",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3614-2-4*",
+  "Customer" : "richa dhanuja",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3614",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3614-3-4*",
+  "Customer" : "richa dhanuja",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3614",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3614-4-4*",
+  "Customer" : "richa dhanuja",
+  "Garment" : "Sharara  (Light)",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
+}, {
+  "Order" : "S3614",
+  "Due Date" : "20 Jul 2026",
+  "Barcode" : "*S3614-5-4*",
+  "Customer" : "richa dhanuja",
+  "Garment" : "Dupatta (Light)",
+  "Service" : "DC",
+  "Sent from store" : "18 Jul 2026 12:25:56 PM"
 } ]
