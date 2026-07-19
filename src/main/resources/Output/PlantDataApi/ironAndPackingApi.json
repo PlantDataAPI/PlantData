@@ -39,22 +39,6 @@
   "Service" : "DC",
   "Sent from store" : "18 Jul 2026 10:51:04 AM"
 }, {
-  "Order" : "C5018",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*C5018-4-3*",
-  "Customer" : "gautam",
-  "Garment" : "Sport Shoe Left",
-  "Service" : "LC",
-  "Sent from store" : "18 Jul 2026 11:22:59 AM"
-}, {
-  "Order" : "C5018",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*C5018-5-3*",
-  "Customer" : "gautam",
-  "Garment" : "Sport Shoe Right",
-  "Service" : "LC",
-  "Sent from store" : "18 Jul 2026 11:22:59 AM"
-}, {
   "Order" : "D3186",
   "Due Date" : "18 Jul 2026",
   "Barcode" : "*D3186-4-5*",
