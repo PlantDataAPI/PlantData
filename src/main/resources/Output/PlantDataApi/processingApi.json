@@ -9,22 +9,6 @@
 }, {
   "Order" : "D3198",
   "Due Date" : "23 Jul 2026",
-  "Barcode" : "*D3198-1-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Leather Shoe Right",
-  "Service" : "LC",
-  "Sent from store" : "19 Jul 2026 12:56:12 PM"
-}, {
-  "Order" : "D3198",
-  "Due Date" : "23 Jul 2026",
-  "Barcode" : "*D3198-2-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Leather Shoe Left",
-  "Service" : "LC",
-  "Sent from store" : "19 Jul 2026 12:56:12 PM"
-}, {
-  "Order" : "D3198",
-  "Due Date" : "23 Jul 2026",
   "Barcode" : "*D3198-3-5*",
   "Customer" : "Mr Amit Kumar",
   "Garment" : "Kurta Light",
