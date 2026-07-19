@@ -10,6 +10,15 @@
 }, {
   "Order" : "G19565",
   "Due Date" : "22 Jul 2026",
+  "Barcode" : "*G19565-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19565",
+  "Due Date" : "22 Jul 2026",
   "Barcode" : "*G19565-2-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Shirt",
