@@ -1,1 +1,73 @@
-[ { } ]
+[ {
+  "Order" : "C5015",
+  "Due Date" : "22 Jul 2026",
+  "Barcode" : "*C5015-2-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Bed Sheet Double",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5015",
+  "Due Date" : "22 Jul 2026",
+  "Barcode" : "*C5015-3-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5015",
+  "Due Date" : "22 Jul 2026",
+  "Barcode" : "*C5015-4-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3186",
+  "Due Date" : "18 Jul 2026",
+  "Barcode" : "*D3186-4-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19544",
+  "Due Date" : "19 Jul 2026",
+  "Barcode" : "*G19544-11-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Suede Shoes",
+  "Service" : "LC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19544",
+  "Due Date" : "19 Jul 2026",
+  "Barcode" : "*G19544-12-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Suede Shoes",
+  "Service" : "LC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19556",
+  "Due Date" : "17 Jul 2026",
+  "Barcode" : "*G19556-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19556",
+  "Due Date" : "17 Jul 2026",
+  "Barcode" : "*G19556-2-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]

@@ -15,30 +15,6 @@
   "Service" : "DC",
   "Sent from store" : "18 Jul 2026 10:51:04 AM"
 }, {
-  "Order" : "C5015",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*C5015-2-3*",
-  "Customer" : "Harsil mehta",
-  "Garment" : "Bed Sheet Double",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 10:51:04 AM"
-}, {
-  "Order" : "C5015",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*C5015-3-3*",
-  "Customer" : "Harsil mehta",
-  "Garment" : "Pillow Covers (Cotton)",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 10:51:04 AM"
-}, {
-  "Order" : "C5015",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*C5015-4-3*",
-  "Customer" : "Harsil mehta",
-  "Garment" : "Pillow Covers (Cotton)",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 10:51:04 AM"
-}, {
   "Order" : "C5021",
   "Due Date" : "23 Jul 2026",
   "Barcode" : "*C5021-4-3*",
@@ -151,90 +127,10 @@
   "Service" : "LA",
   "Sent from store" : "19 Jul 2026 7:59:39 PM"
 }, {
-  "Order" : "G19581",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19581-1-1*",
-  "Customer" : "Arjun",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19581",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19581-2-1*",
-  "Customer" : "Arjun",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19581",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19581-3-1*",
-  "Customer" : "Arjun",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19581",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19581-4-1*",
-  "Customer" : "Arjun",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19581",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19581-5-1*",
-  "Customer" : "Arjun",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19581",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19581-6-1*",
-  "Customer" : "Arjun",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
   "Order" : "G19584",
   "Due Date" : "22 Jul 2026",
   "Barcode" : "*G19584-1-1*",
   "Customer" : "Ashok",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19587",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19587-1-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19587",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19587-2-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19587",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19587-3-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19587",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19587-4-1*",
-  "Customer" : "vijeth kanahalli",
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "18 Jul 2026 7:00:53 PM"
