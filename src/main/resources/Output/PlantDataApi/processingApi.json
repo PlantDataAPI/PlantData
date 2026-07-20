@@ -1,1 +1,17 @@
-[ { } ]
+[ {
+  "Order" : "G19599",
+  "Due Date" : "24 Jul 2026",
+  "Barcode" : "*G19599-1-1*",
+  "Customer" : "Mr Champili Debbarma",
+  "Garment" : "Jeans",
+  "Service" : "DC",
+  "Sent from store" : "19 Jul 2026 8:05:56 PM"
+}, {
+  "Order" : "G19599",
+  "Due Date" : "24 Jul 2026",
+  "Barcode" : "*G19599-2-1*",
+  "Customer" : "Mr Champili Debbarma",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "19 Jul 2026 8:05:56 PM"
+} ]
