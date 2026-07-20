@@ -7,14 +7,6 @@
   "Service" : "DC",
   "Sent from store" : "16 Jul 2026 5:41:21 PM"
 }, {
-  "Order" : "C5015",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*C5015-1-3*",
-  "Customer" : "Harsil mehta",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 10:51:04 AM"
-}, {
   "Order" : "C5021",
   "Due Date" : "23 Jul 2026",
   "Barcode" : "*C5021-4-3*",
@@ -30,30 +22,6 @@
   "Garment" : "Pyjama (Light)",
   "Service" : "DC",
   "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "D3194",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*D3194-2-5*",
-  "Customer" : "Mr pawan",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 10:51:04 AM"
-}, {
-  "Order" : "D3198",
-  "Due Date" : "23 Jul 2026",
-  "Barcode" : "*D3198-3-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Kurta Light",
-  "Service" : "SPO",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "D3198",
-  "Due Date" : "23 Jul 2026",
-  "Barcode" : "*D3198-4-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Pyjama (Light)",
-  "Service" : "SPO",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
 }, {
   "Order" : "D3198",
   "Due Date" : "23 Jul 2026",
@@ -118,22 +86,6 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "D3199",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*D3199-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "G19584",
-  "Due Date" : "22 Jul 2026",
-  "Barcode" : "*G19584-1-1*",
-  "Customer" : "Ashok",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "18 Jul 2026 7:00:53 PM"
 }, {
   "Order" : "G19587",
   "Due Date" : "22 Jul 2026",
