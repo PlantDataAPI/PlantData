@@ -1,35 +1,19 @@
 [ {
-  "Order" : "D3202",
+  "Order" : "C5024",
   "Due Date" : "24 Jul 2026",
-  "Barcode" : "*D3202-1-5*",
-  "Customer" : "Mr ani sharma",
-  "Garment" : "Kameez /Kurta (light)",
+  "Barcode" : "*C5024-1-3*",
+  "Customer" : "Dr Jaskaran Singh",
+  "Garment" : "Pants",
   "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 10:37:51 AM"
+  "Sent from store" : "22 Jul 2026 2:47:21 PM"
 }, {
-  "Order" : "D3202",
+  "Order" : "C5025",
   "Due Date" : "24 Jul 2026",
-  "Barcode" : "*D3202-2-5*",
-  "Customer" : "Mr ani sharma",
-  "Garment" : "Kameez /Kurta (light)",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 10:37:51 AM"
-}, {
-  "Order" : "D3202",
-  "Due Date" : "24 Jul 2026",
-  "Barcode" : "*D3202-3-5*",
-  "Customer" : "Mr ani sharma",
-  "Garment" : "Salwar",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 10:37:51 AM"
-}, {
-  "Order" : "D3202",
-  "Due Date" : "24 Jul 2026",
-  "Barcode" : "*D3202-4-5*",
-  "Customer" : "Mr ani sharma",
-  "Garment" : "Salwar",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 10:37:51 AM"
+  "Barcode" : "*C5025-1-3*",
+  "Customer" : "Dr Jaskaran Singh",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "22 Jul 2026 2:47:21 PM"
 }, {
   "Order" : "D3203",
   "Due Date" : "24 Jul 2026",

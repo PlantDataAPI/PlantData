@@ -9,38 +9,6 @@
 }, {
   "Order" : "D3198",
   "Due Date" : "23 Jul 2026",
-  "Barcode" : "*D3198-6-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "D3198",
-  "Due Date" : "23 Jul 2026",
-  "Barcode" : "*D3198-7-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "D3198",
-  "Due Date" : "23 Jul 2026",
-  "Barcode" : "*D3198-8-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "D3198",
-  "Due Date" : "23 Jul 2026",
-  "Barcode" : "*D3198-9-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "D3198",
-  "Due Date" : "23 Jul 2026",
   "Barcode" : "*D3198-10-5*",
   "Customer" : "Mr Amit Kumar",
   "Garment" : "Shirt",
@@ -50,14 +18,6 @@
   "Order" : "D3198",
   "Due Date" : "23 Jul 2026",
   "Barcode" : "*D3198-11-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "D3198",
-  "Due Date" : "23 Jul 2026",
-  "Barcode" : "*D3198-12-5*",
   "Customer" : "Mr Amit Kumar",
   "Garment" : "Shirt",
   "Service" : "DC",
@@ -79,6 +39,14 @@
   "Service" : "DC",
   "Sent from store" : "19 Jul 2026 7:59:39 PM"
 }, {
+  "Order" : "D3201",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3201-6-5*",
+  "Customer" : "Rao",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "19 Jul 2026 7:59:39 PM"
+}, {
   "Order" : "G19590",
   "Due Date" : "23 Jul 2026",
   "Barcode" : "*G19590-1-1*",
@@ -94,14 +62,6 @@
   "Garment" : "Pyjama (Light)",
   "Service" : "DC",
   "Sent from store" : "18 Jul 2026 7:00:53 PM"
-}, {
-  "Order" : "G19591",
-  "Due Date" : "24 Jul 2026",
-  "Barcode" : "*G19591-1-1*",
-  "Customer" : "sandeep sabbathi",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
 }, {
   "Order" : "G19591",
   "Due Date" : "24 Jul 2026",
@@ -791,11 +751,51 @@
   "Service" : "DC",
   "Sent from store" : "20 Jul 2026 5:12:55 PM"
 }, {
-  "Order" : "G19608",
-  "Due Date" : "24 Jul 2026",
-  "Barcode" : "*G19608-1-1*",
-  "Customer" : "Mr Shakti",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
-  "Sent from store" : "20 Jul 2026 5:12:55 PM"
+  "Order" : "S3606",
+  "Due Date" : "17 Jul 2026",
+  "Barcode" : "*S3606-1-4*",
+  "Customer" : "Mr Darayus Nariman",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "16 Jul 2026 5:12:21 PM"
+}, {
+  "Order" : "S3606",
+  "Due Date" : "17 Jul 2026",
+  "Barcode" : "*S3606-2-4*",
+  "Customer" : "Mr Darayus Nariman",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "16 Jul 2026 5:12:21 PM"
+}, {
+  "Order" : "S3606",
+  "Due Date" : "17 Jul 2026",
+  "Barcode" : "*S3606-3-4*",
+  "Customer" : "Mr Darayus Nariman",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "16 Jul 2026 5:12:21 PM"
+}, {
+  "Order" : "S3606",
+  "Due Date" : "17 Jul 2026",
+  "Barcode" : "*S3606-4-4*",
+  "Customer" : "Mr Darayus Nariman",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "16 Jul 2026 5:12:21 PM"
+}, {
+  "Order" : "S3606",
+  "Due Date" : "17 Jul 2026",
+  "Barcode" : "*S3606-5-4*",
+  "Customer" : "Mr Darayus Nariman",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "16 Jul 2026 5:12:21 PM"
+}, {
+  "Order" : "S3606",
+  "Due Date" : "17 Jul 2026",
+  "Barcode" : "*S3606-6-4*",
+  "Customer" : "Mr Darayus Nariman",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "16 Jul 2026 5:12:21 PM"
 } ]
