@@ -1,1 +1,109 @@
-[ { } ]
+[ {
+  "Order" : "C5021",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*C5021-4-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5021",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*C5021-12-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pyjama (Light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3198",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3198-5-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3198",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3198-6-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3198",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3198-7-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3198",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3198-8-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3198",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3198-9-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3198",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3198-11-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3198",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3198-12-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3201",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3201-4-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3201",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3201-5-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3201",
+  "Due Date" : "23 Jul 2026",
+  "Barcode" : "*D3201-6-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
