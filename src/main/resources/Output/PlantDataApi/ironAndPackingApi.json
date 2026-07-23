@@ -297,14 +297,6 @@
 }, {
   "Order" : "G19597",
   "Due Date" : "24 Jul 2026",
-  "Barcode" : "*G19597-4-1*",
-  "Customer" : "hegde",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "G19597",
-  "Due Date" : "24 Jul 2026",
   "Barcode" : "*G19597-5-1*",
   "Customer" : "hegde",
   "Garment" : "Shirt",
@@ -332,30 +324,6 @@
   "Barcode" : "*G19599-1-1*",
   "Customer" : "Mr Champili Debbarma",
   "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "20 Jul 2026 5:12:55 PM"
-}, {
-  "Order" : "G19599",
-  "Due Date" : "24 Jul 2026",
-  "Barcode" : "*G19599-2-1*",
-  "Customer" : "Mr Champili Debbarma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "20 Jul 2026 5:12:55 PM"
-}, {
-  "Order" : "G19601",
-  "Due Date" : "24 Jul 2026",
-  "Barcode" : "*G19601-2-1*",
-  "Customer" : "Amit",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "20 Jul 2026 5:12:55 PM"
-}, {
-  "Order" : "G19602",
-  "Due Date" : "24 Jul 2026",
-  "Barcode" : "*G19602-1-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "20 Jul 2026 5:12:55 PM"
 }, {
@@ -513,31 +481,7 @@
 }, {
   "Order" : "G19605",
   "Due Date" : "25 Jul 2026",
-  "Barcode" : "*G19605-8-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "20 Jul 2026 5:12:55 PM"
-}, {
-  "Order" : "G19605",
-  "Due Date" : "25 Jul 2026",
-  "Barcode" : "*G19605-9-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "20 Jul 2026 5:12:55 PM"
-}, {
-  "Order" : "G19605",
-  "Due Date" : "25 Jul 2026",
   "Barcode" : "*G19605-10-1*",
-  "Customer" : "Mr mahender sir",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "20 Jul 2026 5:12:55 PM"
-}, {
-  "Order" : "G19605",
-  "Due Date" : "25 Jul 2026",
-  "Barcode" : "*G19605-11-1*",
   "Customer" : "Mr mahender sir",
   "Garment" : "Shirt",
   "Service" : "DC",
@@ -706,14 +650,6 @@
   "Order" : "S3617",
   "Due Date" : "23 Jul 2026",
   "Barcode" : "*S3617-2-4*",
-  "Customer" : "tarun tolani",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Jul 2026 7:59:39 PM"
-}, {
-  "Order" : "S3617",
-  "Due Date" : "23 Jul 2026",
-  "Barcode" : "*S3617-3-4*",
   "Customer" : "tarun tolani",
   "Garment" : "Shirt",
   "Service" : "DC",
