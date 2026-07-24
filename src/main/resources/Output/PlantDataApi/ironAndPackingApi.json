@@ -79,22 +79,6 @@
   "Service" : "DC",
   "Sent from store" : "22 Jul 2026 5:02:02 PM"
 }, {
-  "Order" : "C5029",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*C5029-1-3*",
-  "Customer" : "Debika Pattanayak",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "D3204",
-  "Due Date" : "25 Jul 2026",
-  "Barcode" : "*D3204-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "22 Jul 2026 5:02:02 PM"
-}, {
   "Order" : "D3205",
   "Due Date" : "25 Jul 2026",
   "Barcode" : "*D3205-1-5*",
@@ -285,14 +269,6 @@
   "Customer" : "Mr Lars",
   "Garment" : "Pants",
   "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "S3623",
-  "Due Date" : "25 Jul 2026",
-  "Barcode" : "*S3623-1-4*",
-  "Customer" : "DEEPAKSHI VERMA",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Sent from store" : "23 Jul 2026 5:23:38 PM"
 }, {
   "Order" : "S3624",
