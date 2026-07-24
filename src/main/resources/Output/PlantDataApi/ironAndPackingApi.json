@@ -201,14 +201,6 @@
 }, {
   "Order" : "G19614",
   "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19614-7-1*",
-  "Customer" : "Milan meena",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 5:02:02 PM"
-}, {
-  "Order" : "G19614",
-  "Due Date" : "26 Jul 2026",
   "Barcode" : "*G19614-8-1*",
   "Customer" : "Milan meena",
   "Garment" : "Coat",
