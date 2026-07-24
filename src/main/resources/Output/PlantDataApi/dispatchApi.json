@@ -8,6 +8,15 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "C5024",
+  "Due Date" : "24 Jul 2026",
+  "Barcode" : "*C5024-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "C5025",
   "Due Date" : "24 Jul 2026",
   "Barcode" : "*C5025-1-3*",
