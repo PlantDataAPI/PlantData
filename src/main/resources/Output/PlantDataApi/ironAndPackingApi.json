@@ -1,12 +1,4 @@
 [ {
-  "Order" : "C5027",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*C5027-7-3*",
-  "Customer" : "debarpan",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 5:02:02 PM"
-}, {
   "Order" : "C5030",
   "Due Date" : "27 Jul 2026",
   "Barcode" : "*C5030-4-3*",
@@ -151,126 +143,6 @@
   "Service" : "DC",
   "Sent from store" : "23 Jul 2026 5:23:38 PM"
 }, {
-  "Order" : "G19614",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19614-1-1*",
-  "Customer" : "Milan meena",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 5:02:02 PM"
-}, {
-  "Order" : "G19614",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19614-2-1*",
-  "Customer" : "Milan meena",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 5:02:02 PM"
-}, {
-  "Order" : "G19614",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19614-3-1*",
-  "Customer" : "Milan meena",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 5:02:02 PM"
-}, {
-  "Order" : "G19614",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19614-4-1*",
-  "Customer" : "Milan meena",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 5:02:02 PM"
-}, {
-  "Order" : "G19614",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19614-5-1*",
-  "Customer" : "Milan meena",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 5:02:02 PM"
-}, {
-  "Order" : "G19614",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19614-6-1*",
-  "Customer" : "Milan meena",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "22 Jul 2026 5:02:02 PM"
-}, {
-  "Order" : "G19616",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19616-1-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "G19616",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19616-2-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "G19616",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19616-3-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Pyjama (Light)",
-  "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "G19616",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19616-4-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "G19617",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19617-1-1*",
-  "Customer" : "dr anish",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "G19617",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19617-2-1*",
-  "Customer" : "dr anish",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "G19617",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19617-3-1*",
-  "Customer" : "dr anish",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "G19617",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19617-4-1*",
-  "Customer" : "dr anish",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "G19617",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19617-5-1*",
-  "Customer" : "dr anish",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
   "Order" : "G19623",
   "Due Date" : "27 Jul 2026",
   "Barcode" : "*G19623-3-1*",
@@ -278,14 +150,6 @@
   "Garment" : "Sweater Half",
   "Service" : "DC",
   "Sent from store" : "23 Jul 2026 5:23:38 PM"
-}, {
-  "Order" : "G19625",
-  "Due Date" : "26 Jul 2026",
-  "Barcode" : "*G19625-1-1*",
-  "Customer" : "Mr adarsh",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "23 Jul 2026 8:00:23 PM"
 }, {
   "Order" : "G19626",
   "Due Date" : "27 Jul 2026",
