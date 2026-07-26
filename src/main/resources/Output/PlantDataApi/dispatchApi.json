@@ -8,9 +8,72 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "C5032",
+  "Due Date" : "27 Jul 2026",
+  "Barcode" : "*C5032-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Jeans",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5032",
+  "Due Date" : "27 Jul 2026",
+  "Barcode" : "*C5032-2-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5032",
+  "Due Date" : "27 Jul 2026",
+  "Barcode" : "*C5032-6-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5032",
+  "Due Date" : "27 Jul 2026",
+  "Barcode" : "*C5032-9-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pyjama (Light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5032",
+  "Due Date" : "27 Jul 2026",
+  "Barcode" : "*C5032-10-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5032",
+  "Due Date" : "27 Jul 2026",
+  "Barcode" : "*C5032-12-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "D3206",
   "Due Date" : "25 Jul 2026",
   "Barcode" : "*D3206-1-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3206",
+  "Due Date" : "25 Jul 2026",
+  "Barcode" : "*D3206-2-5*",
   "Store Name" : "Defence Colony",
   "Garment" : "Shirt",
   "Service" : "DC",
