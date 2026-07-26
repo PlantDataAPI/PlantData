@@ -103,78 +103,6 @@
   "Service" : "DC",
   "Sent from store" : "23 Jul 2026 5:23:38 PM"
 }, {
-  "Order" : "G19628",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19628-1-1*",
-  "Customer" : "amit sharma E11",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
-  "Order" : "G19629",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19629-1-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
-  "Order" : "G19629",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19629-2-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
-  "Order" : "G19629",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19629-3-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
-  "Order" : "G19629",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19629-4-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
-  "Order" : "G19629",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19629-5-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
-  "Order" : "G19629",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19629-6-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
-  "Order" : "G19629",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19629-7-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
-  "Order" : "G19629",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19629-8-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
   "Order" : "G19631",
   "Due Date" : "27 Jul 2026",
   "Barcode" : "*G19631-1-1*",
@@ -189,14 +117,6 @@
   "Customer" : "Niharika",
   "Garment" : "Shirt",
   "Service" : "DC",
-  "Sent from store" : "24 Jul 2026 6:56:18 PM"
-}, {
-  "Order" : "G19631",
-  "Due Date" : "27 Jul 2026",
-  "Barcode" : "*G19631-3-1*",
-  "Customer" : "Niharika",
-  "Garment" : "Saree (Silk/Chiffon/Georgette/Pattu/heavy))",
-  "Service" : "SPO",
   "Sent from store" : "24 Jul 2026 6:56:18 PM"
 }, {
   "Order" : "G19631",
