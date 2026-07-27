@@ -1,1 +1,19 @@
-[ { } ]
+[ {
+  "Order" : "D3208",
+  "Due Date" : "29 Jul 2026",
+  "Barcode" : "*D3208-1-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Salwar",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3632",
+  "Due Date" : "29 Jul 2026",
+  "Barcode" : "*S3632-7-4*",
+  "Store Name" : "Saket",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
