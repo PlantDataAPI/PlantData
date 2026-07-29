@@ -1,91 +1,19 @@
 [ {
-  "Order" : "C5037",
+  "Order" : "G19655",
   "Due Date" : "29 Jul 2026",
-  "Barcode" : "*C5037-2-3*",
-  "Store Name" : "CR Park",
-  "Garment" : "Pants",
-  "Service" : "DC",
+  "Barcode" : "*G19655-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "SPO",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "D3208",
+  "Order" : "G19655",
   "Due Date" : "29 Jul 2026",
-  "Barcode" : "*D3208-1-5*",
-  "Store Name" : "Defence Colony",
-  "Garment" : "Salwar",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3632",
-  "Due Date" : "29 Jul 2026",
-  "Barcode" : "*S3632-7-4*",
-  "Store Name" : "Saket",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3635",
-  "Due Date" : "29 Jul 2026",
-  "Barcode" : "*S3635-1-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3635",
-  "Due Date" : "29 Jul 2026",
-  "Barcode" : "*S3635-2-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3638",
-  "Due Date" : "29 Jul 2026",
-  "Barcode" : "*S3638-1-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3638",
-  "Due Date" : "29 Jul 2026",
-  "Barcode" : "*S3638-2-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3638",
-  "Due Date" : "29 Jul 2026",
-  "Barcode" : "*S3638-3-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3638",
-  "Due Date" : "29 Jul 2026",
-  "Barcode" : "*S3638-12-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Shorts",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3642",
-  "Due Date" : "30 Jul 2026",
-  "Barcode" : "*S3642-1-4*",
-  "Store Name" : "Saket",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
+  "Barcode" : "*G19655-6-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "SPO",
   "Receive in workshop" : "",
   "Customer" : ""
 } ]
