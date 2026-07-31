@@ -71,14 +71,6 @@
   "Service" : "DC",
   "Sent from store" : "29 Jul 2026 5:04:22 PM"
 }, {
-  "Order" : "D3221",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*D3221-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
   "Order" : "D3222",
   "Due Date" : "01 Aug 2026",
   "Barcode" : "*D3222-1-5*",
@@ -93,14 +85,6 @@
   "Customer" : "Mr Shakti",
   "Garment" : "Coat",
   "Service" : "DC",
-  "Sent from store" : "29 Jul 2026 5:04:22 PM"
-}, {
-  "Order" : "G19663",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*G19663-1-1*",
-  "Customer" : "rahul arya",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
   "Sent from store" : "29 Jul 2026 5:04:22 PM"
 }, {
   "Order" : "G19664",
@@ -173,14 +157,6 @@
   "Customer" : "Ms Alisha",
   "Garment" : "Jumper",
   "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
-  "Order" : "G19666",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*G19666-1-1*",
-  "Customer" : "Ms Alisha",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
   "Sent from store" : "30 Jul 2026 12:06:43 PM"
 }, {
   "Order" : "G19668",
