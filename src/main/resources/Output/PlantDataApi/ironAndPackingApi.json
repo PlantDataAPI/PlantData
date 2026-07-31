@@ -17,33 +17,9 @@
 }, {
   "Order" : "C5050",
   "Due Date" : "01 Aug 2026",
-  "Barcode" : "*C5050-1-3*",
-  "Customer" : "Prabhakar",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "29 Jul 2026 5:04:22 PM"
-}, {
-  "Order" : "C5050",
-  "Due Date" : "01 Aug 2026",
   "Barcode" : "*C5050-2-3*",
   "Customer" : "Prabhakar",
   "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jul 2026 5:04:22 PM"
-}, {
-  "Order" : "C5050",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*C5050-3-3*",
-  "Customer" : "Prabhakar",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jul 2026 5:04:22 PM"
-}, {
-  "Order" : "C5050",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*C5050-4-3*",
-  "Customer" : "Prabhakar",
-  "Garment" : "Jeans",
   "Service" : "DC",
   "Sent from store" : "29 Jul 2026 5:04:22 PM"
 }, {
@@ -70,14 +46,6 @@
   "Garment" : "Undershirt",
   "Service" : "DC",
   "Sent from store" : "29 Jul 2026 5:04:22 PM"
-}, {
-  "Order" : "D3222",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*D3222-1-5*",
-  "Customer" : "Sethi",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
 }, {
   "Order" : "G19662",
   "Due Date" : "01 Aug 2026",
@@ -110,62 +78,6 @@
   "Garment" : "Kurta Light",
   "Service" : "DC",
   "Sent from store" : "29 Jul 2026 5:04:22 PM"
-}, {
-  "Order" : "G19665",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*G19665-1-1*",
-  "Customer" : "Ms Alisha",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
-  "Order" : "G19665",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*G19665-2-1*",
-  "Customer" : "Ms Alisha",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
-  "Order" : "G19665",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*G19665-3-1*",
-  "Customer" : "Ms Alisha",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
-  "Order" : "G19665",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*G19665-4-1*",
-  "Customer" : "Ms Alisha",
-  "Garment" : "Top (Light)",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
-  "Order" : "G19665",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*G19665-5-1*",
-  "Customer" : "Ms Alisha",
-  "Garment" : "Top (Light)",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
-  "Order" : "G19665",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*G19665-6-1*",
-  "Customer" : "Ms Alisha",
-  "Garment" : "Jumper",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
-  "Order" : "G19668",
-  "Due Date" : "03 Aug 2026",
-  "Barcode" : "*G19668-1-1*",
-  "Customer" : "Mrs semmi",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
 }, {
   "Order" : "G19670",
   "Due Date" : "02 Aug 2026",
@@ -209,22 +121,6 @@
 }, {
   "Order" : "G19670",
   "Due Date" : "02 Aug 2026",
-  "Barcode" : "*G19670-6-1*",
-  "Customer" : "diana",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
-  "Order" : "G19670",
-  "Due Date" : "02 Aug 2026",
-  "Barcode" : "*G19670-7-1*",
-  "Customer" : "diana",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "30 Jul 2026 12:06:43 PM"
-}, {
-  "Order" : "G19670",
-  "Due Date" : "02 Aug 2026",
   "Barcode" : "*G19670-9-1*",
   "Customer" : "diana",
   "Garment" : "Tie",
@@ -239,14 +135,6 @@
   "Service" : "DC",
   "Sent from store" : "30 Jul 2026 12:06:43 PM"
 }, {
-  "Order" : "S3643",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*S3643-4-4*",
-  "Customer" : "Mr ranjeet rajoriya",
-  "Garment" : "Jacket",
-  "Service" : "DC",
-  "Sent from store" : "27 Jul 2026 4:38:52 PM"
-}, {
   "Order" : "S3646",
   "Due Date" : "01 Aug 2026",
   "Barcode" : "*S3646-1-4*",
@@ -257,25 +145,9 @@
 }, {
   "Order" : "S3646",
   "Due Date" : "01 Aug 2026",
-  "Barcode" : "*S3646-2-4*",
-  "Customer" : "MRS RUDRA",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jul 2026 5:04:22 PM"
-}, {
-  "Order" : "S3646",
-  "Due Date" : "01 Aug 2026",
   "Barcode" : "*S3646-3-4*",
   "Customer" : "MRS RUDRA",
   "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "29 Jul 2026 5:04:22 PM"
-}, {
-  "Order" : "S3646",
-  "Due Date" : "01 Aug 2026",
-  "Barcode" : "*S3646-4-4*",
-  "Customer" : "MRS RUDRA",
-  "Garment" : "Pyjama (Light)",
   "Service" : "DC",
   "Sent from store" : "29 Jul 2026 5:04:22 PM"
 }, {
