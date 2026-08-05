@@ -1,4 +1,130 @@
 [ {
+  "Order" : "C5063",
+  "Due Date" : "05 Aug 2026",
+  "Barcode" : "*C5063-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Kurta Heavy",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5065",
+  "Due Date" : "07 Aug 2026",
+  "Barcode" : "*C5065-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5066",
+  "Due Date" : "07 Aug 2026",
+  "Barcode" : "*C5066-2-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pyjama (Light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5066",
+  "Due Date" : "07 Aug 2026",
+  "Barcode" : "*C5066-3-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3233",
+  "Due Date" : "06 Aug 2026",
+  "Barcode" : "*D3233-15-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3233",
+  "Due Date" : "06 Aug 2026",
+  "Barcode" : "*D3233-16-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3233",
+  "Due Date" : "06 Aug 2026",
+  "Barcode" : "*D3233-17-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3233",
+  "Due Date" : "06 Aug 2026",
+  "Barcode" : "*D3233-18-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19696",
+  "Due Date" : "05 Aug 2026",
+  "Barcode" : "*G19696-2-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19696",
+  "Due Date" : "05 Aug 2026",
+  "Barcode" : "*G19696-3-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19696",
+  "Due Date" : "05 Aug 2026",
+  "Barcode" : "*G19696-4-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19696",
+  "Due Date" : "05 Aug 2026",
+  "Barcode" : "*G19696-5-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19696",
+  "Due Date" : "05 Aug 2026",
+  "Barcode" : "*G19696-6-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19696",
+  "Due Date" : "05 Aug 2026",
+  "Barcode" : "*G19696-7-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "S3652",
   "Due Date" : "03 Aug 2026",
   "Barcode" : "*S3652-1-4*",
@@ -23,6 +149,15 @@
   "Store Name" : "Saket",
   "Garment" : "Garment 1",
   "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3654",
+  "Due Date" : "06 Aug 2026",
+  "Barcode" : "*S3654-3-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
 } ]
