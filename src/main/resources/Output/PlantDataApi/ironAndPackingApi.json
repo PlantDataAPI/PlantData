@@ -103,6 +103,70 @@
   "Service" : "DC",
   "Sent from store" : "03 Aug 2026 5:06:56 PM"
 }, {
+  "Order" : "C5067",
+  "Due Date" : "08 Aug 2026",
+  "Barcode" : "*C5067-1-3*",
+  "Customer" : "A bhattacharya",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
+  "Order" : "C5067",
+  "Due Date" : "08 Aug 2026",
+  "Barcode" : "*C5067-2-3*",
+  "Customer" : "A bhattacharya",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
+  "Order" : "C5067",
+  "Due Date" : "08 Aug 2026",
+  "Barcode" : "*C5067-3-3*",
+  "Customer" : "A bhattacharya",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
+  "Order" : "C5067",
+  "Due Date" : "08 Aug 2026",
+  "Barcode" : "*C5067-4-3*",
+  "Customer" : "A bhattacharya",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
+  "Order" : "C5067",
+  "Due Date" : "08 Aug 2026",
+  "Barcode" : "*C5067-5-3*",
+  "Customer" : "A bhattacharya",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
+  "Order" : "C5067",
+  "Due Date" : "08 Aug 2026",
+  "Barcode" : "*C5067-7-3*",
+  "Customer" : "A bhattacharya",
+  "Garment" : "Dupatta  (Plain)",
+  "Service" : "DC",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
+  "Order" : "C5067",
+  "Due Date" : "08 Aug 2026",
+  "Barcode" : "*C5067-9-3*",
+  "Customer" : "A bhattacharya",
+  "Garment" : "Pyjama",
+  "Service" : "DC",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
+  "Order" : "C5067",
+  "Due Date" : "08 Aug 2026",
+  "Barcode" : "*C5067-10-3*",
+  "Customer" : "A bhattacharya",
+  "Garment" : "Pyjama",
+  "Service" : "DC",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
   "Order" : "D3228",
   "Due Date" : "03 Aug 2026",
   "Barcode" : "*D3228-1-5*",
@@ -551,6 +615,14 @@
   "Service" : "DC",
   "Sent from store" : "02 Aug 2026 7:48:33 PM"
 }, {
+  "Order" : "G19707",
+  "Due Date" : "07 Aug 2026",
+  "Barcode" : "*G19707-1-1*",
+  "Customer" : "Mr manik",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
   "Order" : "S3652",
   "Due Date" : "03 Aug 2026",
   "Barcode" : "*S3652-1-4*",
@@ -605,5 +677,13 @@
   "Customer" : "Mrs Ishita ghosh",
   "Garment" : "Quilt Double",
   "Service" : "DC",
+  "Sent from store" : "03 Aug 2026 5:06:56 PM"
+}, {
+  "Order" : "S3657",
+  "Due Date" : "07 Aug 2026",
+  "Barcode" : "*S3657-1-4*",
+  "Customer" : "anjali gupta",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
   "Sent from store" : "03 Aug 2026 5:06:56 PM"
 } ]
