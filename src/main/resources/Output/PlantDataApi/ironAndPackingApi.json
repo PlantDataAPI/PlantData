@@ -15,132 +15,12 @@
   "Service" : "DC",
   "Sent from store" : "05 Aug 2026 5:07:29 PM"
 }, {
-  "Order" : "D3233",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*D3233-4-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "03 Aug 2026 5:06:56 PM"
-}, {
-  "Order" : "D3233",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*D3233-5-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "03 Aug 2026 5:06:56 PM"
-}, {
-  "Order" : "D3233",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*D3233-6-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "03 Aug 2026 5:06:56 PM"
-}, {
-  "Order" : "D3233",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*D3233-7-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "03 Aug 2026 5:06:56 PM"
-}, {
-  "Order" : "D3233",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*D3233-8-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "03 Aug 2026 5:06:56 PM"
-}, {
-  "Order" : "D3233",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*D3233-9-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "03 Aug 2026 5:06:56 PM"
-}, {
-  "Order" : "D3233",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*D3233-11-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "03 Aug 2026 5:06:56 PM"
-}, {
-  "Order" : "D3233",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*D3233-12-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "03 Aug 2026 5:06:56 PM"
-}, {
-  "Order" : "D3233",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*D3233-13-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "03 Aug 2026 5:06:56 PM"
-}, {
-  "Order" : "D3234",
-  "Due Date" : "07 Aug 2026",
-  "Barcode" : "*D3234-1-5*",
-  "Customer" : "Mr Milan nagi",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "05 Aug 2026 5:07:29 PM"
-}, {
-  "Order" : "D3234",
-  "Due Date" : "07 Aug 2026",
-  "Barcode" : "*D3234-2-5*",
-  "Customer" : "Mr Milan nagi",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "05 Aug 2026 5:07:29 PM"
-}, {
-  "Order" : "D3234",
-  "Due Date" : "07 Aug 2026",
-  "Barcode" : "*D3234-3-5*",
-  "Customer" : "Mr Milan nagi",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "05 Aug 2026 5:07:29 PM"
-}, {
-  "Order" : "D3234",
-  "Due Date" : "07 Aug 2026",
-  "Barcode" : "*D3234-4-5*",
-  "Customer" : "Mr Milan nagi",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "05 Aug 2026 5:07:29 PM"
-}, {
   "Order" : "D3235",
   "Due Date" : "07 Aug 2026",
   "Barcode" : "*D3235-1-5*",
   "Customer" : "Katherine",
   "Garment" : "Garment 1",
   "Service" : "WI",
-  "Sent from store" : "05 Aug 2026 5:07:29 PM"
-}, {
-  "Order" : "D3236",
-  "Due Date" : "08 Aug 2026",
-  "Barcode" : "*D3236-2-5*",
-  "Customer" : "Ms Sumeru INC",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "05 Aug 2026 5:07:29 PM"
-}, {
-  "Order" : "D3237",
-  "Due Date" : "07 Aug 2026",
-  "Barcode" : "*D3237-1-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
   "Sent from store" : "05 Aug 2026 5:07:29 PM"
 }, {
   "Order" : "D3238",
@@ -173,22 +53,6 @@
   "Customer" : "laavanya gupta",
   "Garment" : "Garment 1",
   "Service" : "WI",
-  "Sent from store" : "02 Aug 2026 7:48:33 PM"
-}, {
-  "Order" : "G19705",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*G19705-2-1*",
-  "Customer" : "Ms Neha Jain",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "02 Aug 2026 7:48:33 PM"
-}, {
-  "Order" : "G19705",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*G19705-5-1*",
-  "Customer" : "Ms Neha Jain",
-  "Garment" : "Shirt",
-  "Service" : "DC",
   "Sent from store" : "02 Aug 2026 7:48:33 PM"
 }, {
   "Order" : "G19707",
