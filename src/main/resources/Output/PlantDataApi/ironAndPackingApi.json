@@ -47,14 +47,6 @@
   "Service" : "DC",
   "Sent from store" : "02 Aug 2026 4:03:13 PM"
 }, {
-  "Order" : "G19704",
-  "Due Date" : "06 Aug 2026",
-  "Barcode" : "*G19704-1-1*",
-  "Customer" : "laavanya gupta",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "02 Aug 2026 7:48:33 PM"
-}, {
   "Order" : "G19707",
   "Due Date" : "07 Aug 2026",
   "Barcode" : "*G19707-1-1*",
