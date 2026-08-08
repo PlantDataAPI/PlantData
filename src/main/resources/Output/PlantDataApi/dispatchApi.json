@@ -26,15 +26,6 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G19711",
-  "Due Date" : "09 Aug 2026",
-  "Barcode" : "*G19711-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Bed Spread Double",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
   "Order" : "S3662",
   "Due Date" : "08 Aug 2026",
   "Barcode" : "*S3662-1-4*",
