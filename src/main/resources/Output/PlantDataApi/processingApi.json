@@ -39,30 +39,6 @@
   "Service" : "DC",
   "Sent from store" : "09 Aug 2026 2:30:49 PM"
 }, {
-  "Order" : "C5086",
-  "Due Date" : "13 Aug 2026",
-  "Barcode" : "*C5086-1-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Pillow (Medium)",
-  "Service" : "DC",
-  "Sent from store" : "09 Aug 2026 2:30:49 PM"
-}, {
-  "Order" : "C5086",
-  "Due Date" : "13 Aug 2026",
-  "Barcode" : "*C5086-2-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Cushion (Small)",
-  "Service" : "DC",
-  "Sent from store" : "09 Aug 2026 2:30:49 PM"
-}, {
-  "Order" : "C5086",
-  "Due Date" : "13 Aug 2026",
-  "Barcode" : "*C5086-3-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Quilt Double",
-  "Service" : "DC",
-  "Sent from store" : "09 Aug 2026 2:30:49 PM"
-}, {
   "Order" : "C5087",
   "Due Date" : "13 Aug 2026",
   "Barcode" : "*C5087-1-3*",
@@ -70,4 +46,52 @@
   "Garment" : "Coat",
   "Service" : "DC",
   "Sent from store" : "09 Aug 2026 2:30:49 PM"
+}, {
+  "Order" : "S3673",
+  "Due Date" : "12 Aug 2026",
+  "Barcode" : "*S3673-1-4*",
+  "Customer" : "raja",
+  "Garment" : "Garment 1",
+  "Service" : "LA",
+  "Sent from store" : "09 Aug 2026 4:59:22 PM"
+}, {
+  "Order" : "S3674",
+  "Due Date" : "12 Aug 2026",
+  "Barcode" : "*S3674-1-4*",
+  "Customer" : "raja",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "09 Aug 2026 4:59:22 PM"
+}, {
+  "Order" : "S3674",
+  "Due Date" : "12 Aug 2026",
+  "Barcode" : "*S3674-2-4*",
+  "Customer" : "raja",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "09 Aug 2026 4:59:22 PM"
+}, {
+  "Order" : "S3674",
+  "Due Date" : "12 Aug 2026",
+  "Barcode" : "*S3674-3-4*",
+  "Customer" : "raja",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "09 Aug 2026 4:59:22 PM"
+}, {
+  "Order" : "S3675",
+  "Due Date" : "12 Aug 2026",
+  "Barcode" : "*S3675-1-4*",
+  "Customer" : "shantanu",
+  "Garment" : "Blazer",
+  "Service" : "DC",
+  "Sent from store" : "09 Aug 2026 4:59:22 PM"
+}, {
+  "Order" : "S3675",
+  "Due Date" : "12 Aug 2026",
+  "Barcode" : "*S3675-2-4*",
+  "Customer" : "shantanu",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "09 Aug 2026 4:59:22 PM"
 } ]
