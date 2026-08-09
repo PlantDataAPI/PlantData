@@ -26,11 +26,38 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "D3242",
+  "Due Date" : "12 Aug 2026",
+  "Barcode" : "*D3242-7-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3242",
+  "Due Date" : "12 Aug 2026",
+  "Barcode" : "*D3242-8-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "S3662",
   "Due Date" : "08 Aug 2026",
   "Barcode" : "*S3662-1-4*",
   "Store Name" : "Saket",
   "Garment" : "Kameez /Kurta (Heavy)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3668",
+  "Due Date" : "09 Aug 2026",
+  "Barcode" : "*S3668-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Quilt Single",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
