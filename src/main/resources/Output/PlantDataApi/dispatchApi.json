@@ -100,6 +100,15 @@
 }, {
   "Order" : "S3666",
   "Due Date" : "09 Aug 2026",
+  "Barcode" : "*S3666-17-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Hand Towel",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3666",
+  "Due Date" : "09 Aug 2026",
   "Barcode" : "*S3666-18-4*",
   "Store Name" : "Saket",
   "Garment" : "Kurta Light",
