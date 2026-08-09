@@ -1,1 +1,10 @@
-[ { } ]
+[ {
+  "Order" : "S3666",
+  "Due Date" : "09 Aug 2026",
+  "Barcode" : "*S3666-18-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
