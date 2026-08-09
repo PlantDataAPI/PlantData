@@ -23,14 +23,6 @@
   "Service" : "DC",
   "Sent from store" : "07 Aug 2026 7:00:28 PM"
 }, {
-  "Order" : "G19723",
-  "Due Date" : "10 Aug 2026",
-  "Barcode" : "*G19723-1-1*",
-  "Customer" : "vikram singh arya",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "07 Aug 2026 3:45:50 PM"
-}, {
   "Order" : "S3666",
   "Due Date" : "09 Aug 2026",
   "Barcode" : "*S3666-17-4*",
