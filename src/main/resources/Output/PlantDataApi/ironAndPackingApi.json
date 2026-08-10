@@ -17,14 +17,6 @@
 }, {
   "Order" : "C5084",
   "Due Date" : "13 Aug 2026",
-  "Barcode" : "*C5084-1-3*",
-  "Customer" : "Kalyan Roy",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "08 Aug 2026 7:41:07 PM"
-}, {
-  "Order" : "C5084",
-  "Due Date" : "13 Aug 2026",
   "Barcode" : "*C5084-3-3*",
   "Customer" : "Kalyan Roy",
   "Garment" : "Shirt",
@@ -52,22 +44,6 @@
   "Barcode" : "*C5085-3-3*",
   "Customer" : "Biplip",
   "Garment" : "Shorts",
-  "Service" : "DC",
-  "Sent from store" : "09 Aug 2026 5:47:50 PM"
-}, {
-  "Order" : "C5085",
-  "Due Date" : "13 Aug 2026",
-  "Barcode" : "*C5085-4-3*",
-  "Customer" : "Biplip",
-  "Garment" : "Kameez /Kurta (light)",
-  "Service" : "DC",
-  "Sent from store" : "09 Aug 2026 5:47:50 PM"
-}, {
-  "Order" : "C5085",
-  "Due Date" : "13 Aug 2026",
-  "Barcode" : "*C5085-5-3*",
-  "Customer" : "Biplip",
-  "Garment" : "Pyjama",
   "Service" : "DC",
   "Sent from store" : "09 Aug 2026 5:47:50 PM"
 }, {
@@ -197,14 +173,6 @@
   "Customer" : "Mr Manuj Gupta",
   "Garment" : "T Shirt",
   "Service" : "DC",
-  "Sent from store" : "08 Aug 2026 7:41:07 PM"
-}, {
-  "Order" : "G19736",
-  "Due Date" : "12 Aug 2026",
-  "Barcode" : "*G19736-1-1*",
-  "Customer" : "Mr parth kadam",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Sent from store" : "08 Aug 2026 7:41:07 PM"
 }, {
   "Order" : "S3673",
