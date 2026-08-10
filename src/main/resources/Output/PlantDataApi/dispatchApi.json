@@ -1,1 +1,10 @@
-[ { } ]
+[ {
+  "Order" : "D3242",
+  "Due Date" : "12 Aug 2026",
+  "Barcode" : "*D3242-3-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
