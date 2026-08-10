@@ -95,14 +95,6 @@
   "Service" : "DC",
   "Sent from store" : "07 Aug 2026 7:00:28 PM"
 }, {
-  "Order" : "D3243",
-  "Due Date" : "10 Aug 2026",
-  "Barcode" : "*D3243-2-5*",
-  "Customer" : "Mr Amit Kumar",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "07 Aug 2026 7:00:28 PM"
-}, {
   "Order" : "D3247",
   "Due Date" : "12 Aug 2026",
   "Barcode" : "*D3247-1-5*",
