@@ -1,4 +1,40 @@
 [ {
+  "Order" : "C5084",
+  "Due Date" : "13 Aug 2026",
+  "Barcode" : "*C5084-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5084",
+  "Due Date" : "13 Aug 2026",
+  "Barcode" : "*C5084-2-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5085",
+  "Due Date" : "13 Aug 2026",
+  "Barcode" : "*C5085-4-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5085",
+  "Due Date" : "13 Aug 2026",
+  "Barcode" : "*C5085-5-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pyjama",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "D3242",
   "Due Date" : "12 Aug 2026",
   "Barcode" : "*D3242-3-5*",
