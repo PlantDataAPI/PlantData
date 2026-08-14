@@ -39,14 +39,6 @@
   "Service" : "DC",
   "Sent from store" : "12 Aug 2026 6:20:37 PM"
 }, {
-  "Order" : "D3258",
-  "Due Date" : "15 Aug 2026",
-  "Barcode" : "*D3258-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "13 Aug 2026 5:58:30 PM"
-}, {
   "Order" : "G19747",
   "Due Date" : "17 Aug 2026",
   "Barcode" : "*G19747-1-1*",
