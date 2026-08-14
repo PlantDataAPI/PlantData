@@ -79,14 +79,6 @@
   "Service" : "DC",
   "Sent from store" : "10 Aug 2026 6:50:09 PM"
 }, {
-  "Order" : "G19758",
-  "Due Date" : "14 Aug 2026",
-  "Barcode" : "*G19758-1-1*",
-  "Customer" : "chavvi jain",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Aug 2026 12:32:36 PM"
-}, {
   "Order" : "G19761",
   "Due Date" : "16 Aug 2026",
   "Barcode" : "*G19761-3-1*",
@@ -140,14 +132,6 @@
   "Barcode" : "*G19761-10-1*",
   "Customer" : "Ms anjali mishra",
   "Garment" : "Pyjama",
-  "Service" : "DC",
-  "Sent from store" : "12 Aug 2026 6:20:37 PM"
-}, {
-  "Order" : "G19761",
-  "Due Date" : "16 Aug 2026",
-  "Barcode" : "*G19761-12-1*",
-  "Customer" : "Ms anjali mishra",
-  "Garment" : "Pants",
   "Service" : "DC",
   "Sent from store" : "12 Aug 2026 6:20:37 PM"
 }, {
@@ -319,22 +303,6 @@
   "Service" : "DC",
   "Sent from store" : "12 Aug 2026 6:20:37 PM"
 }, {
-  "Order" : "G19765",
-  "Due Date" : "16 Aug 2026",
-  "Barcode" : "*G19765-2-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "12 Aug 2026 6:20:37 PM"
-}, {
-  "Order" : "G19765",
-  "Due Date" : "16 Aug 2026",
-  "Barcode" : "*G19765-3-1*",
-  "Customer" : "Mr punjab and sind bank",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "12 Aug 2026 6:20:37 PM"
-}, {
   "Order" : "G19767",
   "Due Date" : "16 Aug 2026",
   "Barcode" : "*G19767-1-1*",
@@ -404,14 +372,6 @@
   "Barcode" : "*S3680-15-4*",
   "Customer" : "Mr ali",
   "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "10 Aug 2026 4:59:14 PM"
-}, {
-  "Order" : "S3682",
-  "Due Date" : "14 Aug 2026",
-  "Barcode" : "*S3682-3-4*",
-  "Customer" : "Mrs babby tuli",
-  "Garment" : "Pants",
   "Service" : "DC",
   "Sent from store" : "10 Aug 2026 4:59:14 PM"
 }, {
