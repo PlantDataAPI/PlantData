@@ -154,6 +154,69 @@
 }, {
   "Order" : "G19761",
   "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-3-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-4-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-5-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-6-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-7-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-8-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pyjama",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-10-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pyjama",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
   "Barcode" : "*G19761-12-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Pants",
@@ -184,6 +247,42 @@
   "Barcode" : "*G19761-15-1*",
   "Store Name" : "Greenpark",
   "Garment" : "Cushion Cover (Small)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-20-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-23-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-26-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19761",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19761-29-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""

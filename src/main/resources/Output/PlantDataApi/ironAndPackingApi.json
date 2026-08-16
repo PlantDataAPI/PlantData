@@ -81,14 +81,6 @@
 }, {
   "Order" : "G19761",
   "Due Date" : "16 Aug 2026",
-  "Barcode" : "*G19761-20-1*",
-  "Customer" : "Ms anjali mishra",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "12 Aug 2026 6:20:37 PM"
-}, {
-  "Order" : "G19761",
-  "Due Date" : "16 Aug 2026",
   "Barcode" : "*G19761-21-1*",
   "Customer" : "Ms anjali mishra",
   "Garment" : "Shirt",
@@ -106,14 +98,6 @@
   "Order" : "G19761",
   "Due Date" : "16 Aug 2026",
   "Barcode" : "*G19761-25-1*",
-  "Customer" : "Ms anjali mishra",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "12 Aug 2026 6:20:37 PM"
-}, {
-  "Order" : "G19761",
-  "Due Date" : "16 Aug 2026",
-  "Barcode" : "*G19761-26-1*",
   "Customer" : "Ms anjali mishra",
   "Garment" : "Shirt",
   "Service" : "DC",
