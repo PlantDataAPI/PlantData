@@ -1,4 +1,31 @@
 [ {
+  "Order" : "C5097",
+  "Due Date" : "21 Aug 2026",
+  "Barcode" : "*C5097-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5099",
+  "Due Date" : "20 Aug 2026",
+  "Barcode" : "*C5099-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Bed Sheet Double",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5099",
+  "Due Date" : "20 Aug 2026",
+  "Barcode" : "*C5099-2-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Blanket Double",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "D3258",
   "Due Date" : "15 Aug 2026",
   "Barcode" : "*D3258-1-5*",
@@ -152,11 +179,56 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
+  "Order" : "G19775",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19775-2-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Long Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19779",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19779-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19779",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19779-2-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19780",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*G19780-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "S3682",
   "Due Date" : "14 Aug 2026",
   "Barcode" : "*S3682-3-4*",
   "Store Name" : "Saket",
   "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3691",
+  "Due Date" : "16 Aug 2026",
+  "Barcode" : "*S3691-4-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Quilt Double",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
