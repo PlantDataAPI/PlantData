@@ -255,14 +255,6 @@
   "Service" : "DC",
   "Sent from store" : "12 Aug 2026 6:20:37 PM"
 }, {
-  "Order" : "G19774",
-  "Due Date" : "16 Aug 2026",
-  "Barcode" : "*G19774-1-1*",
-  "Customer" : "dr anish",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "13 Aug 2026 5:58:30 PM"
-}, {
   "Order" : "G19776",
   "Due Date" : "17 Aug 2026",
   "Barcode" : "*G19776-1-1*",
