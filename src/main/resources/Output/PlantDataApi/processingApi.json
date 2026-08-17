@@ -1,12 +1,4 @@
 [ {
-  "Order" : "C5100",
-  "Due Date" : "17 Aug 2026",
-  "Barcode" : "*C5100-1-3*",
-  "Customer" : "adhiraj singh",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "14 Aug 2026 5:47:55 PM"
-}, {
   "Order" : "D3259",
   "Due Date" : "16 Aug 2026",
   "Barcode" : "*D3259-1-5*",
@@ -255,6 +247,38 @@
   "Service" : "DC",
   "Sent from store" : "16 Aug 2026 12:56:10 PM"
 }, {
+  "Order" : "G19785",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19785-1-1*",
+  "Customer" : "shiv ram",
+  "Garment" : "Salwar",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
+  "Order" : "G19785",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19785-2-1*",
+  "Customer" : "shiv ram",
+  "Garment" : "Dress (light)",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
+  "Order" : "G19785",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19785-3-1*",
+  "Customer" : "shiv ram",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
+  "Order" : "G19785",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19785-4-1*",
+  "Customer" : "shiv ram",
+  "Garment" : "Choli / Blouse (Light)",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
   "Order" : "G19786",
   "Due Date" : "17 Aug 2026",
   "Barcode" : "*G19786-2-1*",
@@ -423,6 +447,38 @@
   "Service" : "DC",
   "Sent from store" : "14 Aug 2026 7:44:32 PM"
 }, {
+  "Order" : "G19787",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19787-1-1*",
+  "Customer" : "Ms pallavi barua",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
+  "Order" : "G19787",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19787-2-1*",
+  "Customer" : "Ms pallavi barua",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
+  "Order" : "G19787",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19787-3-1*",
+  "Customer" : "Ms pallavi barua",
+  "Garment" : "Palazo",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
+  "Order" : "G19787",
+  "Due Date" : "17 Aug 2026",
+  "Barcode" : "*G19787-4-1*",
+  "Customer" : "Ms pallavi barua",
+  "Garment" : "Palazo",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
   "Order" : "G19788",
   "Due Date" : "20 Aug 2026",
   "Barcode" : "*G19788-1-1*",
@@ -471,6 +527,30 @@
   "Service" : "DC",
   "Sent from store" : "16 Aug 2026 5:26:08 PM"
 }, {
+  "Order" : "G19791",
+  "Due Date" : "20 Aug 2026",
+  "Barcode" : "*G19791-1-1*",
+  "Customer" : "Ms pallavi barua",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
+  "Order" : "G19791",
+  "Due Date" : "20 Aug 2026",
+  "Barcode" : "*G19791-2-1*",
+  "Customer" : "Ms pallavi barua",
+  "Garment" : "Dupatta  (Plain)",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
+  "Order" : "G19791",
+  "Due Date" : "20 Aug 2026",
+  "Barcode" : "*G19791-3-1*",
+  "Customer" : "Ms pallavi barua",
+  "Garment" : "Sharara (Plain)",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
   "Order" : "G19792",
   "Due Date" : "20 Aug 2026",
   "Barcode" : "*G19792-1-1*",
@@ -486,6 +566,22 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "16 Aug 2026 5:02:53 PM"
+}, {
+  "Order" : "G19793",
+  "Due Date" : "20 Aug 2026",
+  "Barcode" : "*G19793-1-1*",
+  "Customer" : "vikram singh arya",
+  "Garment" : "Dress (Medium)",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
+}, {
+  "Order" : "G19795",
+  "Due Date" : "20 Aug 2026",
+  "Barcode" : "*G19795-1-1*",
+  "Customer" : "vijeth kanahalli",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "17 Aug 2026 11:30:39 AM"
 }, {
   "Order" : "S3694",
   "Due Date" : "16 Aug 2026",
