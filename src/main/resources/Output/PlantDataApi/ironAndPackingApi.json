@@ -463,14 +463,6 @@
   "Service" : "DC",
   "Sent from store" : "17 Aug 2026 8:05:45 PM"
 }, {
-  "Order" : "S3699",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*S3699-1-4*",
-  "Customer" : "prahari",
-  "Garment" : "Jacket",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
   "Order" : "S3700",
   "Due Date" : "20 Aug 2026",
   "Barcode" : "*S3700-1-4*",
@@ -489,73 +481,9 @@
 }, {
   "Order" : "S3701",
   "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3701-1-4*",
-  "Customer" : "Ms sanchita",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3701",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3701-3-4*",
-  "Customer" : "Ms sanchita",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3701",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3701-5-4*",
-  "Customer" : "Ms sanchita",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3701",
-  "Due Date" : "21 Aug 2026",
   "Barcode" : "*S3701-10-4*",
   "Customer" : "Ms sanchita",
   "Garment" : "Dress (light)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3701",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3701-14-4*",
-  "Customer" : "Ms sanchita",
-  "Garment" : "Dupatta (Light)",
-  "Service" : "SPO",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3702",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*S3702-1-4*",
-  "Customer" : "Ms sanchita",
-  "Garment" : "Sweater (Full Sleeve)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3702",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*S3702-2-4*",
-  "Customer" : "Ms sanchita",
-  "Garment" : "Sweater (Full Sleeve)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3702",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*S3702-3-4*",
-  "Customer" : "Ms sanchita",
-  "Garment" : "Sweater (Full Sleeve)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3703",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3703-1-4*",
-  "Customer" : "Ms anju",
-  "Garment" : "Pyjama",
   "Service" : "DC",
   "Sent from store" : "17 Aug 2026 12:25:42 PM"
 }, {
@@ -575,38 +503,6 @@
   "Service" : "DC",
   "Sent from store" : "17 Aug 2026 12:25:42 PM"
 }, {
-  "Order" : "S3706",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3706-1-4*",
-  "Customer" : "suresh balai",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 6:37:56 PM"
-}, {
-  "Order" : "S3706",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3706-2-4*",
-  "Customer" : "suresh balai",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 6:37:56 PM"
-}, {
-  "Order" : "S3708",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3708-1-4*",
-  "Customer" : "Mr ashish",
-  "Garment" : "Shorts",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 6:37:56 PM"
-}, {
-  "Order" : "S3708",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3708-3-4*",
-  "Customer" : "Mr ashish",
-  "Garment" : "Sweat Shirt",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 6:37:56 PM"
-}, {
   "Order" : "S3708",
   "Due Date" : "21 Aug 2026",
   "Barcode" : "*S3708-4-4*",
@@ -614,36 +510,4 @@
   "Garment" : "Sweat Shirt",
   "Service" : "DC",
   "Sent from store" : "17 Aug 2026 6:37:56 PM"
-}, {
-  "Order" : "S3708",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3708-5-4*",
-  "Customer" : "Mr ashish",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 6:37:56 PM"
-}, {
-  "Order" : "S3708",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3708-6-4*",
-  "Customer" : "Mr ashish",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 6:37:56 PM"
-}, {
-  "Order" : "S3708",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3708-7-4*",
-  "Customer" : "Mr ashish",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 6:37:56 PM"
-}, {
-  "Order" : "S3710",
-  "Due Date" : "19 Aug 2026",
-  "Barcode" : "*S3710-1-4*",
-  "Customer" : "prahari",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "19 Aug 2026 6:54:02 PM"
 } ]
