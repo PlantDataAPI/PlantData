@@ -1,19 +1,11 @@
 [ {
-  "Order" : "C5094",
-  "Due Date" : "19 Aug 2026",
-  "Barcode" : "*C5094-1-3*",
-  "Customer" : "sukomal juneja",
-  "Garment" : "Blanket Single",
-  "Service" : "DC",
-  "Sent from store" : "13 Aug 2026 5:58:30 PM"
-}, {
-  "Order" : "C5100",
-  "Due Date" : "17 Aug 2026",
-  "Barcode" : "*C5100-1-3*",
-  "Customer" : "adhiraj singh",
+  "Order" : "C5102",
+  "Due Date" : "21 Aug 2026",
+  "Barcode" : "*C5102-1-3*",
+  "Customer" : "Debika Pattanayak",
   "Garment" : "Garment 1",
   "Service" : "WF",
-  "Sent from store" : "17 Aug 2026 6:37:56 PM"
+  "Sent from store" : "19 Aug 2026 6:54:02 PM"
 }, {
   "Order" : "D3260",
   "Due Date" : "20 Aug 2026",
@@ -455,22 +447,6 @@
   "Service" : "LA",
   "Sent from store" : "17 Aug 2026 8:05:45 PM"
 }, {
-  "Order" : "G19802",
-  "Due Date" : "22 Aug 2026",
-  "Barcode" : "*G19802-2-1*",
-  "Customer" : "Sharan",
-  "Garment" : "Skirt (Long)",
-  "Service" : "SPO",
-  "Sent from store" : "17 Aug 2026 8:05:45 PM"
-}, {
-  "Order" : "G19802",
-  "Due Date" : "22 Aug 2026",
-  "Barcode" : "*G19802-3-1*",
-  "Customer" : "Sharan",
-  "Garment" : "Dupatta (Light)",
-  "Service" : "SPO",
-  "Sent from store" : "17 Aug 2026 8:05:45 PM"
-}, {
   "Order" : "G19803",
   "Due Date" : "22 Aug 2026",
   "Barcode" : "*G19803-1-1*",
@@ -486,14 +462,6 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "17 Aug 2026 8:05:45 PM"
-}, {
-  "Order" : "S3683",
-  "Due Date" : "16 Aug 2026",
-  "Barcode" : "*S3683-1-4*",
-  "Customer" : "VANSH MAHESHWARI",
-  "Garment" : "Suede Shoes",
-  "Service" : "LC",
-  "Sent from store" : "10 Aug 2026 4:59:14 PM"
 }, {
   "Order" : "S3699",
   "Due Date" : "20 Aug 2026",
@@ -670,4 +638,12 @@
   "Garment" : "Coat",
   "Service" : "DC",
   "Sent from store" : "17 Aug 2026 6:37:56 PM"
+}, {
+  "Order" : "S3710",
+  "Due Date" : "19 Aug 2026",
+  "Barcode" : "*S3710-1-4*",
+  "Customer" : "prahari",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "19 Aug 2026 6:54:02 PM"
 } ]
