@@ -9,57 +9,9 @@
 }, {
   "Order" : "C5105",
   "Due Date" : "23 Aug 2026",
-  "Barcode" : "*C5105-1-3*",
-  "Customer" : "Perrine L",
-  "Garment" : "Saree (Silk/Chiffon/Georgette/Pattu/heavy))",
-  "Service" : "DC",
-  "Sent from store" : "20 Aug 2026 2:51:18 PM"
-}, {
-  "Order" : "C5105",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*C5105-2-3*",
-  "Customer" : "Perrine L",
-  "Garment" : "Choli / Blouse (Light)",
-  "Service" : "DC",
-  "Sent from store" : "20 Aug 2026 2:51:18 PM"
-}, {
-  "Order" : "C5105",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*C5105-3-3*",
-  "Customer" : "Perrine L",
-  "Garment" : "Petti Coat",
-  "Service" : "DC",
-  "Sent from store" : "20 Aug 2026 2:51:18 PM"
-}, {
-  "Order" : "C5105",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*C5105-4-3*",
-  "Customer" : "Perrine L",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "20 Aug 2026 2:51:18 PM"
-}, {
-  "Order" : "C5105",
-  "Due Date" : "23 Aug 2026",
   "Barcode" : "*C5105-5-3*",
   "Customer" : "Perrine L",
   "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "20 Aug 2026 2:51:18 PM"
-}, {
-  "Order" : "C5106",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*C5106-1-3*",
-  "Customer" : "virendar kashana",
-  "Garment" : "Kameez /Kurta (light)",
-  "Service" : "DC",
-  "Sent from store" : "20 Aug 2026 2:51:18 PM"
-}, {
-  "Order" : "C5106",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*C5106-2-3*",
-  "Customer" : "virendar kashana",
-  "Garment" : "Pyjama",
   "Service" : "DC",
   "Sent from store" : "20 Aug 2026 2:51:18 PM"
 }, {
@@ -84,14 +36,6 @@
   "Barcode" : "*D3267-1-5*",
   "Customer" : "Mr Bablu",
   "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "20 Aug 2026 10:28:44 AM"
-}, {
-  "Order" : "D3267",
-  "Due Date" : "24 Aug 2026",
-  "Barcode" : "*D3267-2-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Salwar",
   "Service" : "DC",
   "Sent from store" : "20 Aug 2026 10:28:44 AM"
 }, {
@@ -180,22 +124,6 @@
   "Barcode" : "*D3267-13-5*",
   "Customer" : "Mr Bablu",
   "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "20 Aug 2026 10:28:44 AM"
-}, {
-  "Order" : "D3267",
-  "Due Date" : "24 Aug 2026",
-  "Barcode" : "*D3267-14-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Dupatta (Heavy)",
-  "Service" : "DC",
-  "Sent from store" : "20 Aug 2026 10:28:44 AM"
-}, {
-  "Order" : "D3267",
-  "Due Date" : "24 Aug 2026",
-  "Barcode" : "*D3267-15-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Kameez /Kurta (Heavy)",
   "Service" : "DC",
   "Sent from store" : "20 Aug 2026 10:28:44 AM"
 }, {
