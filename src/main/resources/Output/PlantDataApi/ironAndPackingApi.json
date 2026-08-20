@@ -1,44 +1,4 @@
 [ {
-  "Order" : "D3260",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*D3260-3-5*",
-  "Customer" : "Vikram",
-  "Garment" : "Pillow Covers (Silk)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "D3260",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*D3260-4-5*",
-  "Customer" : "Vikram",
-  "Garment" : "Pillow Covers (Silk)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "D3260",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*D3260-7-5*",
-  "Customer" : "Vikram",
-  "Garment" : "Bed Spread Single",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "D3260",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*D3260-8-5*",
-  "Customer" : "Vikram",
-  "Garment" : "Bed Sheet Double",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "D3261",
-  "Due Date" : "17 Aug 2026",
-  "Barcode" : "*D3261-1-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
   "Order" : "G19777",
   "Due Date" : "16 Aug 2026",
   "Barcode" : "*G19777-2-1*",
@@ -46,38 +6,6 @@
   "Garment" : "Shirt",
   "Service" : "DC",
   "Sent from store" : "13 Aug 2026 5:58:30 PM"
-}, {
-  "Order" : "G19790",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*G19790-2-1*",
-  "Customer" : "amit sharma E11",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "G19791",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*G19791-1-1*",
-  "Customer" : "Ms pallavi barua",
-  "Garment" : "Kameez /Kurta (light)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "G19791",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*G19791-2-1*",
-  "Customer" : "Ms pallavi barua",
-  "Garment" : "Dupatta  (Plain)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "G19791",
-  "Due Date" : "20 Aug 2026",
-  "Barcode" : "*G19791-3-1*",
-  "Customer" : "Ms pallavi barua",
-  "Garment" : "Sharara (Plain)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
 }, {
   "Order" : "G19795",
   "Due Date" : "20 Aug 2026",
@@ -158,12 +86,4 @@
   "Garment" : "Pyjama (Heavy)",
   "Service" : "DC",
   "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3708",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3708-4-4*",
-  "Customer" : "Mr ashish",
-  "Garment" : "Sweat Shirt",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 6:37:56 PM"
 } ]
