@@ -1,1 +1,33 @@
-[ { } ]
+[ {
+  "Order" : "S3714",
+  "Due Date" : "23 Aug 2026",
+  "Barcode" : "*S3714-1-4*",
+  "Customer" : "nerash",
+  "Garment" : "Quilt Double",
+  "Service" : "DC",
+  "Sent from store" : "20 Aug 2026 6:07:15 PM"
+}, {
+  "Order" : "S3714",
+  "Due Date" : "23 Aug 2026",
+  "Barcode" : "*S3714-2-4*",
+  "Customer" : "nerash",
+  "Garment" : "Pyjama",
+  "Service" : "DC",
+  "Sent from store" : "20 Aug 2026 6:07:15 PM"
+}, {
+  "Order" : "S3714",
+  "Due Date" : "23 Aug 2026",
+  "Barcode" : "*S3714-3-4*",
+  "Customer" : "nerash",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "20 Aug 2026 6:07:15 PM"
+}, {
+  "Order" : "S3714",
+  "Due Date" : "23 Aug 2026",
+  "Barcode" : "*S3714-4-4*",
+  "Customer" : "nerash",
+  "Garment" : "Anarkali Kurta  Light",
+  "Service" : "DC",
+  "Sent from store" : "20 Aug 2026 6:07:15 PM"
+} ]
