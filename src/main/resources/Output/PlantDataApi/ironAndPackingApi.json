@@ -1,12 +1,4 @@
 [ {
-  "Order" : "C5104",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*C5104-1-3*",
-  "Customer" : "Mr faraz",
-  "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "20 Aug 2026 8:12:05 PM"
-}, {
   "Order" : "C5105",
   "Due Date" : "23 Aug 2026",
   "Barcode" : "*C5105-5-3*",
