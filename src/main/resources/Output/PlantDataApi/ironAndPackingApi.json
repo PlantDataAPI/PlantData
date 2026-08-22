@@ -543,22 +543,6 @@
   "Service" : "WI",
   "Sent from store" : "20 Aug 2026 8:12:05 PM"
 }, {
-  "Order" : "S3701",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3701-10-4*",
-  "Customer" : "Ms sanchita",
-  "Garment" : "Dress (light)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
-  "Order" : "S3703",
-  "Due Date" : "21 Aug 2026",
-  "Barcode" : "*S3703-3-4*",
-  "Customer" : "Ms anju",
-  "Garment" : "Pyjama (Heavy)",
-  "Service" : "DC",
-  "Sent from store" : "17 Aug 2026 12:25:42 PM"
-}, {
   "Order" : "S3712",
   "Due Date" : "22 Aug 2026",
   "Barcode" : "*S3712-1-4*",

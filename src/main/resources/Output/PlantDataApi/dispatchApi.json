@@ -1,1 +1,19 @@
-[ { } ]
+[ {
+  "Order" : "S3701",
+  "Due Date" : "21 Aug 2026",
+  "Barcode" : "*S3701-10-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Dress (light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3703",
+  "Due Date" : "21 Aug 2026",
+  "Barcode" : "*S3703-3-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Pyjama (Heavy)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
