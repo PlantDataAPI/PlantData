@@ -207,118 +207,6 @@
   "Service" : "DC",
   "Sent from store" : "20 Aug 2026 8:12:05 PM"
 }, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-1-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-2-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-3-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-4-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-5-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-6-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-7-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-8-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-9-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-10-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-11-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shorts",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-14-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Table Runner Fancy",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-15-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Table Runner Fancy",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19833",
-  "Due Date" : "23 Aug 2026",
-  "Barcode" : "*G19833-16-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Table Runner Fancy",
-  "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
   "Order" : "G19834",
   "Due Date" : "24 Aug 2026",
   "Barcode" : "*G19834-1-1*",
@@ -333,14 +221,6 @@
   "Customer" : "Mr Shakti",
   "Garment" : "Hat",
   "Service" : "DC",
-  "Sent from store" : "21 Aug 2026 6:28:29 PM"
-}, {
-  "Order" : "G19840",
-  "Due Date" : "24 Aug 2026",
-  "Barcode" : "*G19840-1-1*",
-  "Customer" : "darshan",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
   "Sent from store" : "21 Aug 2026 6:28:29 PM"
 }, {
   "Order" : "G19841",
