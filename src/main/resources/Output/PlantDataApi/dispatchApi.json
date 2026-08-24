@@ -1,1 +1,28 @@
-[ { } ]
+[ {
+  "Order" : "C5109",
+  "Due Date" : "26 Aug 2026",
+  "Barcode" : "*C5109-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5116",
+  "Due Date" : "28 Aug 2026",
+  "Barcode" : "*C5116-3-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Towel",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "C5118",
+  "Due Date" : "26 Aug 2026",
+  "Barcode" : "*C5118-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
