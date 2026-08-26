@@ -1,1 +1,19 @@
-[ { } ]
+[ {
+  "Order" : "G19864",
+  "Due Date" : "27 Aug 2026",
+  "Barcode" : "*G19864-7-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Bed Sheet Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19864",
+  "Due Date" : "27 Aug 2026",
+  "Barcode" : "*G19864-8-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Bed Spread Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
