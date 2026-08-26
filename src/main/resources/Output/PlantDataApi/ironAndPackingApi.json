@@ -15,6 +15,38 @@
   "Service" : "DC",
   "Sent from store" : "24 Aug 2026 5:22:42 PM"
 }, {
+  "Order" : "C5128",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*C5128-1-3*",
+  "Customer" : "Mr AKSHEY SHARMA",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "26 Aug 2026 4:47:10 PM"
+}, {
+  "Order" : "C5128",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*C5128-2-3*",
+  "Customer" : "Mr AKSHEY SHARMA",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "26 Aug 2026 4:47:10 PM"
+}, {
+  "Order" : "C5128",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*C5128-3-3*",
+  "Customer" : "Mr AKSHEY SHARMA",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "26 Aug 2026 4:47:10 PM"
+}, {
+  "Order" : "C5130",
+  "Due Date" : "27 Aug 2026",
+  "Barcode" : "*C5130-1-3*",
+  "Customer" : "tarun nar singh",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Sent from store" : "26 Aug 2026 4:47:10 PM"
+}, {
   "Order" : "D3277",
   "Due Date" : "28 Aug 2026",
   "Barcode" : "*D3277-1-5*",
