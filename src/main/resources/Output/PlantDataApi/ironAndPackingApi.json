@@ -15,22 +15,6 @@
   "Service" : "DC",
   "Sent from store" : "24 Aug 2026 5:22:42 PM"
 }, {
-  "Order" : "C5125",
-  "Due Date" : "27 Aug 2026",
-  "Barcode" : "*C5125-1-3*",
-  "Customer" : "Mr S BANERJEE",
-  "Garment" : "Bed Sheet Single",
-  "Service" : "DC",
-  "Sent from store" : "24 Aug 2026 5:22:42 PM"
-}, {
-  "Order" : "C5125",
-  "Due Date" : "27 Aug 2026",
-  "Barcode" : "*C5125-2-3*",
-  "Customer" : "Mr S BANERJEE",
-  "Garment" : "Bed Sheet Single",
-  "Service" : "DC",
-  "Sent from store" : "24 Aug 2026 5:22:42 PM"
-}, {
   "Order" : "D3277",
   "Due Date" : "28 Aug 2026",
   "Barcode" : "*D3277-1-5*",
