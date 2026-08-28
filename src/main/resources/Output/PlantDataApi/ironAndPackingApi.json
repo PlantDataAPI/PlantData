@@ -23,6 +23,38 @@
   "Service" : "DC",
   "Sent from store" : "26 Aug 2026 4:47:10 PM"
 }, {
+  "Order" : "C5131",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*C5131-1-3*",
+  "Customer" : "Mrs chaya bedi",
+  "Garment" : "Overcoat",
+  "Service" : "DC",
+  "Sent from store" : "26 Aug 2026 4:47:10 PM"
+}, {
+  "Order" : "C5131",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*C5131-2-3*",
+  "Customer" : "Mrs chaya bedi",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "26 Aug 2026 4:47:10 PM"
+}, {
+  "Order" : "C5131",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*C5131-3-3*",
+  "Customer" : "Mrs chaya bedi",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "26 Aug 2026 4:47:10 PM"
+}, {
+  "Order" : "C5133",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*C5133-1-3*",
+  "Customer" : "Vivek",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Sent from store" : "26 Aug 2026 4:47:10 PM"
+}, {
   "Order" : "D3277",
   "Due Date" : "28 Aug 2026",
   "Barcode" : "*D3277-1-5*",
@@ -31,6 +63,38 @@
   "Service" : "WI",
   "Sent from store" : "24 Aug 2026 5:22:42 PM"
 }, {
+  "Order" : "G19876",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*G19876-5-1*",
+  "Customer" : "Nishant",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "26 Aug 2026 4:47:10 PM"
+}, {
+  "Order" : "G19878",
+  "Due Date" : "30 Aug 2026",
+  "Barcode" : "*G19878-3-1*",
+  "Customer" : "Mr Mahender Mishra",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "27 Aug 2026 4:22:22 PM"
+}, {
+  "Order" : "G19879",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*G19879-1-1*",
+  "Customer" : "Alok",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "27 Aug 2026 5:12:55 PM"
+}, {
+  "Order" : "G19879",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*G19879-2-1*",
+  "Customer" : "Alok",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "27 Aug 2026 5:12:55 PM"
+}, {
   "Order" : "S3732",
   "Due Date" : "28 Aug 2026",
   "Barcode" : "*S3732-1-4*",
@@ -38,4 +102,12 @@
   "Garment" : "Garment 1",
   "Service" : "WF",
   "Sent from store" : "24 Aug 2026 5:22:42 PM"
+}, {
+  "Order" : "S3735",
+  "Due Date" : "29 Aug 2026",
+  "Barcode" : "*S3735-8-4*",
+  "Customer" : "Mr philips",
+  "Garment" : "Jacket",
+  "Service" : "DC",
+  "Sent from store" : "27 Aug 2026 5:12:55 PM"
 } ]

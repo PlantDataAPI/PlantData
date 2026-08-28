@@ -1,1 +1,9 @@
-[ { } ]
+[ {
+  "Order" : "S3738",
+  "Due Date" : "30 Aug 2026",
+  "Barcode" : "*S3738-1-4*",
+  "Customer" : "richa dhanuja",
+  "Garment" : "Anarkali Kurta  Light",
+  "Service" : "DC",
+  "Sent from store" : "28 Aug 2026 1:26:57 PM"
+} ]
