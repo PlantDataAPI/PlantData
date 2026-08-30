@@ -1,1 +1,57 @@
-[ { } ]
+[ {
+  "Order" : "C5143",
+  "Due Date" : "02 Sep 2026",
+  "Barcode" : "*C5143-1-3*",
+  "Customer" : "kanishk",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Sent from store" : "30 Aug 2026 2:19:48 PM"
+}, {
+  "Order" : "G19881",
+  "Due Date" : "30 Aug 2026",
+  "Barcode" : "*G19881-11-1*",
+  "Customer" : "Mr manik",
+  "Garment" : "Scarf",
+  "Service" : "DC",
+  "Sent from store" : "30 Aug 2026 11:38:03 AM"
+}, {
+  "Order" : "G19883",
+  "Due Date" : "31 Aug 2026",
+  "Barcode" : "*G19883-2-1*",
+  "Customer" : "Mrinal",
+  "Garment" : "Pyjama",
+  "Service" : "DC",
+  "Sent from store" : "30 Aug 2026 11:38:03 AM"
+}, {
+  "Order" : "G19883",
+  "Due Date" : "31 Aug 2026",
+  "Barcode" : "*G19883-4-1*",
+  "Customer" : "Mrinal",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Sent from store" : "30 Aug 2026 11:38:03 AM"
+}, {
+  "Order" : "G19883",
+  "Due Date" : "31 Aug 2026",
+  "Barcode" : "*G19883-5-1*",
+  "Customer" : "Mrinal",
+  "Garment" : "Choli / Blouse (Light)",
+  "Service" : "DC",
+  "Sent from store" : "30 Aug 2026 11:38:03 AM"
+}, {
+  "Order" : "G19883",
+  "Due Date" : "31 Aug 2026",
+  "Barcode" : "*G19883-7-1*",
+  "Customer" : "Mrinal",
+  "Garment" : "Kameez /Kurta (light)",
+  "Service" : "DC",
+  "Sent from store" : "30 Aug 2026 11:38:03 AM"
+}, {
+  "Order" : "G19883",
+  "Due Date" : "31 Aug 2026",
+  "Barcode" : "*G19883-13-1*",
+  "Customer" : "Mrinal",
+  "Garment" : "Kameez /Kurta (Heavy)",
+  "Service" : "DC",
+  "Sent from store" : "30 Aug 2026 11:38:03 AM"
+} ]
