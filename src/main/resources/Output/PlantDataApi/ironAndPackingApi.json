@@ -1,20 +1,4 @@
 [ {
-  "Order" : "D3289",
-  "Due Date" : "03 Sep 2026",
-  "Barcode" : "*D3289-1-5*",
-  "Customer" : "Ms Sumeru INC",
-  "Garment" : "Salwar",
-  "Service" : "DC",
-  "Sent from store" : "04 Sep 2026 5:58:32 PM"
-}, {
-  "Order" : "D3289",
-  "Due Date" : "03 Sep 2026",
-  "Barcode" : "*D3289-2-5*",
-  "Customer" : "Ms Sumeru INC",
-  "Garment" : "Kameez /Kurta (light)",
-  "Service" : "DC",
-  "Sent from store" : "04 Sep 2026 5:58:32 PM"
-}, {
   "Order" : "G19916",
   "Due Date" : "05 Sep 2026",
   "Barcode" : "*G19916-1-1*",
