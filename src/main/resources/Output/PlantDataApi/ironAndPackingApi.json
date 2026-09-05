@@ -103,14 +103,6 @@
   "Service" : "PRDC",
   "Sent from store" : "04 Sep 2026 5:58:32 PM"
 }, {
-  "Order" : "G19921",
-  "Due Date" : "05 Sep 2026",
-  "Barcode" : "*G19921-14-1*",
-  "Customer" : "Abhik Prabhu",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "02 Sep 2026 6:54:11 PM"
-}, {
   "Order" : "S3754",
   "Due Date" : "06 Sep 2026",
   "Barcode" : "*S3754-1-4*",
