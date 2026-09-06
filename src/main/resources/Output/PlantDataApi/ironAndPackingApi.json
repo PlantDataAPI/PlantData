@@ -1,17 +1,1 @@
-[ {
-  "Order" : "G19932",
-  "Due Date" : "07 Sep 2026",
-  "Barcode" : "*G19932-10-1*",
-  "Customer" : "arjun",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "04 Sep 2026 5:58:32 PM"
-}, {
-  "Order" : "G19936",
-  "Due Date" : "07 Sep 2026",
-  "Barcode" : "*G19936-3-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "05 Sep 2026 3:19:43 PM"
-} ]
+[ { } ]
