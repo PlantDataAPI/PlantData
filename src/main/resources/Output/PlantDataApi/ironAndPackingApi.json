@@ -23,14 +23,6 @@
   "Service" : "DC",
   "Sent from store" : "06 Sep 2026 3:37:00 PM"
 }, {
-  "Order" : "G19941",
-  "Due Date" : "09 Sep 2026",
-  "Barcode" : "*G19941-1-1*",
-  "Customer" : "Mr Bismaya pradhan",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "05 Sep 2026 7:03:43 PM"
-}, {
   "Order" : "G19942",
   "Due Date" : "10 Sep 2026",
   "Barcode" : "*G19942-1-1*",
@@ -124,14 +116,6 @@
   "Barcode" : "*S3758-1-4*",
   "Customer" : "k v rao",
   "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "06 Sep 2026 3:37:00 PM"
-}, {
-  "Order" : "S3758",
-  "Due Date" : "09 Sep 2026",
-  "Barcode" : "*S3758-2-4*",
-  "Customer" : "k v rao",
-  "Garment" : "Coat",
   "Service" : "DC",
   "Sent from store" : "06 Sep 2026 3:37:00 PM"
 } ]
