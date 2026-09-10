@@ -1,1 +1,28 @@
-[ { } ]
+[ {
+  "Order" : "D3305",
+  "Due Date" : "11 Sep 2026",
+  "Barcode" : "*D3305-1-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19951",
+  "Due Date" : "11 Sep 2026",
+  "Barcode" : "*G19951-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19953",
+  "Due Date" : "11 Sep 2026",
+  "Barcode" : "*G19953-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Garment 1",
+  "Service" : "LA",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
