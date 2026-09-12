@@ -1,11 +1,4 @@
 [ {
-  "Order" : "C5172",
-  "Due Date" : "11 Sep 2026",
-  "Barcode" : "*C5172-1-3*",
-  "Customer" : "Debika Pattanayak",
-  "Garment" : "Garment 1",
-  "Service" : "WF"
-}, {
   "Order" : "D3307",
   "Due Date" : "12 Sep 2026",
   "Barcode" : "*D3307-2-5*",
@@ -166,13 +159,6 @@
   "Customer" : "Mr Vikram Reddy",
   "Garment" : "T Shirt",
   "Service" : "DC"
-}, {
-  "Order" : "G19975",
-  "Due Date" : "13 Sep 2026",
-  "Barcode" : "*G19975-1-1*",
-  "Customer" : "Mr abhyudaye",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
 }, {
   "Order" : "G19978",
   "Due Date" : "14 Sep 2026",
