@@ -34,20 +34,6 @@
   "Garment" : "Pants",
   "Service" : "DC"
 }, {
-  "Order" : "C5178",
-  "Due Date" : "13 Sep 2026",
-  "Barcode" : "*C5178-1-3*",
-  "Customer" : "Mrs pooja sil",
-  "Garment" : "Garment 1",
-  "Service" : "WF"
-}, {
-  "Order" : "C5179",
-  "Due Date" : "14 Sep 2026",
-  "Barcode" : "*C5179-1-3*",
-  "Customer" : "Mr S BANERJEE",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
   "Order" : "D3312",
   "Due Date" : "13 Sep 2026",
   "Barcode" : "*D3312-3-5*",
@@ -110,20 +96,6 @@
   "Customer" : "Sethi",
   "Garment" : "Waist Coat",
   "Service" : "DC"
-}, {
-  "Order" : "D3317",
-  "Due Date" : "14 Sep 2026",
-  "Barcode" : "*D3317-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
-  "Order" : "D3318",
-  "Due Date" : "14 Sep 2026",
-  "Barcode" : "*D3318-1-5*",
-  "Customer" : "Mr Pragyan",
-  "Garment" : "Garment 1",
-  "Service" : "WF"
 }, {
   "Order" : "G19978",
   "Due Date" : "14 Sep 2026",
@@ -292,13 +264,6 @@
   "Customer" : "Abhik Prabhu",
   "Garment" : "Shirt",
   "Service" : "DC"
-}, {
-  "Order" : "G19984",
-  "Due Date" : "14 Sep 2026",
-  "Barcode" : "*G19984-1-1*",
-  "Customer" : "Mr Hassan",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
 }, {
   "Order" : "G19985",
   "Due Date" : "14 Sep 2026",
