@@ -1,1 +1,37 @@
-[ { } ]
+[ {
+  "Order" : "G19985",
+  "Due Date" : "14 Sep 2026",
+  "Barcode" : "*G19985-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G19985",
+  "Due Date" : "14 Sep 2026",
+  "Barcode" : "*G19985-4-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pyjama (Light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3780",
+  "Due Date" : "14 Sep 2026",
+  "Barcode" : "*S3780-4-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3780",
+  "Due Date" : "14 Sep 2026",
+  "Barcode" : "*S3780-5-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
