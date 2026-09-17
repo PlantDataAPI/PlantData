@@ -1,32 +1,4 @@
 [ {
-  "Order" : "C5183",
-  "Due Date" : "18 Sep 2026",
-  "Barcode" : "*C5183-1-3*",
-  "Customer" : "anita ghosal",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "C5183",
-  "Due Date" : "18 Sep 2026",
-  "Barcode" : "*C5183-2-3*",
-  "Customer" : "anita ghosal",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "C5185",
-  "Due Date" : "17 Sep 2026",
-  "Barcode" : "*C5185-1-3*",
-  "Customer" : "S benarjee",
-  "Garment" : "T Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "C5185",
-  "Due Date" : "17 Sep 2026",
-  "Barcode" : "*C5185-2-3*",
-  "Customer" : "S benarjee",
-  "Garment" : "T Shirt",
-  "Service" : "DC"
-}, {
   "Order" : "C5188",
   "Due Date" : "20 Sep 2026",
   "Barcode" : "*C5188-1-3*",
@@ -60,41 +32,6 @@
   "Barcode" : "*C5191-3-3*",
   "Customer" : "saumya bhargava",
   "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "C5194",
-  "Due Date" : "18 Sep 2026",
-  "Barcode" : "*C5194-1-3*",
-  "Customer" : "Mr ruby roy",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
-  "Order" : "D3321",
-  "Due Date" : "16 Sep 2026",
-  "Barcode" : "*D3321-3-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "D3322",
-  "Due Date" : "17 Sep 2026",
-  "Barcode" : "*D3322-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
-  "Order" : "G20000",
-  "Due Date" : "17 Sep 2026",
-  "Barcode" : "*G20000-2-1*",
-  "Customer" : "natasha",
-  "Garment" : "Pyjama",
-  "Service" : "DC"
-}, {
-  "Order" : "G20000",
-  "Due Date" : "17 Sep 2026",
-  "Barcode" : "*G20000-8-1*",
-  "Customer" : "natasha",
-  "Garment" : "Pyjama (Light)",
   "Service" : "DC"
 }, {
   "Order" : "G20007",
@@ -318,20 +255,6 @@
   "Due Date" : "18 Sep 2026",
   "Barcode" : "*G20014-2-1*",
   "Customer" : "Mr umesh",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "S3787",
-  "Due Date" : "17 Sep 2026",
-  "Barcode" : "*S3787-1-4*",
-  "Customer" : "Dharmesh singh meena",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "S3787",
-  "Due Date" : "17 Sep 2026",
-  "Barcode" : "*S3787-2-4*",
-  "Customer" : "Dharmesh singh meena",
   "Garment" : "Pants",
   "Service" : "DC"
 }, {
