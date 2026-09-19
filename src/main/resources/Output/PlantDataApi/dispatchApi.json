@@ -34,13 +34,4 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
-}, {
-  "Order" : "G20018",
-  "Due Date" : "19 Sep 2026",
-  "Barcode" : "*G20018-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Receive in workshop" : "",
-  "Customer" : ""
 } ]
