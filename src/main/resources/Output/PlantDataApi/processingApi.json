@@ -1,1 +1,41 @@
-[ { } ]
+[ {
+  "Order" : "D3337",
+  "Due Date" : "24 Sep 2026",
+  "Barcode" : "*D3337-1-5*",
+  "Customer" : "anuj bajaj",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "20 Sep 2026 1:15:18 PM"
+}, {
+  "Order" : "D3337",
+  "Due Date" : "24 Sep 2026",
+  "Barcode" : "*D3337-2-5*",
+  "Customer" : "anuj bajaj",
+  "Garment" : "Shirt",
+  "Service" : "DC",
+  "Sent from store" : "20 Sep 2026 1:15:18 PM"
+}, {
+  "Order" : "D3337",
+  "Due Date" : "24 Sep 2026",
+  "Barcode" : "*D3337-3-5*",
+  "Customer" : "anuj bajaj",
+  "Garment" : "Blazer",
+  "Service" : "DC",
+  "Sent from store" : "20 Sep 2026 1:15:18 PM"
+}, {
+  "Order" : "D3337",
+  "Due Date" : "24 Sep 2026",
+  "Barcode" : "*D3337-4-5*",
+  "Customer" : "anuj bajaj",
+  "Garment" : "Blazer",
+  "Service" : "DC",
+  "Sent from store" : "20 Sep 2026 1:15:18 PM"
+}, {
+  "Order" : "D3338",
+  "Due Date" : "23 Sep 2026",
+  "Barcode" : "*D3338-1-5*",
+  "Customer" : "Mr Pragyan",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Sent from store" : "20 Sep 2026 1:15:18 PM"
+} ]
