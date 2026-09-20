@@ -1,11 +1,4 @@
 [ {
-  "Order" : "D3335",
-  "Due Date" : "21 Sep 2026",
-  "Barcode" : "*D3335-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
   "Order" : "D3336",
   "Due Date" : "21 Sep 2026",
   "Barcode" : "*D3336-1-5*",
@@ -26,13 +19,6 @@
   "Customer" : "Mr Chals",
   "Garment" : "Pants",
   "Service" : "DC"
-}, {
-  "Order" : "G20043",
-  "Due Date" : "21 Sep 2026",
-  "Barcode" : "*G20043-1-1*",
-  "Customer" : "kavita khana",
-  "Garment" : "Garment 1",
-  "Service" : "LA"
 }, {
   "Order" : "G20046",
   "Due Date" : "21 Sep 2026",
