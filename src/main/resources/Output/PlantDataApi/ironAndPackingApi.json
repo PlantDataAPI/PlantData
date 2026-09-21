@@ -1,25 +1,4 @@
 [ {
-  "Order" : "D3336",
-  "Due Date" : "21 Sep 2026",
-  "Barcode" : "*D3336-1-5*",
-  "Customer" : "Mr Chals",
-  "Garment" : "Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "D3336",
-  "Due Date" : "21 Sep 2026",
-  "Barcode" : "*D3336-2-5*",
-  "Customer" : "Mr Chals",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "D3336",
-  "Due Date" : "21 Sep 2026",
-  "Barcode" : "*D3336-3-5*",
-  "Customer" : "Mr Chals",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
   "Order" : "D3337",
   "Due Date" : "24 Sep 2026",
   "Barcode" : "*D3337-1-5*",
@@ -55,38 +34,10 @@
   "Garment" : "Garment 1",
   "Service" : "LA"
 }, {
-  "Order" : "G20050",
-  "Due Date" : "21 Sep 2026",
-  "Barcode" : "*G20050-1-1*",
-  "Customer" : "Ms shalu",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20051",
-  "Due Date" : "21 Sep 2026",
-  "Barcode" : "*G20051-1-1*",
-  "Customer" : "Mrs semmi",
-  "Garment" : "T Shirt",
-  "Service" : "DC"
-}, {
   "Order" : "G20051",
   "Due Date" : "21 Sep 2026",
   "Barcode" : "*G20051-2-1*",
   "Customer" : "Mrs semmi",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20053",
-  "Due Date" : "21 Sep 2026",
-  "Barcode" : "*G20053-4-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20053",
-  "Due Date" : "21 Sep 2026",
-  "Barcode" : "*G20053-5-1*",
-  "Customer" : "amit sharma",
   "Garment" : "Shirt",
   "Service" : "DC"
 }, {
@@ -209,13 +160,6 @@
   "Garment" : "Shirt",
   "Service" : "DC"
 }, {
-  "Order" : "G20059",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*G20059-1-1*",
-  "Customer" : "vikas krishna nagar",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
   "Order" : "G20061",
   "Due Date" : "23 Sep 2026",
   "Barcode" : "*G20061-1-1*",
@@ -233,13 +177,6 @@
   "Order" : "G20061",
   "Due Date" : "23 Sep 2026",
   "Barcode" : "*G20061-3-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20061",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*G20061-4-1*",
   "Customer" : "vijeth kanahalli",
   "Garment" : "Shirt",
   "Service" : "DC"
@@ -291,13 +228,6 @@
   "Barcode" : "*G20062-8-1*",
   "Customer" : "Ms Rinki dahiya",
   "Garment" : "Waist Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "G20062",
-  "Due Date" : "24 Sep 2026",
-  "Barcode" : "*G20062-12-1*",
-  "Customer" : "Ms Rinki dahiya",
-  "Garment" : "Pyjama",
   "Service" : "DC"
 }, {
   "Order" : "G20062",
@@ -354,13 +284,6 @@
   "Barcode" : "*S3802-2-4*",
   "Customer" : "vikram singh",
   "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "S3802",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*S3802-3-4*",
-  "Customer" : "vikram singh",
-  "Garment" : "Shirt",
   "Service" : "DC"
 }, {
   "Order" : "S3803",
