@@ -1,19 +1,10 @@
 [ {
-  "Order" : "C5210",
-  "Due Date" : "24 Sep 2026",
-  "Barcode" : "*C5210-1-3*",
-  "Store Name" : "CR Park",
+  "Order" : "D3344",
+  "Due Date" : "25 Sep 2026",
+  "Barcode" : "*D3344-1-5*",
+  "Store Name" : "Defence Colony",
   "Garment" : "Garment 1",
-  "Service" : "LA",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "C5212",
-  "Due Date" : "24 Sep 2026",
-  "Barcode" : "*C5212-1-3*",
-  "Store Name" : "CR Park",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
+  "Service" : "WI",
   "Receive in workshop" : "",
   "Customer" : ""
 } ]
