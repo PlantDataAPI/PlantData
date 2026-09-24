@@ -8,38 +8,10 @@
 }, {
   "Order" : "C5208",
   "Due Date" : "25 Sep 2026",
-  "Barcode" : "*C5208-2-3*",
-  "Customer" : "S benarjee",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "C5208",
-  "Due Date" : "25 Sep 2026",
-  "Barcode" : "*C5208-3-3*",
-  "Customer" : "S benarjee",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "C5208",
-  "Due Date" : "25 Sep 2026",
   "Barcode" : "*C5208-5-3*",
   "Customer" : "S benarjee",
   "Garment" : "T Shirt",
   "Service" : "DC"
-}, {
-  "Order" : "C5210",
-  "Due Date" : "24 Sep 2026",
-  "Barcode" : "*C5210-1-3*",
-  "Customer" : "Ms pooja sil",
-  "Garment" : "Garment 1",
-  "Service" : "LA"
-}, {
-  "Order" : "C5212",
-  "Due Date" : "24 Sep 2026",
-  "Barcode" : "*C5212-1-3*",
-  "Customer" : "Mr sinnu",
-  "Garment" : "Garment 1",
-  "Service" : "LA"
 }, {
   "Order" : "C5213",
   "Due Date" : "25 Sep 2026",
@@ -286,27 +258,6 @@
   "Garment" : "Garment 1",
   "Service" : "WI"
 }, {
-  "Order" : "G20067",
-  "Due Date" : "24 Sep 2026",
-  "Barcode" : "*G20067-1-1*",
-  "Customer" : "naman gupta",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20067",
-  "Due Date" : "24 Sep 2026",
-  "Barcode" : "*G20067-4-1*",
-  "Customer" : "naman gupta",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20070",
-  "Due Date" : "24 Sep 2026",
-  "Barcode" : "*G20070-6-1*",
-  "Customer" : "hegde",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
   "Order" : "G20070",
   "Due Date" : "24 Sep 2026",
   "Barcode" : "*G20070-8-1*",
@@ -488,62 +439,6 @@
   "Customer" : "Ms Rinki dahiya",
   "Garment" : "Pants",
   "Service" : "DC"
-}, {
-  "Order" : "S3803",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*S3803-1-4*",
-  "Customer" : "vikram singh",
-  "Garment" : "Blazer",
-  "Service" : "SPO"
-}, {
-  "Order" : "S3803",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*S3803-2-4*",
-  "Customer" : "vikram singh",
-  "Garment" : "Shirt",
-  "Service" : "SPO"
-}, {
-  "Order" : "S3803",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*S3803-3-4*",
-  "Customer" : "vikram singh",
-  "Garment" : "Shirt",
-  "Service" : "SPO"
-}, {
-  "Order" : "S3803",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*S3803-4-4*",
-  "Customer" : "vikram singh",
-  "Garment" : "Shirt",
-  "Service" : "SPO"
-}, {
-  "Order" : "S3803",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*S3803-5-4*",
-  "Customer" : "vikram singh",
-  "Garment" : "Shirt",
-  "Service" : "SPO"
-}, {
-  "Order" : "S3803",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*S3803-6-4*",
-  "Customer" : "vikram singh",
-  "Garment" : "Pants",
-  "Service" : "SPO"
-}, {
-  "Order" : "S3803",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*S3803-7-4*",
-  "Customer" : "vikram singh",
-  "Garment" : "Pants",
-  "Service" : "SPO"
-}, {
-  "Order" : "S3803",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*S3803-8-4*",
-  "Customer" : "vikram singh",
-  "Garment" : "Pants",
-  "Service" : "SPO"
 }, {
   "Order" : "S3805",
   "Due Date" : "24 Sep 2026",
