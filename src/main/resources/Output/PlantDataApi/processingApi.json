@@ -1,38 +1,6 @@
 [ {
   "Order" : "C5224",
   "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-1-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Cushion (Small)",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
-}, {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-2-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Cushion (Small)",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
-}, {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-3-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Pillow (Medium)",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
-}, {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-4-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Pillow (Medium)",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
-}, {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
   "Barcode" : "*C5224-5-3*",
   "Customer" : "ananya ghosh",
   "Garment" : "Dohar (Double)",
@@ -44,30 +12,6 @@
   "Barcode" : "*C5224-6-3*",
   "Customer" : "ananya ghosh",
   "Garment" : "Bed Sheet Double",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
-}, {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-7-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Dress (light)",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
-}, {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-8-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Dress (light)",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
-}, {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-9-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Top (Light)",
   "Service" : "DC",
   "Sent from store" : "25 Sep 2026 2:29:21 PM"
 }, {
