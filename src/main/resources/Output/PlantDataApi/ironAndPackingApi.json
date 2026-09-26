@@ -1,226 +1,51 @@
 [ {
-  "Order" : "G20083",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20083-6-1*",
-  "Customer" : "Arjun",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20083",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20083-7-1*",
-  "Customer" : "Arjun",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20083",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20083-8-1*",
-  "Customer" : "Arjun",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-1-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-2-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-3-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-4-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-5-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-6-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-7-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-8-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-9-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20086",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20086-10-1*",
-  "Customer" : "Aashna jain",
-  "Garment" : "Waist Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "G20089",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20089-1-1*",
-  "Customer" : "Rajesh",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20089",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20089-2-1*",
-  "Customer" : "Rajesh",
-  "Garment" : "T Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20090",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20090-1-1*",
-  "Customer" : "Mrs isabel",
-  "Garment" : "Kurta Light",
-  "Service" : "DC"
-}, {
-  "Order" : "G20091",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20091-1-1*",
-  "Customer" : "Mr Shakti",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20091",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20091-2-1*",
-  "Customer" : "Mr Shakti",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20091",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20091-3-1*",
-  "Customer" : "Mr Shakti",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "S3805",
-  "Due Date" : "24 Sep 2026",
-  "Barcode" : "*S3805-2-4*",
-  "Customer" : "chodhry",
-  "Garment" : "T Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "S3808",
-  "Due Date" : "25 Sep 2026",
-  "Barcode" : "*S3808-3-4*",
-  "Customer" : "roohani singh",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "S3808",
-  "Due Date" : "25 Sep 2026",
-  "Barcode" : "*S3808-4-4*",
-  "Customer" : "roohani singh",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "S3812",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*S3812-3-4*",
-  "Customer" : "divya",
-  "Garment" : "Jacket",
-  "Service" : "DC"
-}, {
-  "Order" : "S3812",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*S3812-4-4*",
-  "Customer" : "divya",
-  "Garment" : "Jacket",
-  "Service" : "DC"
-}, {
-  "Order" : "S3812",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*S3812-5-4*",
-  "Customer" : "divya",
-  "Garment" : "Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "S3813",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*S3813-2-4*",
-  "Customer" : "santosh",
-  "Garment" : "T Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "S3813",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*S3813-4-4*",
-  "Customer" : "santosh",
-  "Garment" : "T Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "S3813",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*S3813-5-4*",
-  "Customer" : "santosh",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "S3813",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*S3813-6-4*",
-  "Customer" : "santosh",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "S3813",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*S3813-8-4*",
-  "Customer" : "santosh",
-  "Garment" : "Pyjama",
-  "Service" : "DC"
-}, {
-  "Order" : "S3813",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*S3813-12-4*",
-  "Customer" : "santosh",
-  "Garment" : "Top (Light)",
-  "Service" : "DC"
-}, {
   "Order" : "C5219",
   "Due Date" : "28 Sep 2026",
   "Barcode" : "*C5219-2-3*",
   "Customer" : "Mr satyjit",
   "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "C5221",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*C5221-1-3*",
+  "Customer" : "Mr AKSHEY SHARMA",
+  "Garment" : "Coat",
+  "Service" : "DC"
+}, {
+  "Order" : "C5221",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*C5221-2-3*",
+  "Customer" : "Mr AKSHEY SHARMA",
+  "Garment" : "Coat",
+  "Service" : "DC"
+}, {
+  "Order" : "C5221",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*C5221-3-3*",
+  "Customer" : "Mr AKSHEY SHARMA",
+  "Garment" : "Pants",
+  "Service" : "DC"
+}, {
+  "Order" : "C5224",
+  "Due Date" : "30 Sep 2026",
+  "Barcode" : "*C5224-5-3*",
+  "Customer" : "ananya ghosh",
+  "Garment" : "Dohar (Double)",
+  "Service" : "DC"
+}, {
+  "Order" : "C5224",
+  "Due Date" : "30 Sep 2026",
+  "Barcode" : "*C5224-6-3*",
+  "Customer" : "ananya ghosh",
+  "Garment" : "Bed Sheet Double",
+  "Service" : "DC"
+}, {
+  "Order" : "C5224",
+  "Due Date" : "30 Sep 2026",
+  "Barcode" : "*C5224-10-3*",
+  "Customer" : "ananya ghosh",
+  "Garment" : "Hand Towel",
   "Service" : "DC"
 }, {
   "Order" : "D3345",
@@ -240,13 +65,6 @@
   "Order" : "D3345",
   "Due Date" : "27 Sep 2026",
   "Barcode" : "*D3345-3-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "T Shirt",
-  "Service" : "PRDC"
-}, {
-  "Order" : "D3345",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*D3345-4-5*",
   "Customer" : "Mr Manuj Gupta",
   "Garment" : "T Shirt",
   "Service" : "PRDC"
@@ -281,23 +99,9 @@
 }, {
   "Order" : "D3345",
   "Due Date" : "27 Sep 2026",
-  "Barcode" : "*D3345-10-5*",
+  "Barcode" : "*D3345-9-5*",
   "Customer" : "Mr Manuj Gupta",
   "Garment" : "Jeans",
-  "Service" : "DC"
-}, {
-  "Order" : "D3345",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*D3345-11-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Jeans",
-  "Service" : "DC"
-}, {
-  "Order" : "D3345",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*D3345-12-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Pants",
   "Service" : "DC"
 }, {
   "Order" : "D3345",
@@ -306,20 +110,6 @@
   "Customer" : "Mr Manuj Gupta",
   "Garment" : "Undershirt",
   "Service" : "DC"
-}, {
-  "Order" : "D3346",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*D3346-1-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "T Shirt",
-  "Service" : "PRDC"
-}, {
-  "Order" : "D3346",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*D3346-2-5*",
-  "Customer" : "Mr Bablu",
-  "Garment" : "T Shirt",
-  "Service" : "PRDC"
 }, {
   "Order" : "D3346",
   "Due Date" : "27 Sep 2026",
@@ -405,54 +195,54 @@
   "Garment" : "Shirt",
   "Service" : "PRDC"
 }, {
+  "Order" : "D3348",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*D3348-1-5*",
+  "Customer" : "jyoti kumari",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "D3348",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*D3348-2-5*",
+  "Customer" : "jyoti kumari",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "D3348",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*D3348-3-5*",
+  "Customer" : "jyoti kumari",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "D3348",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*D3348-4-5*",
+  "Customer" : "jyoti kumari",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "D3348",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*D3348-5-5*",
+  "Customer" : "jyoti kumari",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "D3348",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*D3348-6-5*",
+  "Customer" : "jyoti kumari",
+  "Garment" : "Coat",
+  "Service" : "DC"
+}, {
   "Order" : "G20048",
   "Due Date" : "21 Sep 2026",
   "Barcode" : "*G20048-1-1*",
   "Customer" : "Mr Shakti",
   "Garment" : "Garment 1",
   "Service" : "LA"
-}, {
-  "Order" : "G20078",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20078-5-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20078",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20078-6-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20078",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20078-7-1*",
-  "Customer" : "amit sharma",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20081",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20081-3-1*",
-  "Customer" : "Ms Rinki dahiya",
-  "Garment" : "Jacket",
-  "Service" : "DC"
-}, {
-  "Order" : "G20081",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20081-4-1*",
-  "Customer" : "Ms Rinki dahiya",
-  "Garment" : "Jeans",
-  "Service" : "DC"
-}, {
-  "Order" : "G20081",
-  "Due Date" : "26 Sep 2026",
-  "Barcode" : "*G20081-6-1*",
-  "Customer" : "Ms Rinki dahiya",
-  "Garment" : "Pants",
-  "Service" : "DC"
 }, {
   "Order" : "G20082",
   "Due Date" : "27 Sep 2026",
@@ -582,13 +372,6 @@
 }, {
   "Order" : "G20082",
   "Due Date" : "27 Sep 2026",
-  "Barcode" : "*G20082-20-1*",
-  "Customer" : "diana",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20082",
-  "Due Date" : "27 Sep 2026",
   "Barcode" : "*G20082-21-1*",
   "Customer" : "diana",
   "Garment" : "Shirt",
@@ -633,6 +416,125 @@
   "Due Date" : "27 Sep 2026",
   "Barcode" : "*G20083-5-1*",
   "Customer" : "Arjun",
+  "Garment" : "T Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "G20083",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20083-6-1*",
+  "Customer" : "Arjun",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "G20083",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20083-7-1*",
+  "Customer" : "Arjun",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "G20083",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20083-8-1*",
+  "Customer" : "Arjun",
+  "Garment" : "Pants",
+  "Service" : "DC"
+}, {
+  "Order" : "G20086",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20086-1-1*",
+  "Customer" : "Aashna jain",
+  "Garment" : "Coat",
+  "Service" : "DC"
+}, {
+  "Order" : "G20086",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20086-2-1*",
+  "Customer" : "Aashna jain",
+  "Garment" : "Coat",
+  "Service" : "DC"
+}, {
+  "Order" : "G20086",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20086-3-1*",
+  "Customer" : "Aashna jain",
+  "Garment" : "Coat",
+  "Service" : "DC"
+}, {
+  "Order" : "G20086",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20086-4-1*",
+  "Customer" : "Aashna jain",
+  "Garment" : "Coat",
+  "Service" : "DC"
+}, {
+  "Order" : "G20086",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20086-5-1*",
+  "Customer" : "Aashna jain",
+  "Garment" : "Coat",
+  "Service" : "DC"
+}, {
+  "Order" : "G20086",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20086-6-1*",
+  "Customer" : "Aashna jain",
+  "Garment" : "Coat",
+  "Service" : "DC"
+}, {
+  "Order" : "G20086",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20086-10-1*",
+  "Customer" : "Aashna jain",
+  "Garment" : "Waist Coat",
+  "Service" : "DC"
+}, {
+  "Order" : "G20090",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20090-1-1*",
+  "Customer" : "Mrs isabel",
+  "Garment" : "Kurta Light",
+  "Service" : "DC"
+}, {
+  "Order" : "G20092",
+  "Due Date" : "27 Sep 2026",
+  "Barcode" : "*G20092-1-1*",
+  "Customer" : "Mr abhyudaye",
+  "Garment" : "Garment 1",
+  "Service" : "WI"
+}, {
+  "Order" : "G20093",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*G20093-1-1*",
+  "Customer" : "Punit jain",
+  "Garment" : "Pants",
+  "Service" : "DC"
+}, {
+  "Order" : "G20093",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*G20093-2-1*",
+  "Customer" : "Punit jain",
+  "Garment" : "Pants",
+  "Service" : "DC"
+}, {
+  "Order" : "G20093",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*G20093-3-1*",
+  "Customer" : "Punit jain",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "G20093",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*G20093-4-1*",
+  "Customer" : "Punit jain",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "S3805",
+  "Due Date" : "24 Sep 2026",
+  "Barcode" : "*S3805-2-4*",
+  "Customer" : "chodhry",
   "Garment" : "T Shirt",
   "Service" : "DC"
 } ]

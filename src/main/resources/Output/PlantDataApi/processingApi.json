@@ -1,49 +1,33 @@
 [ {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-5-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Dohar (Double)",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
+  "Order" : "C5225",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*C5225-1-3*",
+  "Customer" : "SRINIVAS",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "26 Sep 2026 2:09:45 PM"
 }, {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-6-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Bed Sheet Double",
+  "Order" : "C5226",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*C5226-1-3*",
+  "Customer" : "SRINIVAS",
+  "Garment" : "Waist Coat",
   "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
+  "Sent from store" : "26 Sep 2026 2:09:45 PM"
 }, {
-  "Order" : "C5224",
-  "Due Date" : "30 Sep 2026",
-  "Barcode" : "*C5224-10-3*",
-  "Customer" : "ananya ghosh",
-  "Garment" : "Hand Towel",
+  "Order" : "C5226",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*C5226-2-3*",
+  "Customer" : "SRINIVAS",
+  "Garment" : "Waist Coat",
   "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 2:29:21 PM"
+  "Sent from store" : "26 Sep 2026 2:09:45 PM"
 }, {
-  "Order" : "D3342",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*D3342-1-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 1:01:01 PM"
-}, {
-  "Order" : "D3342",
-  "Due Date" : "23 Sep 2026",
-  "Barcode" : "*D3342-2-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 1:01:01 PM"
-}, {
-  "Order" : "D3345",
-  "Due Date" : "27 Sep 2026",
-  "Barcode" : "*D3345-9-5*",
-  "Customer" : "Mr Manuj Gupta",
-  "Garment" : "Jeans",
-  "Service" : "DC",
-  "Sent from store" : "25 Sep 2026 1:01:01 PM"
+  "Order" : "D3351",
+  "Due Date" : "28 Sep 2026",
+  "Barcode" : "*D3351-1-5*",
+  "Customer" : "Katherine",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Sent from store" : "26 Sep 2026 11:55:38 AM"
 } ]
