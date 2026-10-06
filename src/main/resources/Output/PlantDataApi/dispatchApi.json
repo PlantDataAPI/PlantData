@@ -17,21 +17,57 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G20112",
-  "Due Date" : "01 Oct 2026",
-  "Barcode" : "*G20112-1-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Garment 1",
-  "Service" : "LA",
+  "Order" : "D3368",
+  "Due Date" : "08 Oct 2026",
+  "Barcode" : "*D3368-1-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G20133",
-  "Due Date" : "03 Oct 2026",
-  "Barcode" : "*G20133-1-1*",
-  "Store Name" : "Greenpark",
+  "Order" : "D3368",
+  "Due Date" : "08 Oct 2026",
+  "Barcode" : "*D3368-2-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3368",
+  "Due Date" : "08 Oct 2026",
+  "Barcode" : "*D3368-3-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3368",
+  "Due Date" : "08 Oct 2026",
+  "Barcode" : "*D3368-4-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3368",
+  "Due Date" : "08 Oct 2026",
+  "Barcode" : "*D3368-5-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Bed Spread Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3832",
+  "Due Date" : "07 Oct 2026",
+  "Barcode" : "*S3832-1-4*",
+  "Store Name" : "Saket",
   "Garment" : "Garment 1",
-  "Service" : "LA",
+  "Service" : "WF",
   "Receive in workshop" : "",
   "Customer" : ""
 } ]
