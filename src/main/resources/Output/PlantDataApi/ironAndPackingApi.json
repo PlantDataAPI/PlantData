@@ -132,41 +132,6 @@
   "Garment" : "Shirt",
   "Service" : "DC"
 }, {
-  "Order" : "G20160",
-  "Due Date" : "10 Oct 2026",
-  "Barcode" : "*G20160-1-1*",
-  "Customer" : "Alok",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20165",
-  "Due Date" : "09 Oct 2026",
-  "Barcode" : "*G20165-1-1*",
-  "Customer" : "Mr rohan",
-  "Garment" : "T Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20174",
-  "Due Date" : "10 Oct 2026",
-  "Barcode" : "*G20174-2-1*",
-  "Customer" : "Mr ashish jaIn",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20174",
-  "Due Date" : "10 Oct 2026",
-  "Barcode" : "*G20174-3-1*",
-  "Customer" : "Mr ashish jaIn",
-  "Garment" : "T Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20174",
-  "Due Date" : "10 Oct 2026",
-  "Barcode" : "*G20174-4-1*",
-  "Customer" : "Mr ashish jaIn",
-  "Garment" : "Jeans",
-  "Service" : "DC"
-}, {
   "Order" : "G20177",
   "Due Date" : "10 Oct 2026",
   "Barcode" : "*G20177-1-1*",
@@ -201,13 +166,6 @@
   "Customer" : "Mr sp singh",
   "Garment" : "Shirt",
   "Service" : "DC"
-}, {
-  "Order" : "G20187",
-  "Due Date" : "10 Oct 2026",
-  "Barcode" : "*G20187-1-1*",
-  "Customer" : "dr anish",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
 }, {
   "Order" : "G20189",
   "Due Date" : "11 Oct 2026",
@@ -417,13 +375,6 @@
   "Barcode" : "*G20205-5-1*",
   "Customer" : "sandeep sabbathi",
   "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "S3836",
-  "Due Date" : "09 Oct 2026",
-  "Barcode" : "*S3836-1-4*",
-  "Customer" : "roohani singh",
-  "Garment" : "T Shirt",
   "Service" : "DC"
 }, {
   "Order" : "S3837",
