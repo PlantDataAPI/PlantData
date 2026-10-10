@@ -1,17 +1,1 @@
-[ {
-  "Order" : "D3385",
-  "Due Date" : "12 Oct 2026",
-  "Barcode" : "*D3385-1-5*",
-  "Customer" : "Sumeru INC",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "10 Oct 2026 11:43:29 AM"
-}, {
-  "Order" : "D3386",
-  "Due Date" : "11 Oct 2026",
-  "Barcode" : "*D3386-1-5*",
-  "Customer" : "Mr Pawan panday",
-  "Garment" : "Garment 1",
-  "Service" : "WI",
-  "Sent from store" : "10 Oct 2026 11:43:29 AM"
-} ]
+[ { } ]
