@@ -419,13 +419,6 @@
   "Garment" : "Jeans",
   "Service" : "DC"
 }, {
-  "Order" : "G20247",
-  "Due Date" : "16 Oct 2026",
-  "Barcode" : "*G20247-1-1*",
-  "Customer" : "miss oberai",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
   "Order" : "G20251",
   "Due Date" : "17 Oct 2026",
   "Barcode" : "*G20251-1-1*",
@@ -579,13 +572,6 @@
   "Customer" : "Rajesh",
   "Garment" : "Shirt",
   "Service" : "DC"
-}, {
-  "Order" : "G20257",
-  "Due Date" : "16 Oct 2026",
-  "Barcode" : "*G20257-1-1*",
-  "Customer" : "Mr Shakti",
-  "Garment" : "Garment 1",
-  "Service" : "LA"
 }, {
   "Order" : "G20259",
   "Due Date" : "17 Oct 2026",
