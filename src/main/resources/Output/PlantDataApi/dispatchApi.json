@@ -1,1 +1,37 @@
-[ { } ]
+[ {
+  "Order" : "D3394",
+  "Due Date" : "17 Oct 2026",
+  "Barcode" : "*D3394-7-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Over Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3394",
+  "Due Date" : "17 Oct 2026",
+  "Barcode" : "*D3394-8-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Over Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G20252",
+  "Due Date" : "17 Oct 2026",
+  "Barcode" : "*G20252-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Quilt Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G20252",
+  "Due Date" : "17 Oct 2026",
+  "Barcode" : "*G20252-2-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Quilt Single",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
