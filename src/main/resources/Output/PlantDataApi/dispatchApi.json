@@ -1,35 +1,26 @@
 [ {
-  "Order" : "D3401",
-  "Due Date" : "19 Oct 2026",
-  "Barcode" : "*D3401-1-5*",
-  "Store Name" : "Defence Colony",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
   "Order" : "D3402",
   "Due Date" : "19 Oct 2026",
-  "Barcode" : "*D3402-1-5*",
+  "Barcode" : "*D3402-3-5*",
   "Store Name" : "Defence Colony",
-  "Garment" : "T Shirt",
+  "Garment" : "Bed Spread Single",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "D3402",
-  "Due Date" : "19 Oct 2026",
-  "Barcode" : "*D3402-2-5*",
-  "Store Name" : "Defence Colony",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "S3867",
+  "Order" : "G20275",
   "Due Date" : "18 Oct 2026",
-  "Barcode" : "*S3867-1-4*",
-  "Store Name" : "Saket",
+  "Barcode" : "*G20275-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Garment 1",
+  "Service" : "LA",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G20286",
+  "Due Date" : "19 Oct 2026",
+  "Barcode" : "*G20286-1-1*",
+  "Store Name" : "Greenpark",
   "Garment" : "Garment 1",
   "Service" : "WI",
   "Receive in workshop" : "",
