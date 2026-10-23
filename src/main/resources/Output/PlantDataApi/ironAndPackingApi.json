@@ -1,18 +1,4 @@
 [ {
-  "Order" : "C5317",
-  "Due Date" : "25 Oct 2026",
-  "Barcode" : "*C5317-3-3*",
-  "Customer" : "diya",
-  "Garment" : "Jacket",
-  "Service" : "DC"
-}, {
-  "Order" : "C5317",
-  "Due Date" : "25 Oct 2026",
-  "Barcode" : "*C5317-5-3*",
-  "Customer" : "diya",
-  "Garment" : "Quilt Single",
-  "Service" : "DC"
-}, {
   "Order" : "D3424",
   "Due Date" : "26 Oct 2026",
   "Barcode" : "*D3424-3-5*",
@@ -69,13 +55,6 @@
   "Garment" : "Pillow Covers (Cotton)",
   "Service" : "DC"
 }, {
-  "Order" : "G20337",
-  "Due Date" : "24 Oct 2026",
-  "Barcode" : "*G20337-1-1*",
-  "Customer" : "Mr adarsh",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
   "Order" : "G20339",
   "Due Date" : "24 Oct 2026",
   "Barcode" : "*G20339-1-1*",
@@ -125,13 +104,6 @@
   "Garment" : "Shirt",
   "Service" : "DC"
 }, {
-  "Order" : "G20350",
-  "Due Date" : "24 Oct 2026",
-  "Barcode" : "*G20350-1-1*",
-  "Customer" : "Vidita priyadarshani",
-  "Garment" : "Garment 1",
-  "Service" : "LA"
-}, {
   "Order" : "G20351",
   "Due Date" : "25 Oct 2026",
   "Barcode" : "*G20351-1-1*",
@@ -151,13 +123,6 @@
   "Barcode" : "*G20352-1-1*",
   "Customer" : "vijeth kanahalli",
   "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20352",
-  "Due Date" : "25 Oct 2026",
-  "Barcode" : "*G20352-2-1*",
-  "Customer" : "vijeth kanahalli",
-  "Garment" : "Shirt",
   "Service" : "DC"
 }, {
   "Order" : "G20352",
@@ -211,13 +176,6 @@
 }, {
   "Order" : "S3894",
   "Due Date" : "24 Oct 2026",
-  "Barcode" : "*S3894-5-4*",
-  "Customer" : "Ms geehls",
-  "Garment" : "Coat",
-  "Service" : "DC"
-}, {
-  "Order" : "S3894",
-  "Due Date" : "24 Oct 2026",
   "Barcode" : "*S3894-9-4*",
   "Customer" : "Ms geehls",
   "Garment" : "Top (Light)",
@@ -229,13 +187,6 @@
   "Customer" : "Arti kapoor",
   "Garment" : "Coat",
   "Service" : "DC"
-}, {
-  "Order" : "S3896",
-  "Due Date" : "25 Oct 2026",
-  "Barcode" : "*S3896-1-4*",
-  "Customer" : "Ms s dev",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
 }, {
   "Order" : "S3897",
   "Due Date" : "24 Oct 2026",
