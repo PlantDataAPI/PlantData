@@ -1,1 +1,46 @@
-[ { } ]
+[ {
+  "Order" : "D3424",
+  "Due Date" : "26 Oct 2026",
+  "Barcode" : "*D3424-3-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "PRDC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3424",
+  "Due Date" : "26 Oct 2026",
+  "Barcode" : "*D3424-5-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "PRDC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3424",
+  "Due Date" : "26 Oct 2026",
+  "Barcode" : "*D3424-6-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Shirt",
+  "Service" : "PRDC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3424",
+  "Due Date" : "26 Oct 2026",
+  "Barcode" : "*D3424-12-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "D3424",
+  "Due Date" : "26 Oct 2026",
+  "Barcode" : "*D3424-13-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]

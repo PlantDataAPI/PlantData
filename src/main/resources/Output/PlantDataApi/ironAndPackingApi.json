@@ -71,45 +71,10 @@
 }, {
   "Order" : "D3424",
   "Due Date" : "26 Oct 2026",
-  "Barcode" : "*D3424-3-5*",
-  "Customer" : "Mr Rakesh Kumar",
-  "Garment" : "Shirt",
-  "Service" : "PRDC"
-}, {
-  "Order" : "D3424",
-  "Due Date" : "26 Oct 2026",
   "Barcode" : "*D3424-4-5*",
   "Customer" : "Mr Rakesh Kumar",
   "Garment" : "Shirt",
   "Service" : "PRDC"
-}, {
-  "Order" : "D3424",
-  "Due Date" : "26 Oct 2026",
-  "Barcode" : "*D3424-5-5*",
-  "Customer" : "Mr Rakesh Kumar",
-  "Garment" : "Shirt",
-  "Service" : "PRDC"
-}, {
-  "Order" : "D3424",
-  "Due Date" : "26 Oct 2026",
-  "Barcode" : "*D3424-6-5*",
-  "Customer" : "Mr Rakesh Kumar",
-  "Garment" : "Shirt",
-  "Service" : "PRDC"
-}, {
-  "Order" : "D3424",
-  "Due Date" : "26 Oct 2026",
-  "Barcode" : "*D3424-12-5*",
-  "Customer" : "Mr Rakesh Kumar",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "D3424",
-  "Due Date" : "26 Oct 2026",
-  "Barcode" : "*D3424-13-5*",
-  "Customer" : "Mr Rakesh Kumar",
-  "Garment" : "Pants",
-  "Service" : "DC"
 }, {
   "Order" : "D3424",
   "Due Date" : "26 Oct 2026",
@@ -123,27 +88,6 @@
   "Barcode" : "*D3424-22-5*",
   "Customer" : "Mr Rakesh Kumar",
   "Garment" : "Pillow Covers (Cotton)",
-  "Service" : "DC"
-}, {
-  "Order" : "D3427",
-  "Due Date" : "25 Oct 2026",
-  "Barcode" : "*D3427-1-5*",
-  "Customer" : "Katherine",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
-  "Order" : "D3428",
-  "Due Date" : "25 Oct 2026",
-  "Barcode" : "*D3428-1-5*",
-  "Customer" : "Sethi",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "D3428",
-  "Due Date" : "25 Oct 2026",
-  "Barcode" : "*D3428-2-5*",
-  "Customer" : "Sethi",
-  "Garment" : "Jeans",
   "Service" : "DC"
 }, {
   "Order" : "D3430",
@@ -246,13 +190,6 @@
 }, {
   "Order" : "G20358",
   "Due Date" : "26 Oct 2026",
-  "Barcode" : "*G20358-2-1*",
-  "Customer" : "Ms amrita",
-  "Garment" : "Pants",
-  "Service" : "DC"
-}, {
-  "Order" : "G20358",
-  "Due Date" : "26 Oct 2026",
   "Barcode" : "*G20358-3-1*",
   "Customer" : "Ms amrita",
   "Garment" : "T Shirt",
@@ -281,13 +218,6 @@
 }, {
   "Order" : "G20362",
   "Due Date" : "26 Oct 2026",
-  "Barcode" : "*G20362-1-1*",
-  "Customer" : "Mr rohan",
-  "Garment" : "Tshirt (Woolen)",
-  "Service" : "DC"
-}, {
-  "Order" : "G20362",
-  "Due Date" : "26 Oct 2026",
   "Barcode" : "*G20362-2-1*",
   "Customer" : "Mr rohan",
   "Garment" : "Tshirt (Woolen)",
@@ -299,34 +229,6 @@
   "Customer" : "Mr rohan",
   "Garment" : "T Shirt",
   "Service" : "DC"
-}, {
-  "Order" : "G20363",
-  "Due Date" : "26 Oct 2026",
-  "Barcode" : "*G20363-6-1*",
-  "Customer" : "Mr kamal shrivastava",
-  "Garment" : "Shirt",
-  "Service" : "SPO"
-}, {
-  "Order" : "G20363",
-  "Due Date" : "26 Oct 2026",
-  "Barcode" : "*G20363-7-1*",
-  "Customer" : "Mr kamal shrivastava",
-  "Garment" : "Shirt",
-  "Service" : "SPO"
-}, {
-  "Order" : "G20363",
-  "Due Date" : "26 Oct 2026",
-  "Barcode" : "*G20363-8-1*",
-  "Customer" : "Mr kamal shrivastava",
-  "Garment" : "Shirt",
-  "Service" : "SPO"
-}, {
-  "Order" : "G20363",
-  "Due Date" : "26 Oct 2026",
-  "Barcode" : "*G20363-9-1*",
-  "Customer" : "Mr kamal shrivastava",
-  "Garment" : "Pants",
-  "Service" : "SPO"
 }, {
   "Order" : "G20364",
   "Due Date" : "26 Oct 2026",
