@@ -7,4 +7,85 @@
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
+}, {
+  "Order" : "D3434",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*D3434-5-5*",
+  "Store Name" : "Defence Colony",
+  "Garment" : "Pillow Covers (Cotton)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G20390",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*G20390-2-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G20391",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*G20391-2-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Blanket Double",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G20391",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*G20391-3-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3913",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*S3913-2-4*",
+  "Store Name" : "Saket",
+  "Garment" : "T Shirt",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3913",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*S3913-3-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Jeans",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3916",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*S3916-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Kurta Light",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3916",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*S3916-2-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Pyjama (Light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3916",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*S3916-3-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Pyjama (Heavy)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
 } ]
