@@ -8,11 +8,20 @@
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G20387",
-  "Due Date" : "29 Oct 2026",
-  "Barcode" : "*G20387-1-1*",
+  "Order" : "G20385",
+  "Due Date" : "28 Oct 2026",
+  "Barcode" : "*G20385-1-1*",
   "Store Name" : "Greenpark",
-  "Garment" : "Quilt Double",
+  "Garment" : "Garment 1",
+  "Service" : "WI",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G20399",
+  "Due Date" : "29 Oct 2026",
+  "Barcode" : "*G20399-8-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
