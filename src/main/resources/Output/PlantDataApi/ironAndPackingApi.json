@@ -1,20 +1,6 @@
 [ {
   "Order" : "G20445",
   "Due Date" : "02 Nov 2026",
-  "Barcode" : "*G20445-16-1*",
-  "Customer" : "Abhik Prabhu",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20445",
-  "Due Date" : "02 Nov 2026",
-  "Barcode" : "*G20445-17-1*",
-  "Customer" : "Abhik Prabhu",
-  "Garment" : "Shirt",
-  "Service" : "DC"
-}, {
-  "Order" : "G20445",
-  "Due Date" : "02 Nov 2026",
   "Barcode" : "*G20445-18-1*",
   "Customer" : "Abhik Prabhu",
   "Garment" : "Shirt",
@@ -377,13 +363,6 @@
   "Garment" : "Pants",
   "Service" : "DC"
 }, {
-  "Order" : "G20428",
-  "Due Date" : "31 Oct 2026",
-  "Barcode" : "*G20428-1-1*",
-  "Customer" : "Mr umesh",
-  "Garment" : "Jacket",
-  "Service" : "DC"
-}, {
   "Order" : "G20430",
   "Due Date" : "01 Nov 2026",
   "Barcode" : "*G20430-2-1*",
@@ -559,13 +538,6 @@
   "Garment" : "Shirt",
   "Service" : "DC"
 }, {
-  "Order" : "G20440",
-  "Due Date" : "01 Nov 2026",
-  "Barcode" : "*G20440-1-1*",
-  "Customer" : "Mr Hassan",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
-}, {
   "Order" : "G20442",
   "Due Date" : "01 Nov 2026",
   "Barcode" : "*G20442-2-1*",
@@ -674,6 +646,20 @@
   "Order" : "G20445",
   "Due Date" : "02 Nov 2026",
   "Barcode" : "*G20445-15-1*",
+  "Customer" : "Abhik Prabhu",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "G20445",
+  "Due Date" : "02 Nov 2026",
+  "Barcode" : "*G20445-16-1*",
+  "Customer" : "Abhik Prabhu",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
+  "Order" : "G20445",
+  "Due Date" : "02 Nov 2026",
+  "Barcode" : "*G20445-17-1*",
   "Customer" : "Abhik Prabhu",
   "Garment" : "Shirt",
   "Service" : "DC"
