@@ -1,1 +1,19 @@
-[ { } ]
+[ {
+  "Order" : "S3972",
+  "Due Date" : "07 Nov 2026",
+  "Barcode" : "*S3972-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Kurta Heavy",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3972",
+  "Due Date" : "07 Nov 2026",
+  "Barcode" : "*S3972-2-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+} ]
