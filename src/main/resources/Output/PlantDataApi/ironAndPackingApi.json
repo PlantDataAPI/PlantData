@@ -111,6 +111,13 @@
   "Garment" : "Shirt",
   "Service" : "DC"
 }, {
+  "Order" : "D3466",
+  "Due Date" : "11 Nov 2026",
+  "Barcode" : "*D3466-3-5*",
+  "Customer" : "Ms Jyoti",
+  "Garment" : "Shirt",
+  "Service" : "DC"
+}, {
   "Order" : "G20523",
   "Due Date" : "09 Nov 2026",
   "Barcode" : "*G20523-1-1*",
@@ -159,13 +166,6 @@
   "Customer" : "Rajesh",
   "Garment" : "Shirt",
   "Service" : "DC"
-}, {
-  "Order" : "G20531",
-  "Due Date" : "09 Nov 2026",
-  "Barcode" : "*G20531-1-1*",
-  "Customer" : "Mr abhyudaye",
-  "Garment" : "Garment 1",
-  "Service" : "WI"
 }, {
   "Order" : "G20535",
   "Due Date" : "11 Nov 2026",
