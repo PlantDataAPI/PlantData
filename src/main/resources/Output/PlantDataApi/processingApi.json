@@ -199,6 +199,14 @@
   "Service" : "DC",
   "Sent from store" : "09 Nov 2026 5:38:54 PM"
 }, {
+  "Order" : "D3476",
+  "Due Date" : "13 Nov 2026",
+  "Barcode" : "*D3476-2-5*",
+  "Customer" : "Mrs Khandwal",
+  "Garment" : "Kurta + Pants/Salwar/Churidar (Plain)",
+  "Service" : "DC",
+  "Sent from store" : "11 Nov 2026 11:54:32 AM"
+}, {
   "Order" : "D3477",
   "Due Date" : "14 Nov 2026",
   "Barcode" : "*D3477-1-5*",
