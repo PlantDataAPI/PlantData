@@ -1,233 +1,97 @@
 [ {
-  "Order" : "C5449",
-  "Due Date" : "16 Nov 2026",
-  "Barcode" : "*C5449-1-3*",
-  "Customer" : "salam azad",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
-}, {
-  "Order" : "C5449",
-  "Due Date" : "16 Nov 2026",
-  "Barcode" : "*C5449-2-3*",
-  "Customer" : "salam azad",
+  "Order" : "C5455",
+  "Due Date" : "15 Nov 2026",
+  "Barcode" : "*C5455-1-3*",
+  "Customer" : "Mr joshua",
   "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
+  "Service" : "SPO",
+  "Sent from store" : "14 Nov 2026 2:14:02 PM"
 }, {
-  "Order" : "C5450",
+  "Order" : "C5455",
+  "Due Date" : "15 Nov 2026",
+  "Barcode" : "*C5455-2-3*",
+  "Customer" : "Mr joshua",
+  "Garment" : "Shirt",
+  "Service" : "SPO",
+  "Sent from store" : "14 Nov 2026 2:14:02 PM"
+}, {
+  "Order" : "C5455",
+  "Due Date" : "15 Nov 2026",
+  "Barcode" : "*C5455-3-3*",
+  "Customer" : "Mr joshua",
+  "Garment" : "Shirt",
+  "Service" : "SPO",
+  "Sent from store" : "14 Nov 2026 2:14:02 PM"
+}, {
+  "Order" : "C5455",
+  "Due Date" : "15 Nov 2026",
+  "Barcode" : "*C5455-4-3*",
+  "Customer" : "Mr joshua",
+  "Garment" : "Shirt",
+  "Service" : "SPO",
+  "Sent from store" : "14 Nov 2026 2:14:02 PM"
+}, {
+  "Order" : "C5455",
+  "Due Date" : "15 Nov 2026",
+  "Barcode" : "*C5455-5-3*",
+  "Customer" : "Mr joshua",
+  "Garment" : "Shirt",
+  "Service" : "SPO",
+  "Sent from store" : "14 Nov 2026 2:14:02 PM"
+}, {
+  "Order" : "C5455",
+  "Due Date" : "15 Nov 2026",
+  "Barcode" : "*C5455-6-3*",
+  "Customer" : "Mr joshua",
+  "Garment" : "Shirt",
+  "Service" : "SPO",
+  "Sent from store" : "14 Nov 2026 2:14:02 PM"
+}, {
+  "Order" : "C5455",
+  "Due Date" : "15 Nov 2026",
+  "Barcode" : "*C5455-7-3*",
+  "Customer" : "Mr joshua",
+  "Garment" : "Shirt",
+  "Service" : "SPO",
+  "Sent from store" : "14 Nov 2026 2:14:02 PM"
+}, {
+  "Order" : "C5455",
+  "Due Date" : "15 Nov 2026",
+  "Barcode" : "*C5455-8-3*",
+  "Customer" : "Mr joshua",
+  "Garment" : "Pants",
+  "Service" : "SPO",
+  "Sent from store" : "14 Nov 2026 2:14:02 PM"
+}, {
+  "Order" : "C5456",
+  "Due Date" : "18 Nov 2026",
+  "Barcode" : "*C5456-1-3*",
+  "Customer" : "Mr joshua",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Sent from store" : "14 Nov 2026 2:14:02 PM"
+}, {
+  "Order" : "D3489",
   "Due Date" : "16 Nov 2026",
-  "Barcode" : "*C5450-1-3*",
-  "Customer" : "Mr hugo chang",
-  "Garment" : "Jacket",
+  "Barcode" : "*D3489-1-5*",
+  "Customer" : "amvika ariya",
+  "Garment" : "Overcoat",
   "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
+  "Sent from store" : "14 Nov 2026 12:27:40 PM"
 }, {
-  "Order" : "C5450",
+  "Order" : "D3489",
   "Due Date" : "16 Nov 2026",
-  "Barcode" : "*C5450-2-3*",
-  "Customer" : "Mr hugo chang",
-  "Garment" : "Jacket",
+  "Barcode" : "*D3489-2-5*",
+  "Customer" : "amvika ariya",
+  "Garment" : "Sweat Pants",
   "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
+  "Sent from store" : "14 Nov 2026 12:27:40 PM"
 }, {
-  "Order" : "C5450",
+  "Order" : "D3490",
   "Due Date" : "16 Nov 2026",
-  "Barcode" : "*C5450-3-3*",
-  "Customer" : "Mr hugo chang",
-  "Garment" : "Jacket",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
-}, {
-  "Order" : "C5450",
-  "Due Date" : "16 Nov 2026",
-  "Barcode" : "*C5450-4-3*",
-  "Customer" : "Mr hugo chang",
-  "Garment" : "Jacket",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
-}, {
-  "Order" : "C5450",
-  "Due Date" : "16 Nov 2026",
-  "Barcode" : "*C5450-5-3*",
-  "Customer" : "Mr hugo chang",
-  "Garment" : "Sweat Shirt",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
-}, {
-  "Order" : "C5450",
-  "Due Date" : "16 Nov 2026",
-  "Barcode" : "*C5450-6-3*",
-  "Customer" : "Mr hugo chang",
-  "Garment" : "Sweat Shirt",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
-}, {
-  "Order" : "C5450",
-  "Due Date" : "16 Nov 2026",
-  "Barcode" : "*C5450-7-3*",
-  "Customer" : "Mr hugo chang",
-  "Garment" : "Sweat Shirt",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
-}, {
-  "Order" : "C5451",
-  "Due Date" : "14 Nov 2026",
-  "Barcode" : "*C5451-1-3*",
-  "Customer" : "Mr hugo chang",
+  "Barcode" : "*D3490-1-5*",
+  "Customer" : "Mr Das Gupta",
   "Garment" : "Garment 1",
-  "Service" : "WF",
-  "Sent from store" : "13 Nov 2026 2:26:24 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-1-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Quilt Double",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-2-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Pillow (Small)",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-3-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Pillow (Small)",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-4-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Pillow (Small)",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-5-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Jacket",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-6-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Jacket",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-7-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-8-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-9-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Pants",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-10-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-11-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Foot Mats",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-12-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Foot Mats",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-13-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Foot Mats",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-14-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Foot Mats",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-15-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Foot Mats",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-16-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Coat",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3994",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3994-17-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3995",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3995-1-4*",
-  "Customer" : "Raghav khurana",
-  "Garment" : "Waist Coat",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
-}, {
-  "Order" : "S3996",
-  "Due Date" : "15 Nov 2026",
-  "Barcode" : "*S3996-1-4*",
-  "Customer" : "Mr ashish",
-  "Garment" : "Sports Jacket",
-  "Service" : "DC",
-  "Sent from store" : "13 Nov 2026 4:05:17 PM"
+  "Service" : "WI",
+  "Sent from store" : "14 Nov 2026 12:27:40 PM"
 } ]
