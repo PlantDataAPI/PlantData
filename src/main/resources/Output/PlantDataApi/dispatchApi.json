@@ -1,4 +1,22 @@
 [ {
+  "Order" : "C5449",
+  "Due Date" : "16 Nov 2026",
+  "Barcode" : "*C5449-1-3*",
+  "Store Name" : "CR Park",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "G20592",
+  "Due Date" : "16 Nov 2026",
+  "Barcode" : "*G20592-1-1*",
+  "Store Name" : "Greenpark",
+  "Garment" : "Pyjama (Light)",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
   "Order" : "S3985",
   "Due Date" : "15 Nov 2026",
   "Barcode" : "*S3985-5-4*",
@@ -10,9 +28,36 @@
 }, {
   "Order" : "S3988",
   "Due Date" : "16 Nov 2026",
+  "Barcode" : "*S3988-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3988",
+  "Due Date" : "16 Nov 2026",
+  "Barcode" : "*S3988-2-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3988",
+  "Due Date" : "16 Nov 2026",
   "Barcode" : "*S3988-3-4*",
   "Store Name" : "Saket",
   "Garment" : "Waist Coat",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S3994",
+  "Due Date" : "15 Nov 2026",
+  "Barcode" : "*S3994-8-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Pants",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
