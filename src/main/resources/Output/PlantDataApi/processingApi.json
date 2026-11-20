@@ -1,49 +1,57 @@
 [ {
-  "Order" : "C5489",
-  "Due Date" : "23 Nov 2026",
-  "Barcode" : "*C5489-1-3*",
-  "Customer" : "chingtham",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Sent from store" : "19 Nov 2026 1:49:20 PM"
-}, {
-  "Order" : "C5489",
-  "Due Date" : "23 Nov 2026",
-  "Barcode" : "*C5489-2-3*",
-  "Customer" : "chingtham",
-  "Garment" : "Pyjama (Light)",
-  "Service" : "DC",
-  "Sent from store" : "19 Nov 2026 1:49:20 PM"
-}, {
-  "Order" : "C5489",
-  "Due Date" : "23 Nov 2026",
-  "Barcode" : "*C5489-3-3*",
-  "Customer" : "chingtham",
-  "Garment" : "Kurta Light",
-  "Service" : "DC",
-  "Sent from store" : "19 Nov 2026 1:49:20 PM"
-}, {
-  "Order" : "C5489",
-  "Due Date" : "23 Nov 2026",
-  "Barcode" : "*C5489-4-3*",
-  "Customer" : "chingtham",
-  "Garment" : "Quilt Single",
-  "Service" : "DC",
-  "Sent from store" : "19 Nov 2026 1:49:20 PM"
-}, {
-  "Order" : "C5490",
+  "Order" : "C5497",
   "Due Date" : "22 Nov 2026",
-  "Barcode" : "*C5490-1-3*",
-  "Customer" : "Nikhel",
+  "Barcode" : "*C5497-1-3*",
+  "Customer" : "adhiraj singh",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Sent from store" : "20 Nov 2026 4:33:33 PM"
+}, {
+  "Order" : "C5498",
+  "Due Date" : "21 Nov 2026",
+  "Barcode" : "*C5498-1-3*",
+  "Customer" : "Mr hugo chang",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Sent from store" : "20 Nov 2026 4:33:33 PM"
+}, {
+  "Order" : "C5500",
+  "Due Date" : "22 Nov 2026",
+  "Barcode" : "*C5500-1-3*",
+  "Customer" : "Mr yannick guly",
+  "Garment" : "Garment 1",
+  "Service" : "WF",
+  "Sent from store" : "20 Nov 2026 4:33:33 PM"
+}, {
+  "Order" : "G20698",
+  "Due Date" : "22 Nov 2026",
+  "Barcode" : "*G20698-1-1*",
+  "Customer" : "Mr Pravash",
   "Garment" : "Coat",
   "Service" : "DC",
-  "Sent from store" : "19 Nov 2026 1:49:20 PM"
+  "Sent from store" : "20 Nov 2026 2:06:11 PM"
 }, {
-  "Order" : "C5490",
+  "Order" : "G20698",
   "Due Date" : "22 Nov 2026",
-  "Barcode" : "*C5490-2-3*",
-  "Customer" : "Nikhel",
-  "Garment" : "Waist Coat",
+  "Barcode" : "*G20698-2-1*",
+  "Customer" : "Mr Pravash",
+  "Garment" : "Coat",
   "Service" : "DC",
-  "Sent from store" : "19 Nov 2026 1:49:20 PM"
+  "Sent from store" : "20 Nov 2026 2:06:11 PM"
+}, {
+  "Order" : "S4038",
+  "Due Date" : "23 Nov 2026",
+  "Barcode" : "*S4038-1-4*",
+  "Customer" : "Mr virender singh( delhi police malviya nagar thane )",
+  "Garment" : "Blanket Double",
+  "Service" : "DC",
+  "Sent from store" : "20 Nov 2026 11:53:26 AM"
+}, {
+  "Order" : "S4039",
+  "Due Date" : "23 Nov 2026",
+  "Barcode" : "*S4039-1-4*",
+  "Customer" : "ajay kuamar",
+  "Garment" : "Track Pant",
+  "Service" : "DC",
+  "Sent from store" : "20 Nov 2026 4:22:41 PM"
 } ]
