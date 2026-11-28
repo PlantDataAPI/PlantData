@@ -1,99 +1,45 @@
 [ {
-  "Order" : "C5510",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*C5510-1-3*",
-  "Store Name" : "CR Park",
-  "Garment" : "Jacket",
+  "Order" : "S4048",
+  "Due Date" : "29 Nov 2026",
+  "Barcode" : "*S4048-1-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "C5510",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*C5510-2-3*",
-  "Store Name" : "CR Park",
-  "Garment" : "Jacket",
+  "Order" : "S4048",
+  "Due Date" : "29 Nov 2026",
+  "Barcode" : "*S4048-2-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "C5515",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*C5515-11-3*",
-  "Store Name" : "CR Park",
-  "Garment" : "T Shirt",
+  "Order" : "S4048",
+  "Due Date" : "29 Nov 2026",
+  "Barcode" : "*S4048-3-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Shirt",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "C5515",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*C5515-13-3*",
-  "Store Name" : "CR Park",
+  "Order" : "S4048",
+  "Due Date" : "29 Nov 2026",
+  "Barcode" : "*S4048-6-4*",
+  "Store Name" : "Saket",
   "Garment" : "Pants",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
 }, {
-  "Order" : "G20737",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*G20737-2-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G20737",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*G20737-3-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "T Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G20742",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*G20742-3-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G20745",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*G20745-3-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G20745",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*G20745-6-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Shirt",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G20745",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*G20745-9-1*",
-  "Store Name" : "Greenpark",
+  "Order" : "S4059",
+  "Due Date" : "30 Nov 2026",
+  "Barcode" : "*S4059-1-4*",
+  "Store Name" : "Saket",
   "Garment" : "Jacket",
-  "Service" : "DC",
-  "Receive in workshop" : "",
-  "Customer" : ""
-}, {
-  "Order" : "G20745",
-  "Due Date" : "28 Nov 2026",
-  "Barcode" : "*G20745-15-1*",
-  "Store Name" : "Greenpark",
-  "Garment" : "Kameez /Kurta (light)",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
@@ -121,6 +67,15 @@
   "Barcode" : "*S4060-5-4*",
   "Store Name" : "Saket",
   "Garment" : "Pants",
+  "Service" : "DC",
+  "Receive in workshop" : "",
+  "Customer" : ""
+}, {
+  "Order" : "S4069",
+  "Due Date" : "28 Nov 2026",
+  "Barcode" : "*S4069-9-4*",
+  "Store Name" : "Saket",
+  "Garment" : "Kurta Light",
   "Service" : "DC",
   "Receive in workshop" : "",
   "Customer" : ""
